@@ -82,6 +82,18 @@ function setupEventListeners() {
     // Back to portal button
     document.getElementById('back-to-portal').addEventListener('click', exitClassroomMode);
 
+    // Projection mode toggle
+    document.getElementById('toggle-projection').addEventListener('click', () => {
+        document.body.classList.toggle('projection-mode');
+        const isProjection = document.body.classList.contains('projection-mode');
+        const btn = document.getElementById('toggle-projection');
+        if (isProjection) {
+            btn.innerHTML = `<i class="fa-solid fa-compress"></i> 標準模式`;
+        } else {
+            btn.innerHTML = `<i class="fa-solid fa-expand"></i> 投影模式`;
+        }
+    });
+
     // Timeline tab segment clicks
     document.querySelectorAll('.timeline-segment').forEach(seg => {
         seg.addEventListener('click', () => {
@@ -314,6 +326,10 @@ function exitClassroomMode() {
     clearInterval(classTimerInterval);
     clearInterval(gameState.gameInterval);
     clearTimeout(gameState.aiTimer);
+    
+    // Reset projection mode
+    document.body.classList.remove('projection-mode');
+    document.getElementById('toggle-projection').innerHTML = '<i class="fa-solid fa-expand"></i> 投影模式';
     
     const portal = document.getElementById('portal-screen');
     const classroom = document.getElementById('classroom-screen');
@@ -597,42 +613,35 @@ function renderSlideContent() {
         });
     } else {
         // Grammar mode
-        const practicesHtml = slide.practices.length > 0 
-            ? slide.practices.map(p => `<li style="margin-left: 20px; margin-bottom: 8px;">${p}</li>`).join('')
-            : '<li>暫無課本句型練習題目。</li>';
-            
         const examplesHtml = slide.examples.length > 0 
             ? slide.examples.map(ex => {
-                // Highlight words like that, who, which, or key structures
-                let highlightedEx = ex;
+                let highlightedEx = ex.en;
                 const highlightWords = ['that', 'which', 'who', 'whose', 'whom', 'where', 'when', 'why', 'how', 'because', 'so', 'if', 'surprised', 'worried', 'sure'];
                 highlightWords.forEach(w => {
                     const r = new RegExp(`\\b(${w})\\b`, 'gi');
                     highlightedEx = highlightedEx.replace(r, '<span class="grammar-highlight">$1</span>');
                 });
-                return `<div class="slide-example-item">${highlightedEx}</div>`;
+                return `
+                    <div class="slide-example-item" style="margin-bottom: 12px;">
+                        <div style="font-weight: 500;">${highlightedEx}</div>
+                        <div style="font-size: 0.9rem; color: var(--color-text-muted); margin-top: 6px;">（${ex.ch}）</div>
+                    </div>
+                `;
             }).join('')
-            : '<p>暫無課本句型範例。</p>';
+            : '<p>暫無句型例句。</p>';
             
         card.innerHTML = `
             <div class="slide-word-container" style="overflow-y: auto; max-height: 480px; padding-right:10px;">
                 <div class="slide-formula">${slide.formula}</div>
                 
-                <div class="slide-def-box" style="margin-bottom:20px;">
-                    <div class="slide-label">句型重點解析</div>
-                    <p class="slide-explanation">${slide.explanation || '在此複習中，老師重點講授上述文法結構之組合方式與句型意義。'}</p>
+                <div class="slide-def-box" style="margin-bottom:24px;">
+                    <div class="slide-label">文法句型解析</div>
+                    <p class="slide-explanation" style="line-height:1.7;">${slide.explanation || '在此複習中，老師重點講授上述文法結構之組合方式與句型意義。'}</p>
                 </div>
                 
-                <div class="slide-def-box" style="margin-bottom:20px;">
-                    <div class="slide-label">課本經典例句</div>
-                    <div class="slide-examples-list">${examplesHtml}</div>
-                </div>
-
                 <div class="slide-def-box">
-                    <div class="slide-label">課後句型組合練習</div>
-                    <ul class="slide-explanation" style="list-style-type: decimal; padding-left: 10px;">
-                        ${practicesHtml}
-                    </ul>
+                    <div class="slide-label">經典對照例句</div>
+                    <div class="slide-examples-list">${examplesHtml}</div>
                 </div>
             </div>
         `;
@@ -803,7 +812,7 @@ function loadNextQuestion() {
         // Sentence unscramble
         const items = currentType === 'vocabulary' 
             ? lessonData.vocabulary.filter(w => w.example_en && w.example_en.length > 20)
-            : lessonData.grammar.flatMap(g => g.examples.map(ex => ({ example_en: ex, chinese: '請重組以下英文句子使得語法結構正確：' })));
+            : lessonData.grammar.flatMap(g => g.examples.map(ex => ({ example_en: ex.en, chinese: ex.ch })));
             
         if (items.length === 0) {
             viewport.innerHTML = '<p class="slide-placeholder">暫無例句進行重組挑戰，請先閱讀課程例句</p>';
@@ -878,7 +887,8 @@ function loadNextQuestion() {
             return;
         }
         
-        const ex = examples[Math.floor(Math.random() * examples.length)];
+        const exObj = examples[Math.floor(Math.random() * examples.length)];
+        const ex = exObj.en;
         
         // Find a word to blank out, e.g. "that", "who", "which", etc.
         const matchWords = ['that', 'which', 'who', 'whose', 'whom', 'where', 'when', 'why', 'how', 'because', 'so', 'if', 'surprised', 'worried', 'sure'];

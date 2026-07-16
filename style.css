@@ -1682,3 +1682,188 @@ body {
 .modal-btn.secondary:hover {
     background: rgba(255,255,255,0.1);
 }
+
+/* ==========================================
+   PROJECTION / CLASSROOM MODE (FONT SCALING)
+   ========================================== */
+body.projection-mode {
+    --bg-gradient: linear-gradient(135deg, #020617 0%, #0f172a 100%);
+}
+
+body.projection-mode .classroom-workspace {
+    padding: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Session 1: Flashcards Overview scaling */
+body.projection-mode .card-word {
+    font-size: 2.8rem !important;
+}
+body.projection-mode .card-pos-chinese {
+    font-size: 1.8rem !important;
+}
+body.projection-mode .card-example {
+    font-size: 1.45rem !important;
+    line-height: 1.6;
+}
+
+/* Session 2: Slide Presentation scaling */
+body.projection-mode .slide-word {
+    font-size: 3.8rem !important;
+}
+body.projection-mode .slide-pron {
+    font-size: 1.8rem !important;
+}
+body.projection-mode .slide-pos-pill {
+    font-size: 1.2rem !important;
+    padding: 6px 18px !important;
+}
+body.projection-mode .slide-chinese-def {
+    font-size: 2.2rem !important;
+}
+body.projection-mode .slide-english-def {
+    font-size: 1.5rem !important;
+}
+body.projection-mode .slide-example-en {
+    font-size: 1.9rem !important;
+    line-height: 1.6 !important;
+}
+body.projection-mode .slide-formula {
+    font-size: 2.4rem !important;
+    padding: 28px !important;
+}
+body.projection-mode .slide-explanation {
+    font-size: 1.6rem !important;
+    line-height: 1.8 !important;
+}
+body.projection-mode .slide-example-item {
+    font-size: 1.6rem !important;
+    padding: 20px 24px !important;
+}
+body.projection-mode .slide-example-item div {
+    font-size: 1.6rem !important;
+    line-height: 1.6 !important;
+}
+body.projection-mode .slide-example-item div[style*="font-size: 0.9rem"] {
+    font-size: 1.3rem !important;
+    margin-top: 10px !important;
+}
+body.projection-mode .slide-label {
+    font-size: 1.1rem !important;
+    margin-bottom: 12px !important;
+}
+
+/* Session 3: Games scaling */
+body.projection-mode .game-info h3 {
+    font-size: 1.8rem !important;
+}
+body.projection-mode .game-info p {
+    font-size: 1.2rem !important;
+}
+body.projection-mode .spell-hint-chinese {
+    font-size: 2.4rem !important;
+}
+body.projection-mode .spell-box {
+    width: 55px !important;
+    height: 60px !important;
+    font-size: 2.5rem !important;
+}
+body.projection-mode .spell-keyboard {
+    max-width: 680px !important;
+    gap: 12px !important;
+}
+body.projection-mode .key-btn {
+    width: 56px !important;
+    height: 56px !important;
+    font-size: 1.6rem !important;
+    border-radius: 12px !important;
+}
+body.projection-mode .key-btn.backspace {
+    width: 100px !important;
+}
+body.projection-mode .quiz-question-box {
+    font-size: 2.2rem !important;
+    padding: 30px !important;
+    line-height: 1.6 !important;
+}
+body.projection-mode .quiz-options-grid {
+    gap: 20px !important;
+}
+body.projection-mode .option-btn {
+    font-size: 1.6rem !important;
+    padding: 24px !important;
+    border-radius: 16px !important;
+}
+body.projection-mode .option-marker {
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 1.3rem !important;
+}
+body.projection-mode .unscramble-chinese {
+    font-size: 2.2rem !important;
+    line-height: 1.6 !important;
+}
+body.projection-mode .unscramble-workspace {
+    min-height: 130px !important;
+    padding: 24px !important;
+    gap: 12px !important;
+    border-width: 3px !important;
+}
+body.projection-mode .word-card-block {
+    font-size: 1.5rem !important;
+    padding: 12px 24px !important;
+    border-radius: 12px !important;
+}
+body.projection-mode .unscramble-actions .unscramble-btn {
+    font-size: 1.3rem !important;
+    padding: 12px 28px !important;
+    border-radius: 12px !important;
+}
+body.projection-mode .boss-art {
+    font-size: 7rem !important;
+}
+body.projection-mode .boss-hp-bar {
+    width: 220px !important;
+    height: 14px !important;
+}
+body.projection-mode .fighter-info h4 {
+    font-size: 1.6rem !important;
+}
+body.projection-mode .hp-bar-container {
+    height: 24px !important;
+}
+body.projection-mode .hp-text {
+    font-size: 1rem !important;
+}
+body.projection-mode .score-pill {
+    font-size: 1.3rem !important;
+    padding: 8px 16px !important;
+}
+body.projection-mode .timeline-segment .seg-title {
+    font-size: 1.3rem !important;
+}
+body.projection-mode .timeline-segment .seg-time {
+    font-size: 1.1rem !important;
+}
+body.projection-mode .class-info h2 {
+    font-size: 2.2rem !important;
+}
+body.projection-mode .class-info p {
+    font-size: 1.4rem !important;
+}
+body.projection-mode #time-display {
+    font-size: 1.7rem !important;
+}
+body.projection-mode .back-btn {
+    font-size: 1.2rem !important;
+    padding: 10px 20px !important;
+}
+body.projection-mode .control-btn {
+    font-size: 1.3rem !important;
+    padding: 14px 28px !important;
+}
+body.projection-mode #slide-progress-indicator {
+    font-size: 1.2rem !important;
+}
+
