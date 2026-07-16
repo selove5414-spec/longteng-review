@@ -810,10 +810,46 @@ function loadNextQuestion() {
             return;
         }
         
-        const qItem = items[Math.floor(Math.random() * items.length)];
-        // Strip ending period and double spaces for clean word division
-        const rawSentence = qItem.example_en.replace(/[\.\,\?\!\;]/g, '').trim();
-        const words = rawSentence.split(/\s+/);
+                const qItem = items[Math.floor(Math.random() * items.length)];
+        
+        // Helper to split a sentence into chunks of words (2-3 words per card)
+        const splitIntoChunks = (sentence) => {
+            const cleanSentence = sentence.replace(/[\.\,\?\!\;\:\-\—]/g, '').trim();
+            const wordsList = cleanSentence.split(/\s+/);
+            const N = wordsList.length;
+            
+            let numChunks = 3;
+            if (N <= 5) {
+                numChunks = 2;
+            } else if (N <= 8) {
+                numChunks = 3;
+            } else if (N <= 12) {
+                numChunks = 4;
+            } else if (N <= 16) {
+                numChunks = 5;
+            } else {
+                numChunks = 6;
+            }
+            
+            const chunks = [];
+            const wordsPerChunk = Math.floor(N / numChunks);
+            let extraWords = N % numChunks;
+            
+            let currentIndex = 0;
+            for (let i = 0; i < numChunks; i++) {
+                let chunkSize = wordsPerChunk + (extraWords > 0 ? 1 : 0);
+                extraWords--;
+                
+                const chunkWords = wordsList.slice(currentIndex, currentIndex + chunkSize);
+                if (chunkWords.length > 0) {
+                    chunks.push(chunkWords.join(' '));
+                }
+                currentIndex += chunkSize;
+            }
+            return chunks;
+        };
+
+        const words = splitIntoChunks(qItem.example_en);
         
         gameState.currentQuestion = {
             chineseHint: qItem.chinese || '請依照語法重組句子：',
