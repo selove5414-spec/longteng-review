@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>龍騰 1~4 冊英文總複習與互動 PK 競技場</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Glow Elements -->
+    <div class="bg-glow glow-1"></div>
+    <div class="bg-glow glow-2"></div>
+
+    <!-- MAIN PORTAL CONTAINER -->
+    <div id="portal-screen" class="screen active">
+        <header class="portal-header">
+            <div class="logo">
+                <span class="logo-accent"><i class="fa-solid fa-graduation-cap"></i> LONGTENG</span> ENGLISH
+            </div>
+            <h1>龍騰 1~4 冊總複習 <span class="badge">互動學習網</span></h1>
+            <p class="subtitle">單字精準加強 • 句型文法突破 • 線上即時 PK 競技場</p>
+        </header>
+
+        <main class="portal-content">
+            <!-- Book Select Cards -->
+            <section class="book-selection">
+                <h2 class="section-title"><i class="fa-solid fa-book-open"></i> 請選擇複習冊別</h2>
+                <div class="book-grid">
+                    <div class="book-card" data-book="1">
+                        <div class="book-cover book-1">
+                            <span class="book-num">B1</span>
+                            <span class="book-volume">第一冊</span>
+                        </div>
+                        <h3>英文第一冊</h3>
+                        <p>基礎字彙與核心名詞子句</p>
+                    </div>
+                    <div class="book-card" data-book="2">
+                        <div class="book-cover book-2">
+                            <span class="book-num">B2</span>
+                            <span class="book-volume">第二冊</span>
+                        </div>
+                        <h3>英文第二冊</h3>
+                        <p>進階字彙與感官動詞句型</p>
+                    </div>
+                    <div class="book-card" data-book="3">
+                        <div class="book-cover book-3">
+                            <span class="book-num">B3</span>
+                            <span class="book-volume">第三冊</span>
+                        </div>
+                        <h3>英文第三冊</h3>
+                        <p>學測高頻字彙與分詞構句</p>
+                    </div>
+                    <div class="book-card" data-book="4">
+                        <div class="book-cover book-4">
+                            <span class="book-num">B4</span>
+                            <span class="book-volume">第四冊</span>
+                        </div>
+                        <h3>英文第四冊</h3>
+                        <p>挑戰字彙與複雜子句修飾</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Lesson Selector Panel (Appears after selecting book) -->
+            <section id="lesson-panel" class="lesson-panel hidden">
+                <h2 class="section-title"><i class="fa-solid fa-list-check"></i> 選擇課別與課程類型</h2>
+                <div class="lesson-layout">
+                    <!-- Lesson Grid -->
+                    <div class="lesson-grid" id="lesson-grid">
+                        <!-- Filled by JS -->
+                    </div>
+
+                    <!-- Config Card -->
+                    <div class="config-card">
+                        <h3 id="selected-title">請選擇一課</h3>
+                        <div class="config-options">
+                            <div class="class-type-select">
+                                <label><i class="fa-solid fa-chalkboard-user"></i> 選擇複習主題</label>
+                                <div class="type-buttons">
+                                    <button class="type-btn active" data-type="vocabulary">
+                                        <i class="fa-solid fa-font"></i>
+                                        <span>單字加強課</span>
+                                    </button>
+                                    <button class="type-btn" data-type="grammar">
+                                        <i class="fa-solid fa-code-branch"></i>
+                                        <span>句型文法課</span>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div class="game-select">
+                                <label><i class="fa-solid fa-gamepad"></i> 驗收 PK 遊戲模式</label>
+                                <select id="game-mode-select">
+                                    <option value="auto">🎰 隨機輪替 (每次不同)</option>
+                                    <option value="spelling">✏️ Spelling Arena (拼字對決)</option>
+                                    <option value="rapid">⚡ Rapid-Fire Quiz (快問快答)</option>
+                                    <option value="unscramble">🧩 Sentence Unscramble (卡牌重組)</option>
+                                    <option value="boss">😈 Grammar Boss Fight (文法大魔王)</option>
+                                </select>
+                            </div>
+
+                            <button id="start-class-btn" class="start-btn" disabled>
+                                <span>進入教室 (50分鐘)</span> <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        
+        <footer class="portal-footer">
+            <p>Made with <i class="fa-solid fa-heart"></i> for English Teachers & Students. 部署於 Vercel / GitHub Pages</p>
+        </footer>
+    </div>
+
+    <!-- CLASSROOM SCREEN CONTAINER -->
+    <div id="classroom-screen" class="screen">
+        <!-- Classroom Header -->
+        <header class="classroom-header">
+            <button id="back-to-portal" class="back-btn">
+                <i class="fa-solid fa-chevron-left"></i> 返回大廳
+            </button>
+            <div class="class-info">
+                <h2 id="class-title">Book 1 Lesson 1</h2>
+                <p id="class-subtitle">單字精準加強課</p>
+            </div>
+            <div class="classroom-timer">
+                <i class="fa-regular fa-clock"></i> <span id="time-display">50:00</span>
+            </div>
+        </header>
+
+        <!-- Timeline / Session Tabs -->
+        <nav class="class-timeline">
+            <div class="timeline-segment active" data-session="overview">
+                <span class="seg-time">10 Mins</span>
+                <span class="seg-title">總覽複習</span>
+                <span class="seg-status"><i class="fa-solid fa-eye"></i></span>
+            </div>
+            <div class="timeline-segment" data-session="instruction">
+                <span class="seg-time">25 Mins</span>
+                <span class="seg-title">老師教學</span>
+                <span class="seg-status"><i class="fa-solid fa-person-chalkboard"></i></span>
+            </div>
+            <div class="timeline-segment" data-session="pk">
+                <span class="seg-time">15 Mins</span>
+                <span class="seg-title">線上 PK 驗收</span>
+                <span class="seg-status"><i class="fa-solid fa-circle-play"></i></span>
+            </div>
+        </nav>
+
+        <!-- Main Workspace Area -->
+        <div class="classroom-workspace">
+
+            <!-- SESSION 1: OVERVIEW -->
+            <section id="session-overview" class="session-panel-content active">
+                <div class="panel-intro">
+                    <h3><i class="fa-solid fa-bolt"></i> 總覽快速複習 (10分鐘)</h3>
+                    <p>利用閃卡或列表快速瀏覽本課的核心詞彙與句型公式，點擊卡片可翻轉或播放發音。</p>
+                </div>
+                
+                <!-- Flashcards Grid -->
+                <div class="flashcard-deck" id="flashcard-deck">
+                    <!-- Cards will be populated by JS -->
+                </div>
+            </section>
+
+            <!-- SESSION 2: INSTRUCTION -->
+            <section id="session-instruction" class="session-panel-content">
+                <div class="instruction-layout">
+                    <!-- Left Sidebar List -->
+                    <div class="instruction-list-sidebar" id="instruction-list">
+                        <!-- Filled by JS -->
+                    </div>
+
+                    <!-- Right Display Slide -->
+                    <div class="instruction-slide-view">
+                        <div class="slide-card glass" id="slide-card">
+                            <!-- Filled dynamically by JS -->
+                            <div class="slide-placeholder">
+                                <i class="fa-solid fa-chalkboard-user"></i>
+                                <p>請選擇左側教學單元開始上課</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Slide Navigation controls -->
+                        <div class="slide-controls">
+                            <button id="prev-slide" class="control-btn"><i class="fa-solid fa-arrow-left"></i> 上一個</button>
+                            <span id="slide-progress-indicator">0 / 0</span>
+                            <button id="next-slide" class="control-btn">下一個 <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SESSION 3: PK GAME -->
+            <section id="session-pk" class="session-panel-content">
+                <div class="pk-arena glass">
+                    <!-- Left: Player -->
+                    <div class="fighter player">
+                        <div class="avatar-wrapper">
+                            <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=student" alt="Player Avatar" class="avatar">
+                            <div class="combo-bubble" id="combo-display">Combo 0</div>
+                        </div>
+                        <div class="fighter-info">
+                            <h4>學習者 (YOU)</h4>
+                            <div class="hp-bar-container">
+                                <div class="hp-bar" id="player-hp" style="width: 100%;"></div>
+                                <span class="hp-text" id="player-hp-text">100 / 100</span>
+                            </div>
+                            <div class="score-pill">Score: <span id="player-score">0</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Center: Battle Board -->
+                    <div class="battle-board">
+                        <!-- Game Header Info -->
+                        <div class="game-info">
+                            <h3 id="game-title">Spelling Arena</h3>
+                            <p id="game-desc">載入遊戲中...</p>
+                        </div>
+
+                        <!-- Main Interactive Area -->
+                        <div class="game-container" id="game-viewport">
+                            <!-- Game Viewport filled by game mode controllers in JS -->
+                        </div>
+                    </div>
+
+                    <!-- Right: AI Opponent -->
+                    <div class="fighter opponent">
+                        <div class="avatar-wrapper">
+                            <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=opponent&backgroundType=gradientLinear" alt="AI Avatar" class="avatar">
+                        </div>
+                        <div class="fighter-info">
+                            <h4>AI 對手 (PK Bot)</h4>
+                            <div class="hp-bar-container">
+                                <div class="hp-bar enemy" id="enemy-hp" style="width: 100%;"></div>
+                                <span class="hp-text" id="enemy-hp-text">100 / 100</span>
+                            </div>
+                            <div class="score-pill">Score: <span id="enemy-score">0</span></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <!-- GAME OVER OVERLAY MODAL -->
+    <div id="game-over-modal" class="modal-overlay">
+        <div class="modal-content glass">
+            <div id="result-animation">
+                <i class="fa-solid fa-trophy winner-icon"></i>
+            </div>
+            <h2 id="result-title">挑戰成功！</h2>
+            <p id="result-desc">你成功擊敗了 AI 對手，掌握了本課的單字語法！</p>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-num" id="stat-score">0</span>
+                    <span class="stat-label">最終得分</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-num" id="stat-combo">0</span>
+                    <span class="stat-label">最高連擊 (Combo)</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-num" id="stat-accuracy">0%</span>
+                    <span class="stat-label">答題正確率</span>
+                </div>
+            </div>
+
+            <div class="modal-actions">
+                <button id="modal-retry-btn" class="modal-btn secondary"><i class="fa-solid fa-rotate-left"></i> 再玩一次</button>
+                <button id="modal-exit-btn" class="modal-btn primary"><i class="fa-solid fa-door-open"></i> 退出關卡</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
