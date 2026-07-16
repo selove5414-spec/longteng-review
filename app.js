@@ -992,7 +992,6 @@ function renderSpellingArena() {
                 const boxes = document.querySelectorAll('.spell-box');
                 boxes[emptyIdx].innerText = k;
                 boxes[emptyIdx].classList.add('filled');
-                btn.classList.add('used');
                 
                 // If spelling is complete, check answer
                 if (lettersInput.indexOf('') === -1) {
@@ -1019,21 +1018,11 @@ function renderSpellingArena() {
         }
         
         if (lastFilledIdx !== -1) {
-            const letterToRemove = lettersInput[lastFilledIdx];
             lettersInput[lastFilledIdx] = '';
             
             const boxes = document.querySelectorAll('.spell-box');
             boxes[lastFilledIdx].innerText = '';
             boxes[lastFilledIdx].classList.remove('filled');
-            
-            // Release the keyboard button
-            const keys = document.querySelectorAll('.key-btn');
-            for (let btn of keys) {
-                if (btn.innerText === letterToRemove && btn.classList.contains('used')) {
-                    btn.classList.remove('used');
-                    break;
-                }
-            }
         }
     });
     keyboardContainer.appendChild(backBtn);
