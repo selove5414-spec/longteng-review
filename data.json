@@ -32,7 +32,7 @@
               "pron": "`mɛmərɪ",
               "pos": "n.",
               "chinese": "[C, U] 記憶力；記性",
-              "example_en": "iona has a really good memory. She can remember most of her best friends’ phone numbers."
+              "example_en": "Fiona has a really good memory. She can remember most of her best friends’ phone numbers."
             },
             {
               "word": "reply",
@@ -60,7 +60,7 @@
               "pron": "`pɝfɪkt",
               "pos": "adj.",
               "chinese": "完美的　with no mistakes or problems",
-              "example_en": "ohn was very careful with his car, so it was still in perfect condition after five years of use."
+              "example_en": "John was very careful with his car, so it was still in perfect condition after five years of use."
             },
             {
               "word": "accidentally",
@@ -77,18 +77,11 @@
               "example_en": "The horrible car accident took the lives of several children."
             },
             {
-              "word": "The horrible car accident took the lives of several childre",
-              "pron": "`æksədənt",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "accidental",
               "pron": "ˏæksə`dɛntḷ",
               "pos": "adj.",
               "chinese": "意外的",
-              "example_en": "n accidental wrong turn led us to a beautiful, undiscovered beach."
+              "example_en": "An accidental wrong turn led us to a beautiful, undiscovered beach."
             },
             {
               "word": "failure",
@@ -109,7 +102,7 @@
               "pron": "ˏprɛzṇ`teʃən",
               "pos": "n.",
               "chinese": "[C] 報告；介紹　a meeting where something is shown to a group of people by one or multiple speakers",
-              "example_en": "ach student must give a presentation on one movie at the end of the semester."
+              "example_en": "Each student must give a presentation on one movie at the end of the semester."
             },
             {
               "word": "present",
@@ -137,7 +130,7 @@
               "pron": "skɪp",
               "pos": "vt.",
               "chinese": "vi. 略過；跳過",
-              "example_en": "ames was running out of time, so he skipped the last part of his talk."
+              "example_en": "James was running out of time, so he skipped the last part of his talk."
             },
             {
               "word": "ruin",
@@ -158,7 +151,7 @@
               "pron": "ɪm`bærəst",
               "pos": "adj.",
               "chinese": "尷尬的；難堪的　feeling ashamed or uncomfortable in public because of something that has happened or been said",
-              "example_en": "my was really embarrassed about her mistake during the dance class, though nobody noticed it."
+              "example_en": "Amy was really embarrassed about her mistake during the dance class, though nobody noticed it."
             },
             {
               "word": "embarrassing",
@@ -186,14 +179,7 @@
               "pron": "dɪ`prɛst",
               "pos": "adj.",
               "chinese": "沮喪的；消沉的　feeling extremely sad",
-              "example_en": "milia felt deeply depressed after her smartphone was stolen."
-            },
-            {
-              "word": "milia felt deeply depressed after her smartphone was stole",
-              "pron": "dɪ`prɛst",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
+              "example_en": "Emilia felt deeply depressed after her smartphone was stolen."
             },
             {
               "word": "depress",
@@ -207,7 +193,7 @@
               "pron": "dɪ`prɛʃən",
               "pos": "n.",
               "chinese": "[U] 沮喪；消沉",
-              "example_en": "fter a long period of deep depression, Amanda finally found happiness again."
+              "example_en": "After a long period of deep depression, Amanda finally found happiness again."
             },
             {
               "word": "upset",
@@ -284,7 +270,7 @@
               "pron": "`fɔrtʃənɪtlɪ",
               "pos": "adv.",
               "chinese": "幸運地　luckily",
-              "example_en": "ortunately, few people were hurt when the building fell down during the earthquake."
+              "example_en": "Fortunately, few people were hurt when the building fell down during the earthquake."
             },
             {
               "word": "fortunate",
@@ -292,76 +278,6 @@
               "pos": "adj.",
               "chinese": "幸運的",
               "example_en": "We are fortunate to have clean drinking water in most homes in our country."
-            },
-            {
-              "word": "pajamas",
-              "pron": "pə`dʒɑməz",
-              "pos": "n.",
-              "chinese": "pl. 睡衣",
-              "example_en": "Kahoot! [kə`hʊt]　n. 一個線上遊戲化互動學習平臺"
-            },
-            {
-              "word": "Quizlet",
-              "pron": "`kwɪzlɛt",
-              "pos": "n.",
-              "chinese": "一個透過單字卡等方式學習的應用程式",
-              "example_en": ""
-            },
-            {
-              "word": "filter",
-              "pron": "`fɪltɚ",
-              "pos": "n.",
-              "chinese": "[C] 濾鏡",
-              "example_en": ""
-            },
-            {
-              "word": "alien",
-              "pron": "`eljən",
-              "pos": "n.",
-              "chinese": "[C] 外星人",
-              "example_en": ""
-            },
-            {
-              "word": "crash-and-burn",
-              "pron": "ˏkræʃ ən `bɝn",
-              "pos": "adj.",
-              "chinese": "徹底失敗的",
-              "example_en": ""
-            },
-            {
-              "word": "Seoul",
-              "pron": "sol",
-              "pos": "n.",
-              "chinese": "首爾（南韓的首都）",
-              "example_en": ""
-            },
-            {
-              "word": "South Korea",
-              "pron": "ˏsaʊθ ko`riə",
-              "pos": "n.",
-              "chinese": "南韓",
-              "example_en": ""
-            },
-            {
-              "word": "Korean",
-              "pron": "ko`riən",
-              "pos": "adj.",
-              "chinese": "韓國（人）的；n. 韓語",
-              "example_en": ""
-            },
-            {
-              "word": "kimchi",
-              "pron": "`kɪmtʃi",
-              "pos": "n.",
-              "chinese": "[U] 辛奇（南韓文化體育觀光部對於韓式泡菜的華語標準譯名）",
-              "example_en": ""
-            },
-            {
-              "word": "K-pop",
-              "pron": "`ke ˏpɑp",
-              "pos": "n.",
-              "chinese": "韓國流行音樂",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -579,7 +495,7 @@
               "pron": "ˏsætɪs`fækʃən",
               "pos": "n.",
               "chinese": "[U] 滿意",
-              "example_en": "essica smiled with satisfaction when she saw 100 on her test sheet."
+              "example_en": "Jessica smiled with satisfaction when she saw 100 on her test sheet."
             },
             {
               "word": "inspire",
@@ -593,14 +509,14 @@
               "pron": "ɪn`spaɪr",
               "pos": "vt.",
               "chinese": "激發靈感",
-              "example_en": "arly was inspired by one of the paintings in the museum and decided to take an art class."
+              "example_en": "Carly was inspired by one of the paintings in the museum and decided to take an art class."
             },
             {
               "word": "inspiration",
               "pron": "ˏɪnspə`reʃən",
               "pos": "n.",
               "chinese": "[U] 靈感",
-              "example_en": "aulina draws inspiration from her relationships with others when she writes poetry."
+              "example_en": "Paulina draws inspiration from her relationships with others when she writes poetry."
             },
             {
               "word": "connect",
@@ -614,7 +530,7 @@
               "pron": "kə`nɛkt",
               "pos": "vt.",
               "chinese": "連接",
-              "example_en": "ason connected his smartphone to the TV, so he could show his friends some pictures on the bigger screen."
+              "example_en": "Jason connected his smartphone to the TV, so he could show his friends some pictures on the bigger screen."
             },
             {
               "word": "connection",
@@ -684,7 +600,7 @@
               "pron": "rɪ`frɛʃ",
               "pos": "vt.",
               "chinese": "使某人恢復精神",
-              "example_en": "arl refreshed himself with a large glass of ice-cold water."
+              "example_en": "Carl refreshed himself with a large glass of ice-cold water."
             },
             {
               "word": "romantic",
@@ -698,21 +614,14 @@
               "pron": "ro`mæns",
               "pos": "n.",
               "chinese": "[C] 浪漫愛情故事",
-              "example_en": "indy is glad that her love life is much simpler than most romance novels."
+              "example_en": "Cindy is glad that her love life is much simpler than most romance novels."
             },
             {
               "word": "focus",
               "pron": "`fokəs",
               "pos": "vi.",
               "chinese": "vt. 專注；專心　to pay particular attention to one thing, situation, or person",
-              "example_en": "ason couldn’t focus on the action in the movie because he was trying to read the words on the screen."
-            },
-            {
-              "word": "ason couldn’t focus on the action in the movie because he was trying to read the words on the scree",
-              "pron": "`fokəs",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
+              "example_en": "Jason couldn’t focus on the action in the movie because he was trying to read the words on the screen."
             },
             {
               "word": "focus",
@@ -754,7 +663,7 @@
               "pron": "rɪ`spɑnd",
               "pos": "vi.",
               "chinese": "vt. 回應　to give a spoken or written reply to someone or something",
-              "example_en": "hris responded to his mom’s Facebook message with a smiling cat sticker."
+              "example_en": "Chris responded to his mom’s Facebook message with a smiling cat sticker."
             },
             {
               "word": "response",
@@ -764,18 +673,11 @@
               "example_en": "The students in the class made no response to the teacher’s difficult question."
             },
             {
-              "word": "The students in the class made no response to the teacher’s difficult questio",
-              "pron": "rɪ`spɑns",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "disappointed",
               "pron": "ˏdɪsə`pɔɪntɪd",
               "pos": "adj.",
               "chinese": "感到失望的　sad or upset because something you hoped for has not happened or has not occurred in the way that you expected",
-              "example_en": "iona was really disappointed that her favorite character died at the end of the movie."
+              "example_en": "Fiona was really disappointed that her favorite character died at the end of the movie."
             },
             {
               "word": "disappoint",
@@ -796,7 +698,7 @@
               "pron": "`pɝsṇḷɪ",
               "pos": "adv.",
               "chinese": "針對某人地　in a way that is regarded as hurtful to one’s self",
-              "example_en": "lease don’t take my comment personally. I’m complaining about all the drivers in our country, not just you."
+              "example_en": "Please don’t take my comment personally. I’m complaining about all the drivers in our country, not just you."
             },
             {
               "word": "personal",
@@ -804,48 +706,6 @@
               "pos": "adj.",
               "chinese": "個人的",
               "example_en": "Mrs. Thompson has a lot of personal experience working with kids who can’t focus in class."
-            },
-            {
-              "word": "update",
-              "pron": "`ʌpˏdet",
-              "pos": "n.",
-              "chinese": "[C] 最新動態",
-              "example_en": ""
-            },
-            {
-              "word": "acebook",
-              "pron": "`fesˏbʊk",
-              "pos": "n.",
-              "chinese": "臉書",
-              "example_en": ""
-            },
-            {
-              "word": "Instagram",
-              "pron": "`ɪnstəgræm",
-              "pos": "n.",
-              "chinese": "Instagram（一款提供圖片及視訊分享的社交應用軟體）",
-              "example_en": ""
-            },
-            {
-              "word": "LINE",
-              "pron": "laɪn",
-              "pos": "n.",
-              "chinese": "LINE（一款即時通訊軟體與行動應用程式）",
-              "example_en": ""
-            },
-            {
-              "word": "app",
-              "pron": "æp",
-              "pos": "n.",
-              "chinese": "[C] 應用程式（application的縮寫）",
-              "example_en": ""
-            },
-            {
-              "word": "terribly",
-              "pron": "`tɛrəblɪ",
-              "pos": "adv.",
-              "chinese": "非常地",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -1112,13 +972,6 @@
               "example_en": "Samuel wonders if he will lose some weight after he joins the swimming club."
             },
             {
-              "word": "Kelly always wonders about the things she recalls from her dreams and what they mea",
-              "pron": "`wʌndɚ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "amazing",
               "pron": "ə`mezɪŋ",
               "pos": "adj.",
@@ -1158,7 +1011,7 @@
               "pron": "`ævərɪdʒ",
               "pos": "adj.",
               "chinese": "平均的",
-              "example_en": "ven though the price of some new smartphones is high, the average price continues to drop every year."
+              "example_en": "Even though the price of some new smartphones is high, the average price continues to drop every year."
             },
             {
               "word": "average",
@@ -1179,21 +1032,21 @@
               "pron": "næp",
               "pos": "vi.",
               "chinese": "小睡　(napped—napped—napping) to sleep for a short period of time during the day",
-              "example_en": "raig has a bad habit of staying up late and then napping several times during the day."
+              "example_en": "Craig has a bad habit of staying up late and then napping several times during the day."
             },
             {
               "word": "nap",
               "pron": "næp",
               "pos": "n.",
               "chinese": "[C] 小睡",
-              "example_en": "verybody in the Su family likes to take a nap right after lunch on weekends."
+              "example_en": "Everybody in the Su family likes to take a nap right after lunch on weekends."
             },
             {
               "word": "float",
               "pron": "flot",
               "pos": "vi.",
               "chinese": "漂浮　to remain on or near the surface of the water or of another liquid and not sink",
-              "example_en": "enna threw a piece of bread into the pond and watched it float until a fish ate it."
+              "example_en": "Jenna threw a piece of bread into the pond and watched it float until a fish ate it."
             },
             {
               "word": "float",
@@ -1284,7 +1137,7 @@
               "pron": "`dʒɝnɪ",
               "pos": "n.",
               "chinese": "[C] 旅行　a trip that is usually long in terms of distance or time",
-              "example_en": "fter high school, the two best friends plan to go on a journey around the world."
+              "example_en": "After high school, the two best friends plan to go on a journey around the world."
             },
             {
               "word": "flight",
@@ -1348,69 +1201,6 @@
               "pos": "n.",
               "chinese": "[U] 生存；倖存",
               "example_en": "The news report said that the missing mountain climbers had a low chance of survival."
-            },
-            {
-              "word": "hibernate",
-              "pron": "`haɪbɚˏnet",
-              "pos": "vi.",
-              "chinese": "冬眠",
-              "example_en": ""
-            },
-            {
-              "word": "mammal",
-              "pron": "`mæmḷ",
-              "pos": "n.",
-              "chinese": "[C] 哺乳類動物",
-              "example_en": ""
-            },
-            {
-              "word": "curl",
-              "pron": "kɝl",
-              "pos": "vt.",
-              "chinese": "捲曲",
-              "example_en": ""
-            },
-            {
-              "word": "predator",
-              "pron": "`prɛdətɚ",
-              "pos": "n.",
-              "chinese": "[C] 掠食者",
-              "example_en": ""
-            },
-            {
-              "word": "sea otter",
-              "pron": "`si ˏɑtɚ",
-              "pos": "n.",
-              "chinese": "[C] 海獺",
-              "example_en": ""
-            },
-            {
-              "word": "paw",
-              "pron": "pɔ",
-              "pos": "n.",
-              "chinese": "[C] 爪",
-              "example_en": ""
-            },
-            {
-              "word": "migratory bird",
-              "pron": "`maɪgrətorɪ ˏbɝd",
-              "pos": "n.",
-              "chinese": "[C] 候鳥",
-              "example_en": ""
-            },
-            {
-              "word": "lpine swift",
-              "pron": "`ælpaɪn ˏswɪft",
-              "pos": "n.",
-              "chinese": "[C] 高山雨燕",
-              "example_en": ""
-            },
-            {
-              "word": "frica",
-              "pron": "`æfrɪkə",
-              "pos": "n.",
-              "chinese": "非洲",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -1633,7 +1423,7 @@
               "pron": "`sɛnsətɪv",
               "pos": "adj.",
               "chinese": "渴望的；熱衷的",
-              "example_en": "amie is keen on making his classroom’s Facebook page the most interesting one in the school."
+              "example_en": "Jamie is keen on making his classroom’s Facebook page the most interesting one in the school."
             },
             {
               "word": "item",
@@ -1647,7 +1437,7 @@
               "pron": "ə`kɑmplɪʃ",
               "pos": "vt.",
               "chinese": "達成　to complete a difficult task or reach a goal",
-              "example_en": "lbert respects those who have accomplished something great in their lives."
+              "example_en": "Albert respects those who have accomplished something great in their lives."
             },
             {
               "word": "accomplishment",
@@ -1671,13 +1461,6 @@
               "example_en": "Several passengers were found to have the disease after they took the same flight as an infected person."
             },
             {
-              "word": "Several passengers were found to have the disease after they took the same flight as an infected perso",
-              "pron": "ɪn`fɛktɪd",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "infect",
               "pron": "ɪn`fɛkt",
               "pos": "vt.",
@@ -1690,13 +1473,6 @@
               "pos": "n.",
               "chinese": "[C, U] 感染",
               "example_en": "The boy developed a serious infection on his leg because he didn’t clean the wound after he fell."
-            },
-            {
-              "word": "You shouldn’t rub your eyes because it can cause infectio",
-              "pron": "ɪn`fɛkʃən",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
             },
             {
               "word": "locate",
@@ -1717,7 +1493,7 @@
               "pron": "rɪ`wɔrd",
               "pos": "n.",
               "chinese": "[C, U] 獎勵；報酬　something that is given to someone in recognition of a good deed or difficult task he or she has accomplished",
-              "example_en": "anice was given a reward of $2,000 for informing the police of the address of the man they were searching for."
+              "example_en": "Janice was given a reward of $2,000 for informing the police of the address of the man they were searching for."
             },
             {
               "word": "reward",
@@ -1731,7 +1507,7 @@
               "pron": "ə`bɪlətɪ",
               "pos": "n.",
               "chinese": "sing. 能力　the power to do a certain thing or a special thing that one can do",
-              "example_en": "agles have the ability to fly without landing for over three hours."
+              "example_en": "Eagles have the ability to fly without landing for over three hours."
             },
             {
               "word": "predict",
@@ -1759,7 +1535,7 @@
               "pron": "`mænɪdʒmənt",
               "pos": "n.",
               "chinese": "[U] 管理",
-              "example_en": "or busy people like the president of a country, good time management is of great importance."
+              "example_en": "For busy people like the president of a country, good time management is of great importance."
             },
             {
               "word": "create",
@@ -1773,7 +1549,7 @@
               "pron": "krɪ`eʃən",
               "pos": "n.",
               "chinese": "[U] 創造；創建",
-              "example_en": "fter the creation of the movie theater’s website, few people called to find out what movies were playing."
+              "example_en": "After the creation of the movie theater’s website, few people called to find out what movies were playing."
             },
             {
               "word": "creative",
@@ -1815,7 +1591,7 @@
               "pron": "pɚ`fɔrm",
               "pos": "vt.",
               "chinese": "做某事；做某種行為　to carry out an action, task, or duty",
-              "example_en": "fter Mrs. Checknita fell ill, her family hired someone to help her perform daily tasks."
+              "example_en": "After Mrs. Checknita fell ill, her family hired someone to help her perform daily tasks."
             },
             {
               "word": "perform",
@@ -1836,21 +1612,21 @@
               "pron": "bɪ`hevjɚ",
               "pos": "n.",
               "chinese": "[U] 行為　the way a person or animal acts",
-              "example_en": "nimal behavior can tell us a lot about what a creature is thinking about or wants."
+              "example_en": "Animal behavior can tell us a lot about what a creature is thinking about or wants."
             },
             {
               "word": "behave",
               "pron": "bɪ`hev",
               "pos": "vi.",
               "chinese": "表現",
-              "example_en": "ll the guests were impressed by how little Mandy behaved like an adult."
+              "example_en": "All the guests were impressed by how little Mandy behaved like an adult."
             },
             {
               "word": "alert",
               "pron": "ə`lɝt",
               "pos": "n.",
               "chinese": "[C] 警示　a warning that there may be some sort of danger or some special problem",
-              "example_en": "verybody was asked to leave the mall due to a bomb alert in one of the stores."
+              "example_en": "Everybody was asked to leave the mall due to a bomb alert in one of the stores."
             },
             {
               "word": "alert",
@@ -1885,7 +1661,7 @@
               "pron": "ə`saɪn",
               "pos": "vt.",
               "chinese": "指派　to give a special task or role to a certain person",
-              "example_en": "raig was assigned the task of giving the new students a tour of the school."
+              "example_en": "Craig was assigned the task of giving the new students a tour of the school."
             },
             {
               "word": "assignment",
@@ -2149,18 +1925,11 @@
               "example_en": "Rick is eagerly waiting for his boss to post the summer work schedule because he wants to plan his vacation."
             },
             {
-              "word": "Rick is eagerly waiting for his boss to post the summer work schedule because he wants to plan his vacatio",
-              "pron": "`igɚlɪ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "eager",
               "pron": "`igɚ",
               "pos": "adj.",
               "chinese": "渴望的",
-              "example_en": "fter John sent the romantic email to his girlfriend, he was eager for her reply."
+              "example_en": "After John sent the romantic email to his girlfriend, he was eager for her reply."
             },
             {
               "word": "surround",
@@ -2181,14 +1950,14 @@
               "pron": "drɪft",
               "pos": "vi.",
               "chinese": "漂流　to move in a certain direction smoothly and slowly, usually on water or in the air",
-              "example_en": "fter the captain fell asleep, the ship passed the harbor and then drifted toward the middle of the sea."
+              "example_en": "After the captain fell asleep, the ship passed the harbor and then drifted toward the middle of the sea."
             },
             {
               "word": "envy",
               "pron": "`ɛnvɪ",
               "pos": "vt.",
               "chinese": "羨慕　to desire the same qualities, possessions, opportunities, etc. that someone else has",
-              "example_en": "hristopher really envies his best friend, Patty, because she has been to so many countries."
+              "example_en": "Christopher really envies his best friend, Patty, because she has been to so many countries."
             },
             {
               "word": "envy",
@@ -2258,7 +2027,7 @@
               "pron": "kən`sum",
               "pos": "vt.",
               "chinese": "消耗",
-              "example_en": "inishing his assignments consumes most of Riley’s free time in the evening and on the weekend."
+              "example_en": "Finishing his assignments consumes most of Riley’s free time in the evening and on the weekend."
             },
             {
               "word": "consumer",
@@ -2272,14 +2041,14 @@
               "pron": "`pɔɪznəs",
               "pos": "adj.",
               "chinese": "有毒的　able to make a person or animal die or become ill if consumed or entering the body",
-              "example_en": "hocolate is delicious for most people, but did you know that it can be poisonous to dogs?"
+              "example_en": "Chocolate is delicious for most people, but did you know that it can be poisonous to dogs?"
             },
             {
               "word": "poison",
               "pron": "`pɔɪzṇ",
               "pos": "vt.",
               "chinese": "毒害",
-              "example_en": "ndy tried to poison the cockroaches in his apartment with a chemical he bought at the store, but it didn’t work."
+              "example_en": "Andy tried to poison the cockroaches in his apartment with a chemical he bought at the store, but it didn’t work."
             },
             {
               "word": "poison",
@@ -2300,7 +2069,7 @@
               "pron": "͵riˋsaɪkḷɪŋ",
               "pos": "n.",
               "chinese": "[U] 回收　a process of treating used items such as plastic, metal, glass, etc. so that they can be used again",
-              "example_en": "fter the party, Nick took all the empty bottles out for recycling."
+              "example_en": "After the party, Nick took all the empty bottles out for recycling."
             },
             {
               "word": "recycle",
@@ -2342,7 +2111,7 @@
               "pron": "ɪn`vaɪrənmənt",
               "pos": "n.",
               "chinese": "[C, U] 環境",
-              "example_en": "ll company owners should create a safe working environment for their employees."
+              "example_en": "All company owners should create a safe working environment for their employees."
             },
             {
               "word": "environmental",
@@ -2364,90 +2133,6 @@
               "pos": "adj.",
               "chinese": "適當的",
               "example_en": "Silly jokes should only be told at the proper place and time."
-            },
-            {
-              "word": "howl",
-              "pron": "haʊl",
-              "pos": "vi.",
-              "chinese": "（風）呼嘯；狂嚎",
-              "example_en": ""
-            },
-            {
-              "word": "current",
-              "pron": "`kɝənt",
-              "pos": "n.",
-              "chinese": "[C] 水流",
-              "example_en": ""
-            },
-            {
-              "word": "tunnel",
-              "pron": "`tʌnḷ",
-              "pos": "n.",
-              "chinese": "[C] 隧道",
-              "example_en": ""
-            },
-            {
-              "word": "chamber",
-              "pron": "`tʃembɚ",
-              "pos": "n.",
-              "chinese": "[C] 腔室",
-              "example_en": ""
-            },
-            {
-              "word": "swallow",
-              "pron": "`swɑlo",
-              "pos": "vt.",
-              "chinese": "吞",
-              "example_en": ""
-            },
-            {
-              "word": "nutritious",
-              "pron": "nu`trɪʃəs",
-              "pos": "adj.",
-              "chinese": "營養的",
-              "example_en": ""
-            },
-            {
-              "word": "decompose",
-              "pron": "ˏdikəm`poz",
-              "pos": "vi.",
-              "chinese": "分解",
-              "example_en": ""
-            },
-            {
-              "word": "tongs",
-              "pron": "tɔŋz",
-              "pos": "n.",
-              "chinese": "pl. 夾具",
-              "example_en": ""
-            },
-            {
-              "word": "pinch",
-              "pron": "pɪntʃ",
-              "pos": "n.",
-              "chinese": "[C] 捏；擰",
-              "example_en": ""
-            },
-            {
-              "word": "littering",
-              "pron": "`lɪtɚɪŋ",
-              "pos": "n.",
-              "chinese": "[U] 亂丟垃圾",
-              "example_en": ""
-            },
-            {
-              "word": "recycling plant",
-              "pron": "ri`saɪkḷɪŋ ͵plænt",
-              "pos": "n.",
-              "chinese": "[C] 回收場",
-              "example_en": ""
-            },
-            {
-              "word": "misuse",
-              "pron": "mɪs`juz",
-              "pos": "vt.",
-              "chinese": "錯誤使用",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -2601,7 +2286,7 @@
               "pron": "`fridəm",
               "pos": "n.",
               "chinese": "[U] 自由　the right to do or say what one wants",
-              "example_en": "fter Simon turned eighteen, his parents gave him the freedom to watch any movies he wanted to."
+              "example_en": "After Simon turned eighteen, his parents gave him the freedom to watch any movies he wanted to."
             },
             {
               "word": "statue",
@@ -2615,7 +2300,7 @@
               "pron": "rɪ`muv",
               "pos": "vt.",
               "chinese": "移除　to take a thing away from somewhere",
-              "example_en": "asmine chewed gum to remove the smell of garlic from her breath."
+              "example_en": "Jasmine chewed gum to remove the smell of garlic from her breath."
             },
             {
               "word": "celebration",
@@ -2629,7 +2314,7 @@
               "pron": "ˏsɛlə`breʃən",
               "pos": "n.",
               "chinese": "[C] 慶祝活動",
-              "example_en": "very October 10 our country holds a national celebration to remember an important event in our country’s history."
+              "example_en": "Every October 10 our country holds a national celebration to remember an important event in our country’s history."
             },
             {
               "word": "celebrate",
@@ -2685,7 +2370,7 @@
               "pron": "`fɝmlɪ",
               "pos": "adv.",
               "chinese": "牢固地；堅定地　in a strong way that will prevent something from becoming loose; with a strong will",
-              "example_en": "ack firmly closed the lid of the jar so that it wouldn’t open accidentally."
+              "example_en": "Jack firmly closed the lid of the jar so that it wouldn’t open accidentally."
             },
             {
               "word": "firm",
@@ -2776,7 +2461,7 @@
               "pron": "ə`trækt",
               "pos": "vt.",
               "chinese": "招引；吸引",
-              "example_en": "amous sights such as the Eiffel Tower and Louvre Museum attract over 30 million tourists to Paris every year."
+              "example_en": "Famous sights such as the Eiffel Tower and Louvre Museum attract over 30 million tourists to Paris every year."
             },
             {
               "word": "attractive",
@@ -2805,167 +2490,6 @@
               "pos": "adj.",
               "chinese": "全球的；全世界的",
               "example_en": "Many people believe that global warming is causing a higher number of large storms such as typhoons."
-            },
-            {
-              "word": "Tracy decided to pay a visit to Big Ben while she was on a business trip in Londo",
-              "pron": "`globḷ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "The noodle shop has a long line of people outside as always because they make the best noodles in tow",
-              "pron": "`globḷ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "the Statue of Liberty",
-              "pron": "ðə `stætʃʊ əv `lɪbɚtɪ",
-              "pos": "n.",
-              "chinese": "自由女神像（又稱Lady Liberty）",
-              "example_en": ""
-            },
-            {
-              "word": "New York City",
-              "pron": "`nju ˏjɔrk `sɪtɪ",
-              "pos": "n.",
-              "chinese": "紐約市（位於美國紐約州）",
-              "example_en": ""
-            },
-            {
-              "word": "Bedloe’s Island",
-              "pron": "`bɛdloz `aɪlənd",
-              "pos": "n.",
-              "chinese": "貝德羅島（為Liberty Island的舊稱， 於1956年正式改為此名）",
-              "example_en": ""
-            },
-            {
-              "word": "Liberty Island",
-              "pron": "`lɪbɚtɪ `aɪlənd",
-              "pos": "n.",
-              "chinese": "自由島（位於美國紐約灣的小島，為自由女神像所在地）",
-              "example_en": ""
-            },
-            {
-              "word": "sculptor",
-              "pron": "`skʌlptɚ",
-              "pos": "n.",
-              "chinese": "[C] 雕刻家",
-              "example_en": "rédéric Auguste Bartholdi [ˏfrede`hik oʊ`gist bɑr`tɔldi]　n. 弗里德利．奧古斯特．巴特勒迪（1834–1904， 法國雕塑家，自由女神像的創作者）"
-            },
-            {
-              "word": "Great Britain",
-              "pron": "`gret `brɪtṇ",
-              "pos": "n.",
-              "chinese": "大不列顛（包括英格蘭、蘇格蘭和威爾士）",
-              "example_en": ""
-            },
-            {
-              "word": "copper",
-              "pron": "`kɑpɚ",
-              "pos": "n.",
-              "chinese": "[U] 銅",
-              "example_en": ""
-            },
-            {
-              "word": "reddish-brown",
-              "pron": "`rɛdɪʃ `braʊn",
-              "pos": "adj.",
-              "chinese": "紅棕色的",
-              "example_en": ""
-            },
-            {
-              "word": "layer",
-              "pron": "`leɚ",
-              "pos": "n.",
-              "chinese": "[C] 層；表層",
-              "example_en": ""
-            },
-            {
-              "word": "oxidize",
-              "pron": "`ɑksəˏdaɪz",
-              "pos": "vi.",
-              "chinese": "氧化",
-              "example_en": ""
-            },
-            {
-              "word": "tablet",
-              "pron": "`tæblɪt",
-              "pos": "n.",
-              "chinese": "[C] （刻有文字的） 牌；碑",
-              "example_en": ""
-            },
-            {
-              "word": "torch",
-              "pron": "tɔrtʃ",
-              "pos": "n.",
-              "chinese": "[C] 火炬；火把",
-              "example_en": ""
-            },
-            {
-              "word": "crown",
-              "pron": "kraʊn",
-              "pos": "n.",
-              "chinese": "[C] 王冠；皇冠",
-              "example_en": ""
-            },
-            {
-              "word": "chain",
-              "pron": "tʃen",
-              "pos": "n.",
-              "chinese": "[C] 鎖鏈；鏈子",
-              "example_en": ""
-            },
-            {
-              "word": "spike",
-              "pron": "spaɪk",
-              "pos": "n.",
-              "chinese": "[C] 尖刺；尖狀物",
-              "example_en": ""
-            },
-            {
-              "word": "divine",
-              "pron": "də`vaɪn",
-              "pos": "adj.",
-              "chinese": "神的；如神一樣的",
-              "example_en": ""
-            },
-            {
-              "word": "heavenly",
-              "pron": "`hɛvənlɪ",
-              "pos": "adj.",
-              "chinese": "神聖的；天堂的",
-              "example_en": ""
-            },
-            {
-              "word": "robe",
-              "pron": "rob",
-              "pos": "n.",
-              "chinese": "[C] 長袍；禮袍",
-              "example_en": ""
-            },
-            {
-              "word": "Roman",
-              "pron": "`romən",
-              "pos": "adj.",
-              "chinese": "羅馬的",
-              "example_en": ""
-            },
-            {
-              "word": "Libertas",
-              "pron": "`lɪbɚtəs",
-              "pos": "n.",
-              "chinese": "利貝塔斯（古羅馬神話中的自主神）",
-              "example_en": ""
-            },
-            {
-              "word": "goddess",
-              "pron": "`gɑdɪs",
-              "pos": "n.",
-              "chinese": "[C] 女神",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -3146,13 +2670,6 @@
               "word": "The success of the pop star’s new album is a triumph over critics who said she would never make great music agai",
               "pron": "`traɪəmf",
               "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "The success of the pop star’s new album is a triumph over critics who said she would never make great music agai",
-              "pron": "`traɪəmf",
-              "pos": "n.",
               "chinese": "[U] （因勝利而產生的）喜悅；得意",
               "example_en": "When the actor was presented with the award, he smiled in triumph and waved to the audience."
             },
@@ -3203,7 +2720,7 @@
               "pron": "`bɛrlɪ",
               "pos": "adv.",
               "chinese": "幾乎不　almost not",
-              "example_en": "ustin and Kate could barely believe their ears when the doctor told them they were going to have twins."
+              "example_en": "Justin and Kate could barely believe their ears when the doctor told them they were going to have twins."
             },
             {
               "word": "bare",
@@ -3217,7 +2734,7 @@
               "pron": "ɪn`væljəbḷ",
               "pos": "adj.",
               "chinese": "非常寶貴的　very important or useful",
-              "example_en": "ric’s grandma has a lot of life experience, so her advice is invaluable to him."
+              "example_en": "Eric’s grandma has a lot of life experience, so her advice is invaluable to him."
             },
             {
               "word": "encouragement",
@@ -3252,7 +2769,7 @@
               "pron": "rɪ`siv",
               "pos": "vt.",
               "chinese": "收到；獲得　to be sent or given something",
-              "example_en": "ndy received a pair of gloves from his girlfriend as a Christmas gift."
+              "example_en": "Andy received a pair of gloves from his girlfriend as a Christmas gift."
             },
             {
               "word": "dazzle",
@@ -3315,7 +2832,7 @@
               "pron": "͵ovɚ`siz",
               "pos": "adv.",
               "chinese": "在海外；到海外　in or to a foreign country, usually one across an ocean",
-              "example_en": "fter Tina quit her job, she lived overseas in South America for a year to experience life in a different culture."
+              "example_en": "After Tina quit her job, she lived overseas in South America for a year to experience life in a different culture."
             },
             {
               "word": "overseas",
@@ -3343,14 +2860,14 @@
               "pron": "feθ",
               "pos": "n.",
               "chinese": "[U] 信心；信任　trust in something or confidence that someone will do something specific",
-              "example_en": "lthough we were losing at halftime, our teacher had faith in our ability to turn the game around and win."
+              "example_en": "Although we were losing at halftime, our teacher had faith in our ability to turn the game around and win."
             },
             {
               "word": "faithful",
               "pron": "`feθfəl",
               "pos": "adj.",
               "chinese": "忠誠的；忠實的",
-              "example_en": "t their wedding, Nick and Fiona promised to remain faithful to each other forever."
+              "example_en": "At their wedding, Nick and Fiona promised to remain faithful to each other forever."
             },
             {
               "word": "pursue",
@@ -3372,62 +2889,6 @@
               "pos": "n.",
               "chinese": "[U] 追求",
               "example_en": "Many young people are leaving this poor village in pursuit of a better job."
-            },
-            {
-              "word": "slum",
-              "pron": "slʌm",
-              "pos": "n.",
-              "chinese": "[C] 貧民窟",
-              "example_en": ""
-            },
-            {
-              "word": "ateura landfill",
-              "pron": "kɑ`turɑ `lændfɪl",
-              "pos": "n.",
-              "chinese": "卡特烏拉垃圾掩埋場（位於亞松森市郊，為巴拉圭最大的垃圾掩埋場）",
-              "example_en": ""
-            },
-            {
-              "word": "araguay",
-              "pron": "`pærə͵gwaɪ",
-              "pos": "n.",
-              "chinese": "巴拉圭",
-              "example_en": ""
-            },
-            {
-              "word": "unload",
-              "pron": "ʌn`lod",
-              "pos": "vt.",
-              "chinese": "（從車上）卸下",
-              "example_en": ""
-            },
-            {
-              "word": "screech",
-              "pron": "skritʃ",
-              "pos": "n.",
-              "chinese": "[C] 尖銳刺耳的聲音",
-              "example_en": ""
-            },
-            {
-              "word": "harmoniously",
-              "pron": "hɑr`monɪəslɪ",
-              "pos": "adv.",
-              "chinese": "和諧地",
-              "example_en": ""
-            },
-            {
-              "word": "orchestra",
-              "pron": "`ɔrkɪstrə",
-              "pos": "n.",
-              "chinese": "[C] 管弦樂團",
-              "example_en": ""
-            },
-            {
-              "word": "glaring",
-              "pron": "`glɛrɪŋ",
-              "pos": "adj.",
-              "chinese": "刺眼的；炫目的",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -3563,14 +3024,14 @@
               "pron": "fə`mɪljɚ",
               "pos": "adj.",
               "chinese": "熟悉的　well-known to someone, usually because that thing or person has often been seen or heard",
-              "example_en": "apanese cartoon characters such as Doraemon, Pikachu, and Totoro are familiar to kids all over the world."
+              "example_en": "Japanese cartoon characters such as Doraemon, Pikachu, and Totoro are familiar to kids all over the world."
             },
             {
               "word": "urge",
               "pron": "ɝdʒ",
               "pos": "n.",
               "chinese": "[C] 衝動　a strong desire to do something",
-              "example_en": "ason had an urge to change his daily routine, so he went swimming after work instead of going straight home."
+              "example_en": "Jason had an urge to change his daily routine, so he went swimming after work instead of going straight home."
             },
             {
               "word": "urge",
@@ -3650,13 +3111,6 @@
               "example_en": "When Blake traveled to foreign countries, he noticed the similarity of all people rather than what made them different."
             },
             {
-              "word": "One of the similarities between Austria and Germany is that the official language of both countries is Germa",
-              "pron": "ˏsɪmə`lærətɪ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "aim",
               "pron": "em",
               "pos": "vt.",
@@ -3720,13 +3174,6 @@
               "example_en": "It would be to the company’s advantage to promote their new product because the public is not familiar with it."
             },
             {
-              "word": "ason’s height gave him an advantage in the high jump competitio",
-              "pron": "əd`væntɪdʒ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "eventually",
               "pron": "ɪ`vɛntʃʊəlɪ",
               "pos": "adv.",
@@ -3774,62 +3221,6 @@
               "pos": "adj.",
               "chinese": "聰明的　showing or done in a way that shows intelligent thinking",
               "example_en": "The teacher was really impressed with the students’ clever ideas in their reports."
-            },
-            {
-              "word": "arents should never leave scissors or other dangerous items within arm’s reach of their young childre",
-              "pron": "`klɛvɚ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "invitingly",
-              "pron": "ɪn`vaɪtɪŋlɪ",
-              "pos": "adv.",
-              "chinese": "誘人地",
-              "example_en": ""
-            },
-            {
-              "word": "goody",
-              "pron": "`gʊdɪ",
-              "pos": "n.",
-              "chinese": "[C], usually pl. 糖果；好吃的東西",
-              "example_en": ""
-            },
-            {
-              "word": "eye level",
-              "pron": "`aɪ ˏlɛvḷ",
-              "pos": "n.",
-              "chinese": "[U] 視線高度",
-              "example_en": ""
-            },
-            {
-              "word": "eye-catching",
-              "pron": "`aɪˏkætʃɪŋ",
-              "pos": "adj.",
-              "chinese": "引人注目的",
-              "example_en": ""
-            },
-            {
-              "word": "cash register",
-              "pron": "`kæʃ ˏrɛdʒɪstɚ",
-              "pos": "n.",
-              "chinese": "[C] 收銀機",
-              "example_en": ""
-            },
-            {
-              "word": "seating",
-              "pron": "`sitɪŋ",
-              "pos": "n.",
-              "chinese": "[U] 座位",
-              "example_en": ""
-            },
-            {
-              "word": "beverage",
-              "pron": "`bɛvərɪdʒ",
-              "pos": "n.",
-              "chinese": "[C] 飲料",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -3910,6 +3301,11 @@
                   "ch": "我喜歡的靴子賣完了，所以我必須選擇另一雙。"
                 }
               ]
+            },
+            {
+              "formula": "eye-catching",
+              "explanation": "「引人注目的」為「名詞 + 分詞」的複合形容詞。對修飾的對象而言，複合形容詞中的動詞若為主動，會使用現在分詞；若為被動，則使用過去分詞。",
+              "examples": []
             },
             {
               "formula": "make + O + adj.",
@@ -4012,7 +3408,7 @@
               "pron": "ɪk`sprɛʃən",
               "pos": "n.",
               "chinese": "[U, C] 表達",
-              "example_en": "reedom of expression means that we can say anything, but this should not include words that harm others."
+              "example_en": "Freedom of expression means that we can say anything, but this should not include words that harm others."
             },
             {
               "word": "opinion",
@@ -4064,13 +3460,6 @@
               "example_en": "It horrified Orlando to find out how much garbage is floating around in the ocean."
             },
             {
-              "word": "It horrified Orlando to find out how much garbage is floating around in the ocea",
-              "pron": "ˋhɔrə͵faɪ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "innocence",
               "pron": "`ɪnəsṇs",
               "pos": "n.",
@@ -4090,13 +3479,6 @@
               "pos": "n.",
               "chinese": "[U] 暴力　behavior or actions that are meant to hurt or kill a person or other living things",
               "example_en": "Most people would agree that the use of violence against children is not right in any situation."
-            },
-            {
-              "word": "Most people would agree that the use of violence against children is not right in any situatio",
-              "pron": "`vaɪələns",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
             },
             {
               "word": "violent",
@@ -4131,7 +3513,7 @@
               "pron": "pɚ`mɪʃən",
               "pos": "n.",
               "chinese": "[U] 許可；准許　the act of letting someone do something, usually in a formal or official way",
-              "example_en": "xcuse me, sir. You need to get special permission for the video camera in the museum."
+              "example_en": "Excuse me, sir. You need to get special permission for the video camera in the museum."
             },
             {
               "word": "permit",
@@ -4145,7 +3527,7 @@
               "pron": "`ɛfɚt",
               "pos": "n.",
               "chinese": "[U, C] 努力　the physical or mental energy required to do something",
-              "example_en": "assandra put a lot of effort into her science project and her teacher praised it in the end."
+              "example_en": "Cassandra put a lot of effort into her science project and her teacher praised it in the end."
             },
             {
               "word": "community",
@@ -4183,13 +3565,6 @@
               "example_en": "The police are searching the community for a criminal who just beat up two people for no reason."
             },
             {
-              "word": "The police are searching the community for a criminal who just beat up two people for no reaso",
-              "pron": "ˋkrɪmənḷ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "crime",
               "pron": "kraɪm",
               "pos": "n.",
@@ -4215,70 +3590,7 @@
               "pron": "dɪˋstrʌkʃən",
               "pos": "n.",
               "chinese": "[U] 破壞；毀滅",
-              "example_en": "ccording to this report, air pollution could result in the destruction of many ancient pieces of art someday."
-            },
-            {
-              "word": "graffiti",
-              "pron": "græˋfitɪ",
-              "pos": "n.",
-              "chinese": "[U] 塗鴉（為集合名詞，亦可為複數名詞）",
-              "example_en": ""
-            },
-            {
-              "word": "spray-paint",
-              "pron": "spre pent",
-              "pos": "vt.",
-              "chinese": "噴漆",
-              "example_en": ""
-            },
-            {
-              "word": "scribble",
-              "pron": "ˋskrɪbḷ",
-              "pos": "vt.",
-              "chinese": "vi. 亂畫；潦草地寫",
-              "example_en": ""
-            },
-            {
-              "word": "sketch",
-              "pron": "skɛtʃ",
-              "pos": "n.",
-              "chinese": "[C] 素描；速寫",
-              "example_en": ""
-            },
-            {
-              "word": "outline",
-              "pron": "ˋaʊtˏlaɪn",
-              "pos": "n.",
-              "chinese": "[C] 輪廓",
-              "example_en": ""
-            },
-            {
-              "word": "Banksy",
-              "pron": "ˋbæŋksɪ",
-              "pos": "n.",
-              "chinese": "班克斯（英國塗鴉藝術家）",
-              "example_en": ""
-            },
-            {
-              "word": "tagging",
-              "pron": "ˋtægɪŋ",
-              "pos": "n.",
-              "chinese": "[U] 用塗鴉留下名字或某個表明身分的圖形",
-              "example_en": ""
-            },
-            {
-              "word": "Los Angeles",
-              "pron": "lɔs ˋændʒələs",
-              "pos": "n.",
-              "chinese": "洛杉磯（位於美國加利福尼亞州，為美國第二大都市）",
-              "example_en": ""
-            },
-            {
-              "word": "square",
-              "pron": "skwɛr",
-              "pos": "adj.",
-              "chinese": "（表示面積單位）平方的",
-              "example_en": ""
+              "example_en": "According to this report, air pollution could result in the destruction of many ancient pieces of art someday."
             }
           ],
           "grammar": [
@@ -4671,13 +3983,6 @@
               "pos": "vt.",
               "chinese": "尊敬；尊重",
               "example_en": "Idioms and Phrases"
-            },
-            {
-              "word": "Olympic",
-              "pron": "o`lɪmpɪk",
-              "pos": "adj.",
-              "chinese": "奧林匹克運動會的",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -5290,90 +4595,6 @@
               "pos": "n.",
               "chinese": "[C] 武器",
               "example_en": "Idioms and Phrases"
-            },
-            {
-              "word": "Malala Yousafzai",
-              "pron": "mə`lɑlə `jusəfsaɪ",
-              "pos": "n.",
-              "chinese": "馬拉拉．尤蘇芙札",
-              "example_en": ""
-            },
-            {
-              "word": "akistan",
-              "pron": "`pækɪˏstæn",
-              "pos": "n.",
-              "chinese": "巴基斯坦",
-              "example_en": ""
-            },
-            {
-              "word": "akistani",
-              "pron": "ˏpækɪ`stænɪ",
-              "pos": "adj.",
-              "chinese": "巴基斯坦（人）的",
-              "example_en": ""
-            },
-            {
-              "word": "drip",
-              "pron": "drɪp",
-              "pos": "vi.",
-              "chinese": "滴落",
-              "example_en": ""
-            },
-            {
-              "word": "Taliban",
-              "pron": "`tæləbæn",
-              "pos": "n.",
-              "chinese": "塔利班",
-              "example_en": ""
-            },
-            {
-              "word": "advocate",
-              "pron": "`ædvəkɪt",
-              "pos": "n.",
-              "chinese": "[C] 提倡者；擁護者",
-              "example_en": ""
-            },
-            {
-              "word": "the BBC",
-              "pron": "ðə ˏbi bi `si",
-              "pos": "n.",
-              "chinese": "英國廣播公司（the British Broadcasting Corporation的縮寫）",
-              "example_en": ""
-            },
-            {
-              "word": "Britain",
-              "pron": "`brɪtṇ",
-              "pos": "n.",
-              "chinese": "英國",
-              "example_en": ""
-            },
-            {
-              "word": "Malala Fund",
-              "pron": "mə`lɑlə fʌnd",
-              "pos": "n.",
-              "chinese": "馬拉拉基金會",
-              "example_en": ""
-            },
-            {
-              "word": "empower",
-              "pron": "ɪm`paʊɚ",
-              "pos": "vt.",
-              "chinese": "賦予力量；使其擁有力量",
-              "example_en": ""
-            },
-            {
-              "word": "the Nobel Peace Prize",
-              "pron": "ðə no`bɛl pis praɪz",
-              "pos": "n.",
-              "chinese": "諾貝爾和平獎",
-              "example_en": ""
-            },
-            {
-              "word": "the UN",
-              "pron": "ðə ˏju `ɛn",
-              "pos": "n.",
-              "chinese": "聯合國（the United Nations的縮寫）",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -5488,7 +4709,7 @@
               "pron": "ɪ`mædʒəˏnətɪv",
               "pos": "adj.",
               "chinese": "有想像力的　having the ability to think creatively",
-              "example_en": ". K. Rowling is an imaginative writer who has written many interesting fantasy stories."
+              "example_en": "J. K. Rowling is an imaginative writer who has written many interesting fantasy stories."
             },
             {
               "word": "imagine",
@@ -5709,76 +4930,6 @@
               "pos": "vt.",
               "chinese": "霸凌　(bullied—bullied—bullying)",
               "example_en": ""
-            },
-            {
-              "word": "contagious",
-              "pron": "kən`tedʒəs",
-              "pos": "adj.",
-              "chinese": "具傳染力的",
-              "example_en": ""
-            },
-            {
-              "word": "Bleeding Scream",
-              "pron": "`blidɪŋ skrim",
-              "pos": "n.",
-              "chinese": "鬼臉面具（源自於電影《驚聲尖叫》中殺",
-              "example_en": ""
-            },
-            {
-              "word": "costume",
-              "pron": "`kɑstum",
-              "pos": "n.",
-              "chinese": "[C, U] 戲服等特殊服裝",
-              "example_en": ""
-            },
-            {
-              "word": "hall",
-              "pron": "hɔl",
-              "pos": "n.",
-              "chinese": "[C] 走廊",
-              "example_en": ""
-            },
-            {
-              "word": "abruptly",
-              "pron": "ə`brʌptlɪ",
-              "pos": "adv.",
-              "chinese": "突然地",
-              "example_en": ""
-            },
-            {
-              "word": "taboo",
-              "pron": "tə`bu",
-              "pos": "adj.",
-              "chinese": "禁忌的",
-              "example_en": ""
-            },
-            {
-              "word": "flashlight",
-              "pron": "`flæʃˏlaɪt",
-              "pos": "n.",
-              "chinese": "[C] 手電筒",
-              "example_en": ""
-            },
-            {
-              "word": "dude",
-              "pron": "dud",
-              "pos": "n.",
-              "chinese": "[C] 傢伙；哥們",
-              "example_en": ""
-            },
-            {
-              "word": "knuckle-punch",
-              "pron": "`nʌkḷ ˏpʌntʃ",
-              "pos": "vt.",
-              "chinese": "擊拳",
-              "example_en": ""
-            },
-            {
-              "word": "hallway",
-              "pron": "`hɔlˏwe",
-              "pos": "n.",
-              "chinese": "[C] 走道",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -5941,7 +5092,7 @@
               "pron": "`ɪnkris",
               "pos": "n.",
               "chinese": "[C, U] 增加",
-              "example_en": "n increase in average temperatures is causing the snow in this region to melt earlier than usual."
+              "example_en": "An increase in average temperatures is causing the snow in this region to melt earlier than usual."
             },
             {
               "word": "organize",
@@ -5986,13 +5137,6 @@
               "example_en": "This camp is designed for children who range in age from six to ten."
             },
             {
-              "word": "This camp is designed for children who range in age from six to te",
-              "pron": "rendʒ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "thoughts",
               "pron": "rendʒ",
               "pos": "vt.",
@@ -6017,36 +5161,22 @@
               "word": "Tina watched in fascination as the movie went o",
               "pron": "kə`lɛkt",
               "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "Tina watched in fascination as the movie went o",
-              "pron": "kə`lɛkt",
-              "pos": "n.",
               "chinese": "usually sing. 吸引力",
-              "example_en": "andas have always held a fascination for Anna, so a trip to the zoo was well worth it for her."
+              "example_en": "Pandas have always held a fascination for Anna, so a trip to the zoo was well worth it for her."
             },
             {
               "word": "fascinate",
               "pron": "`fæsṇˏet",
               "pos": "vt.",
               "chinese": "使人著迷；吸引",
-              "example_en": "my was absolutely fascinated by the TV talk show; she didn’t even hear the telephone ring."
+              "example_en": "Amy was absolutely fascinated by the TV talk show; she didn’t even hear the telephone ring."
             },
             {
-              "word": "ride and Prejudice is one of the most famous examples of romantic fictio",
-              "pron": "`fæsṇˏet",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "ride and Prejudice is one of the most famous examples of romantic fictio",
+              "word": "Pride and Prejudice is one of the most famous examples of romantic fictio",
               "pron": "`fæsṇˏet",
               "pos": "vt.",
               "chinese": "討論",
-              "example_en": "va made a decision after discussing her ideas with her friends."
+              "example_en": "Eva made a decision after discussing her ideas with her friends."
             },
             {
               "word": "discussion",
@@ -6054,118 +5184,6 @@
               "pos": "n.",
               "chinese": "[C, U] 討論",
               "example_en": "The couple had a long discussion about the possibility of moving to a different city. They talked for hours."
-            },
-            {
-              "word": "TED Talks",
-              "pron": "`tɛd `tɔks",
-              "pos": "n.",
-              "chinese": "TED演講（不同領域的專家以演講形式於TED平台與大眾分享資訊）",
-              "example_en": ""
-            },
-            {
-              "word": "social networking site",
-              "pron": "`soʃəl `nɛtwɝkɪŋ saɪt",
-              "pos": "n.",
-              "chinese": "[C] 社交網站",
-              "example_en": ""
-            },
-            {
-              "word": "platform",
-              "pron": "`plætˏfɔrm",
-              "pos": "n.",
-              "chinese": "usually sing. （公開表達看法的）機會",
-              "example_en": ""
-            },
-            {
-              "word": "slogan",
-              "pron": "`slogən",
-              "pos": "n.",
-              "chinese": "[C] 口號；標語",
-              "example_en": ""
-            },
-            {
-              "word": "upload",
-              "pron": "ʌp`lod",
-              "pos": "vt.",
-              "chinese": "上傳",
-              "example_en": ""
-            },
-            {
-              "word": "insight",
-              "pron": "`ɪnˏsaɪt",
-              "pos": "n.",
-              "chinese": "[C] 見解",
-              "example_en": ""
-            },
-            {
-              "word": "chef",
-              "pron": "ʃɛf",
-              "pos": "n.",
-              "chinese": "[C] 主廚",
-              "example_en": ""
-            },
-            {
-              "word": "amie Oliver",
-              "pron": "`dʒemi `ɑləvɚ",
-              "pos": "n.",
-              "chinese": "傑米•奧利佛",
-              "example_en": ""
-            },
-            {
-              "word": "ames Cameron",
-              "pron": "`dʒemz `kæmərən",
-              "pos": "n.",
-              "chinese": "詹姆斯•卡麥隆",
-              "example_en": ""
-            },
-            {
-              "word": "liens",
-              "pron": "`elɪənz",
-              "pos": "n.",
-              "chinese": "《異形2》",
-              "example_en": ""
-            },
-            {
-              "word": "vatar",
-              "pron": "`ævəˏtɑr",
-              "pos": "n.",
-              "chinese": "《阿凡達》",
-              "example_en": ""
-            },
-            {
-              "word": "blockbuster",
-              "pron": "`blɑkˏbʌstɚ",
-              "pos": "n.",
-              "chinese": "[C] 賣座鉅片",
-              "example_en": ""
-            },
-            {
-              "word": "Bill Gates",
-              "pron": "`bɪl `gets",
-              "pos": "n.",
-              "chinese": "比爾•蓋茲",
-              "example_en": ""
-            },
-            {
-              "word": "co-founder",
-              "pron": "`koˏfaʊndɚ",
-              "pos": "n.",
-              "chinese": "[C] 共同創辦人",
-              "example_en": ""
-            },
-            {
-              "word": "Microsoft",
-              "pron": "`maɪkrosɔft",
-              "pos": "n.",
-              "chinese": "微軟",
-              "example_en": ""
-            },
-            {
-              "word": "bola",
-              "pron": "ɪ`bolə",
-              "pos": "n.",
-              "chinese": "伊波拉",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -6286,13 +5304,6 @@
               "example_en": "Most parents have high expectations of their children. They hope that their children can make them proud."
             },
             {
-              "word": "Most parents have high expectations of their childre",
-              "pron": "ˏɛkspɛk`teʃən",
-              "pos": "n.",
-              "chinese": "They hope that their children can make them proud.",
-              "example_en": ""
-            },
-            {
               "word": "shelter",
               "pron": "`ʃɛltɚ",
               "pos": "n.",
@@ -6304,7 +5315,7 @@
               "pron": "`ʃɛltɚ",
               "pos": "n.",
               "chinese": "[U] 遮蔽",
-              "example_en": "aught in the thunderstorm, several people took shelter from the wind and rain under the roof of a bus stop."
+              "example_en": "Caught in the thunderstorm, several people took shelter from the wind and rain under the roof of a bus stop."
             },
             {
               "word": "shelter",
@@ -6325,14 +5336,7 @@
               "pron": "ˏɑkjə`peʃən",
               "pos": "n.",
               "chinese": "[C] 職業",
-              "example_en": "lease write your name, age, and occupation in the blanks below."
-            },
-            {
-              "word": "Scooters are vehicles commonly seen on the roads in Taiwa",
-              "pron": "ˏɑkjə`peʃən",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
+              "example_en": "Please write your name, age, and occupation in the blanks below."
             },
             {
               "word": "assist",
@@ -6374,7 +5378,7 @@
               "pron": "`ɛldɚ",
               "pos": "adj.",
               "chinese": "（家庭成員）較為年長的",
-              "example_en": "udy’s elder sister finished school two years ahead of her and currently works as a nurse."
+              "example_en": "Judy’s elder sister finished school two years ahead of her and currently works as a nurse."
             },
             {
               "word": "elderly",
@@ -6382,13 +5386,6 @@
               "pos": "adj.",
               "chinese": "年紀大的",
               "example_en": "Two friendly teenagers assisted the elderly lady in crossing the street safely."
-            },
-            {
-              "word": "ast-food restaurants often cooperate with toy makers in providing toys to attract more childre",
-              "pron": "`ɛldɚlɪ",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
             },
             {
               "word": "cooperation",
@@ -6423,7 +5420,7 @@
               "pron": "strol",
               "pos": "n.",
               "chinese": "[U] 精神；心靈",
-              "example_en": "lthough Kate’s parents couldn’t attend her first piano concert in person, she felt they were with her in spirit."
+              "example_en": "Although Kate’s parents couldn’t attend her first piano concert in person, she felt they were with her in spirit."
             },
             {
               "word": "spiritual",
@@ -6431,62 +5428,6 @@
               "pos": "adj.",
               "chinese": "精神上的",
               "example_en": "The Pope is the spiritual leader of Catholics around the world."
-            },
-            {
-              "word": "ban-doh",
-              "pron": "`bænˏdɔ",
-              "pos": "n.",
-              "chinese": "[C] （臺語）辦桌",
-              "example_en": ""
-            },
-            {
-              "word": "authentic",
-              "pron": "ɔ`θɛntɪk",
-              "pos": "adj.",
-              "chinese": "道地的；真正的",
-              "example_en": ""
-            },
-            {
-              "word": "banquet",
-              "pron": "`bæŋkwɪt",
-              "pos": "n.",
-              "chinese": "[C] 宴會",
-              "example_en": ""
-            },
-            {
-              "word": "tent",
-              "pron": "tɛnt",
-              "pos": "n.",
-              "chinese": "[C] 帳篷",
-              "example_en": ""
-            },
-            {
-              "word": "platter",
-              "pron": "`plætɚ",
-              "pos": "n.",
-              "chinese": "[C] 大淺盤",
-              "example_en": ""
-            },
-            {
-              "word": "utensil",
-              "pron": "ju`tɛnsḷ",
-              "pos": "n.",
-              "chinese": "[C] （廚房或用餐的）器具",
-              "example_en": ""
-            },
-            {
-              "word": "leftovers",
-              "pron": "`lɛftˏovɚz",
-              "pos": "n.",
-              "chinese": "pl. 剩菜",
-              "example_en": ""
-            },
-            {
-              "word": "folks",
-              "pron": "foks",
-              "pos": "n.",
-              "chinese": "pl. 人們",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -6651,7 +5592,7 @@
               "pron": "`gɑsəp",
               "pos": "vi.",
               "chinese": "散播流言；說八卦",
-              "example_en": "llen didn’t feel comfortable gossiping about Bart’s new wife. To her, it was wrong to discuss other people’s private lives."
+              "example_en": "Ellen didn’t feel comfortable gossiping about Bart’s new wife. To her, it was wrong to discuss other people’s private lives."
             },
             {
               "word": "gossip",
@@ -6665,7 +5606,7 @@
               "pron": "rɪ`lis",
               "pos": "n.",
               "chinese": "[U] 公開發行",
-              "example_en": "ver since the release of its first album, the band has become increasingly popular."
+              "example_en": "Ever since the release of its first album, the band has become increasingly popular."
             },
             {
               "word": "release",
@@ -6689,13 +5630,6 @@
               "example_en": "The actress tried to improve her public image by participating in charity events."
             },
             {
-              "word": "It is important to carefully edit an essay before handing it i",
-              "pron": "tʃes",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "edition",
               "pron": "ɪ`dɪʃən",
               "pos": "n.",
@@ -6703,25 +5637,11 @@
               "example_en": "The publisher has corrected several mistakes and added a new article in the book’s most recent edition."
             },
             {
-              "word": "The publisher has corrected several mistakes and added a new article in the book’s most recent editio",
-              "pron": "ɪ`dɪʃən",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
               "word": "modification",
               "pron": "ˏmɑdəfə`keʃən",
               "pos": "n.",
               "chinese": "[C, U] 修改",
-              "example_en": "dam made a modification to the bicycle so that his child can learn to ride it safely."
-            },
-            {
-              "word": "You can store the photos digitally on the phone and view them directly on the scree",
-              "pron": "ˏmɑdəfə`keʃən",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
+              "example_en": "Adam made a modification to the bicycle so that his child can learn to ride it safely."
             },
             {
               "word": "digital",
@@ -6742,7 +5662,7 @@
               "pron": "`stændɚd",
               "pos": "n.",
               "chinese": "[C, U] 標準",
-              "example_en": "lsa’s parents set a really high standard for her, so she always struggles to meet their expectations."
+              "example_en": "Elsa’s parents set a really high standard for her, so she always struggles to meet their expectations."
             },
             {
               "word": "constant",
@@ -6756,7 +5676,7 @@
               "pron": "`kɑnstənt",
               "pos": "adj.",
               "chinese": "替代的",
-              "example_en": "mma soon got tired of taking the bus to work and started looking for alternative ways to get to her office."
+              "example_en": "Emma soon got tired of taking the bus to work and started looking for alternative ways to get to her office."
             },
             {
               "word": "alternative",
@@ -6778,83 +5698,6 @@
               "pos": "n.",
               "chinese": "[U] 存在",
               "example_en": "Scientists have many theories about how the universe came into existence."
-            },
-            {
-              "word": "The family began their European holiday in Spai",
-              "pron": "ɪg`zɪstəns",
-              "pos": "n.",
-              "chinese": "Later on, they visited France and Germany.",
-              "example_en": ""
-            },
-            {
-              "word": "eponym",
-              "pron": "`ɛpəˏnɪm",
-              "pos": "n.",
-              "chinese": "[C] 借名成字（以人名、品牌名稱來命名的方式）",
-              "example_en": ""
-            },
-            {
-              "word": "paparazzi",
-              "pron": "͵pɑpə`rɑtsɪ",
-              "pos": "n.",
-              "chinese": "pl. 狗仔隊（單數形為paparazzo）",
-              "example_en": ""
-            },
-            {
-              "word": "hotoshop",
-              "pron": "`fotoˏ ʃɑp",
-              "pos": "n.",
-              "chinese": "hotoshop（一款由Adobe開發和發行的影像處理軟體）",
-              "example_en": ""
-            },
-            {
-              "word": "verb",
-              "pron": "vɝb",
-              "pos": "n.",
-              "chinese": "[C] 動詞",
-              "example_en": ""
-            },
-            {
-              "word": "aparazzo",
-              "pron": "ˏpɑpə`rɑtso",
-              "pos": "n.",
-              "chinese": "義大利名（為一部義大利電影的角色名稱）",
-              "example_en": ""
-            },
-            {
-              "word": "Italian",
-              "pron": "ɪ`tæljən",
-              "pos": "adj.",
-              "chinese": "義大利的",
-              "example_en": ""
-            },
-            {
-              "word": "La Dolce Vita",
-              "pron": "͵lɑ `dɔtʃɚ `vitə",
-              "pos": "n.",
-              "chinese": "The Sweet Life《甜蜜的生活》（一部1960年上映的義大利電影）",
-              "example_en": ""
-            },
-            {
-              "word": "plural",
-              "pron": "`plʊrəl",
-              "pos": "n.",
-              "chinese": "[C] 複數",
-              "example_en": ""
-            },
-            {
-              "word": "software",
-              "pron": "`sɔft͵wɛr",
-              "pos": "n.",
-              "chinese": "[U] 軟體",
-              "example_en": "dobe Inc. [ə`dobɪ ɪŋk]　n. Adobe公司（為美國一家跨國電腦軟體公司）"
-            },
-            {
-              "word": "dobe Inc.",
-              "pron": "ə`dobɪ ɪŋk",
-              "pos": "n.",
-              "chinese": "dobe公司（為美國一家跨國電腦軟體公司）",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -8564,13 +7407,6 @@
               "pos": "n.",
               "chinese": "[C] 逃跑",
               "example_en": "The robber made his escape while the guards were changing shifts."
-            },
-            {
-              "word": "Mexico",
-              "pron": "`mɛksɪˏko",
-              "pos": "n.",
-              "chinese": "墨西哥",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -9710,13 +8546,6 @@
               "example_en": "The horror movie has attracted much attention because everyone has a different interpretation of its ending."
             },
             {
-              "word": "The beauty of poetry is that it is open to interpretatio",
-              "pron": "ɪn`tɝprɪt",
-              "pos": "n.",
-              "chinese": "poem, therefore, can be explained in many different ways.",
-              "example_en": ""
-            },
-            {
               "word": "stiff",
               "pron": "ɪn`tɝprɪt",
               "pos": "adj.",
@@ -9812,7 +8641,7 @@
               "pron": "ˏɑbzɚ`veʃən",
               "pos": "n.",
               "chinese": "[U, C] 觀察",
-              "example_en": "fter the surgery, Nella had to stay at the hospital under observation for three days."
+              "example_en": "After the surgery, Nella had to stay at the hospital under observation for three days."
             },
             {
               "word": "reverse",
@@ -9854,13 +8683,6 @@
               "pron": "sɪg`nɪfəkəns",
               "pos": "n.",
               "chinese": "[C] 條件；狀況　conditions or factors that together  [`sɝkəmˏstæns]determine or affect a situation",
-              "example_en": ""
-            },
-            {
-              "word": "Under no circumstances can visitors to the museum touch or remove any artworks from the exhibitio",
-              "pron": "sɪg`nɪfəkəns",
-              "pos": "n.",
-              "chinese": "",
               "example_en": ""
             },
             {
@@ -9960,13 +8782,6 @@
               "pos": "n.",
               "chinese": "[C] 同事；同輩",
               "example_en": "The manager thinks Ray isn’t very reliable, but he’s very popular among his fellows in the company."
-            },
-            {
-              "word": "ll the students in the class loved Rita’s presentatio",
-              "pron": "`fɛlo",
-              "pos": "n.",
-              "chinese": "The teacher thought highly of it as well.",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -10174,7 +8989,7 @@
               "pron": "`ligḷ",
               "pos": "adj.",
               "chinese": "法律的",
-              "example_en": "ulian needed legal advice during his divorce, so he contacted an old friend who was a lawyer to ask for help."
+              "example_en": "Julian needed legal advice during his divorce, so he contacted an old friend who was a lawyer to ask for help."
             },
             {
               "word": "lure",
@@ -10364,48 +9179,6 @@
               "pos": "n.",
               "chinese": "[U] 智力；才智",
               "example_en": "Computers, robots, and self-driving cars are examples of artificial intelligence because they’re human-made machines that function based on logic and calculation."
-            },
-            {
-              "word": "calf",
-              "pron": "kæf",
-              "pos": "n.",
-              "chinese": "[C] （象、鯨等的）幼獸；小牛；牛犢",
-              "example_en": ""
-            },
-            {
-              "word": "trapper",
-              "pron": "`træpɚ",
-              "pos": "n.",
-              "chinese": "[C] 捕殺動物者",
-              "example_en": ""
-            },
-            {
-              "word": "spine",
-              "pron": "spaɪn",
-              "pos": "n.",
-              "chinese": "[C] 脊柱；脊椎",
-              "example_en": ""
-            },
-            {
-              "word": "flesh",
-              "pron": "flɛʃ",
-              "pos": "n.",
-              "chinese": "[U] （人或動物的）肉；果肉",
-              "example_en": ""
-            },
-            {
-              "word": "bullhook",
-              "pron": "`bʊlhʊk",
-              "pos": "n.",
-              "chinese": "[C] （趕象、馴象用的）象鉤",
-              "example_en": ""
-            },
-            {
-              "word": "roam",
-              "pron": "rom",
-              "pos": "vi.",
-              "chinese": "閒逛（於）；漫步（於）",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -10518,13 +9291,6 @@
               "pron": "`pɪlgrɪm",
               "pos": "vt.",
               "chinese": "使……成為一體；凝聚　to bring individuals or groups [`junəˏfaɪ]together to form one unit",
-              "example_en": ""
-            },
-            {
-              "word": "The country’s first president unified the people and is considered the founding father of the natio",
-              "pron": "`pɪlgrɪm",
-              "pos": "n.",
-              "chinese": "",
               "example_en": ""
             },
             {
@@ -10791,76 +9557,6 @@
               "pron": "rɪ`lɪdʒən",
               "pos": "n.",
               "chinese": "usually sing. （一國家或社會所形成的）遺產　the [`hɛrətɪdʒ] history, traditions, and qualities of a country or society",
-              "example_en": ""
-            },
-            {
-              "word": "Mazu",
-              "pron": "`mɑzu",
-              "pos": "n.",
-              "chinese": "媽祖",
-              "example_en": ""
-            },
-            {
-              "word": "mania",
-              "pron": "`menɪə",
-              "pos": "n.",
-              "chinese": "[C] 瘋狂；狂熱",
-              "example_en": ""
-            },
-            {
-              "word": "festivity",
-              "pron": "fɛs`tɪvətɪ",
-              "pos": "n.",
-              "chinese": "[C] 慶典",
-              "example_en": ""
-            },
-            {
-              "word": "Zhenlan Temple",
-              "pron": "`zɛnˏlæn `tɛmpḷ",
-              "pos": "n.",
-              "chinese": "鎮瀾宮",
-              "example_en": ""
-            },
-            {
-              "word": "lunar calendar",
-              "pron": "`lunɚ `kæləndɚ",
-              "pos": "n.",
-              "chinese": "[C] 陰曆；農曆",
-              "example_en": ""
-            },
-            {
-              "word": "sedan chair",
-              "pron": "sɪ`dæn ˏtʃɛr",
-              "pos": "n.",
-              "chinese": "[C] 轎座",
-              "example_en": ""
-            },
-            {
-              "word": "wane",
-              "pron": "wen",
-              "pos": "vi.",
-              "chinese": "衰退；下降",
-              "example_en": ""
-            },
-            {
-              "word": "horn",
-              "pron": "hɔrn",
-              "pos": "n.",
-              "chinese": "[C] （樂器）號角",
-              "example_en": ""
-            },
-            {
-              "word": "firework",
-              "pron": "`faɪrˏwɝk",
-              "pos": "n.",
-              "chinese": "[C] 煙火",
-              "example_en": ""
-            },
-            {
-              "word": "firecracker",
-              "pron": "`faɪrˏkrækɚ",
-              "pos": "n.",
-              "chinese": "[C] 爆竹",
               "example_en": ""
             }
           ],
@@ -12100,13 +10796,6 @@
               "pos": "adj.",
               "chinese": "喜愛……的",
               "example_en": "My roommate and I didn’t get along at first, but I’ve grown fond of him over these years."
-            },
-            {
-              "word": "gyptian",
-              "pron": "ɪ`dʒɪpʃən",
-              "pos": "adj.",
-              "chinese": "埃及（人）的　n. [C] 埃及人",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -12950,20 +11639,6 @@
               "pos": "n.",
               "chinese": "..　收留　to let someone stay or live in your apartment or house, usually because he or she needs care or protection",
               "example_en": ""
-            },
-            {
-              "word": "oland",
-              "pron": "`polənd",
-              "pos": "n.",
-              "chinese": "波蘭",
-              "example_en": ""
-            },
-            {
-              "word": "ewish",
-              "pron": "`dʒuɪʃ",
-              "pos": "adj.",
-              "chinese": "猶太人的；猶太教的",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -13518,7 +12193,7 @@
               "example_en": "The country’s government apologized for the injustices that had been committed against indigenous people in the past."
             },
             {
-              "word": "ustice",
+              "word": "Justice",
               "pron": "`dʒʌstɪs",
               "pos": "n.",
               "chinese": "[U] 正義；公平",
@@ -13775,62 +12450,6 @@
               "pos": "n.",
               "chinese": "[C] 奇蹟；令人驚奇的人或事物",
               "example_en": "The giant red cypress that has been standing in the mountains for about two thousand years is a marvel of nature."
-            },
-            {
-              "word": "Iceland",
-              "pron": "`aɪslənd",
-              "pos": "n.",
-              "chinese": "冰島",
-              "example_en": ""
-            },
-            {
-              "word": "Icelandic",
-              "pron": "aɪs`lændɪk",
-              "pos": "adj.",
-              "chinese": "冰島的",
-              "example_en": ""
-            },
-            {
-              "word": "World Economic Forum",
-              "pron": "`wɝld ˏikə`nɑmɪk `fɔrəm",
-              "pos": "n.",
-              "chinese": "世界經濟論壇",
-              "example_en": ""
-            },
-            {
-              "word": "index",
-              "pron": "`ɪndɛks",
-              "pos": "n.",
-              "chinese": "[C] 指數",
-              "example_en": ""
-            },
-            {
-              "word": "act",
-              "pron": "ækt",
-              "pos": "n.",
-              "chinese": "[C] 法案；法令",
-              "example_en": ""
-            },
-            {
-              "word": "Nordic",
-              "pron": "`nɔrdɪk",
-              "pos": "adj.",
-              "chinese": "北歐的",
-              "example_en": ""
-            },
-            {
-              "word": "wonderland",
-              "pron": "ˈwʌndɚˏlænd",
-              "pos": "n.",
-              "chinese": "[C] 仙境；美好的地方",
-              "example_en": ""
-            },
-            {
-              "word": "role model",
-              "pron": "`rol ˏmɑdḷ",
-              "pos": "n.",
-              "chinese": "[C] 楷模；榜樣",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -14169,27 +12788,6 @@
               "pos": "adj.",
               "chinese": "壞的；有害的　not good or causing harm in some way",
               "example_en": "It is believed that chronic overwork will have a negative impact on one’s health and quality of life."
-            },
-            {
-              "word": "Rewrite the following sentences using the above patter",
-              "pron": "`nɛgətɪv",
-              "pos": "n.",
-              "chinese": "The first one has been done for you.",
-              "example_en": ""
-            },
-            {
-              "word": "itizens of this country are allowed to vote only after they turn eightee",
-              "pron": "`nɛgətɪv",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
-            },
-            {
-              "word": "You can only cross the street when the traffic light turns from red to gree",
-              "pron": "`nɛgətɪv",
-              "pos": "n.",
-              "chinese": "",
-              "example_en": ""
             }
           ],
           "grammar": [
@@ -14572,90 +13170,6 @@
               "pos": "adj.",
               "chinese": "肯定的；確定的",
               "example_en": "The boss said the meeting would be held on Tuesday, but the definite time would be announced later."
-            },
-            {
-              "word": "To Kill a Mockingbird",
-              "pron": "tu `kɪl ə `mɑkɪŋ͵bɝd",
-              "pos": "n.",
-              "chinese": "《梅岡城故事》（此為1960年出版的小說，由美國作家Harper Lee所創作，描述種族歧視議題）",
-              "example_en": ""
-            },
-            {
-              "word": "Maycomb",
-              "pron": "`mekom",
-              "pos": "n.",
-              "chinese": "梅岡城（小說中虛構的城鎮）",
-              "example_en": ""
-            },
-            {
-              "word": "labama",
-              "pron": "͵ælə`bæmə",
-              "pos": "n.",
-              "chinese": "阿拉巴馬（美國五十州之一）",
-              "example_en": ""
-            },
-            {
-              "word": "empathetic",
-              "pron": "ɛmpə`θɛtɪk",
-              "pos": "adj.",
-              "chinese": "有同感的；表示同情的",
-              "example_en": ""
-            },
-            {
-              "word": "drunkard",
-              "pron": "`drʌŋkɚd",
-              "pos": "n.",
-              "chinese": "[C] 酒鬼",
-              "example_en": ""
-            },
-            {
-              "word": "nigger",
-              "pron": "`nɪgɚ",
-              "pos": "n.",
-              "chinese": "[C] 黑鬼（對黑人極度冒犯的稱呼）",
-              "example_en": ""
-            },
-            {
-              "word": "courthouse",
-              "pron": "`kortˏhaʊs",
-              "pos": "n.",
-              "chinese": "[C] 法院大樓",
-              "example_en": ""
-            },
-            {
-              "word": "testimony",
-              "pron": "`tɛstə͵monɪ",
-              "pos": "n.",
-              "chinese": "[C] 證詞",
-              "example_en": ""
-            },
-            {
-              "word": "sheriff",
-              "pron": "`ʃɛrɪf",
-              "pos": "n.",
-              "chinese": "[C] 警長",
-              "example_en": ""
-            },
-            {
-              "word": "courtroom",
-              "pron": "`kort͵rʊm",
-              "pos": "n.",
-              "chinese": "[C] 法庭",
-              "example_en": ""
-            },
-            {
-              "word": "glimmer",
-              "pron": "`glɪmɚ",
-              "pos": "n.",
-              "chinese": "[C] 微光",
-              "example_en": ""
-            },
-            {
-              "word": "deliberate",
-              "pron": "dɪ`lɪbə͵ret",
-              "pos": "vt.",
-              "chinese": "深思熟慮",
-              "example_en": ""
             }
           ],
           "grammar": [
