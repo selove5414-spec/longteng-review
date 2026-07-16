@@ -115,6 +115,38 @@ function setupEventListeners() {
         document.getElementById('game-over-modal').classList.remove('active');
         exitClassroomMode();
     });
+
+    // Global keydown listener for Spelling Arena keyboard input
+    window.addEventListener('keydown', (e) => {
+        if (activeGameMode !== 'spelling') return;
+        if (document.getElementById('game-over-modal').classList.contains('active')) return;
+        
+        const key = e.key;
+        
+        // Handle Backspace
+        if (key === 'Backspace') {
+            e.preventDefault();
+            const backBtn = document.querySelector('.key-btn.backspace');
+            if (backBtn) backBtn.click();
+            return;
+        }
+        
+        // Handle letters a-z / A-Z
+        if (/^[a-zA-Z]$/.test(key)) {
+            const lowerKey = key.toLowerCase();
+            const keyBtns = document.querySelectorAll('.key-btn');
+            let matchedBtn = null;
+            for (let btn of keyBtns) {
+                if (btn.innerText.toLowerCase() === lowerKey && !btn.classList.contains('backspace')) {
+                    matchedBtn = btn;
+                    break;
+                }
+            }
+            if (matchedBtn) {
+                matchedBtn.click();
+            }
+        }
+    });
 }
 
 // Sound effects synthesizer
