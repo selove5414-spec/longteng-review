@@ -446,6 +446,105 @@
           ],
           "quiz": [
             {
+              "question": "Join us and enjoy _______ from three young people about some of theirs.",
+              "options": [
+                "to hear",
+                "in hearing",
+                "hearing",
+                "hear"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：hearing"
+            },
+            {
+              "question": "I’d like to talk about when I had online classes _______ the first time.",
+              "options": [
+                "of",
+                "on",
+                "in",
+                "for"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：for"
+            },
+            {
+              "question": "They had some good points when they were compared with _______ classes.",
+              "options": [
+                "accidental",
+                "traditional",
+                "fortunate",
+                "memorable"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：traditional"
+            },
+            {
+              "question": "Once, our teacher put a filter on her video and _______ like an alien.",
+              "options": [
+                "listened",
+                "tasted",
+                "smelled",
+                "looked"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：looked"
+            },
+            {
+              "question": "Still, if I could choose, I’d go to school for class _______ instead of studying online.",
+              "options": [
+                "in practice",
+                "in private",
+                "in person",
+                "in detail"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：in person"
+            },
+            {
+              "question": "I _______ some meetings, so I didn’t understand our project.",
+              "options": [
+                "recalled",
+                "presented",
+                "skipped",
+                "upset"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：skipped"
+            },
+            {
+              "question": "I made several mistakes when I talked in front of _______ the students.",
+              "options": [
+                "none of",
+                "a few",
+                "the part of",
+                "the rest of"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：the rest of"
+            },
+            {
+              "question": "I’ve always loved Korean things _______ Korean barbecue and K-pop.",
+              "options": [
+                "as",
+                "like",
+                "such",
+                "too"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：like"
+            },
+            {
+              "question": "I was excited just walking around Seoul when I felt _______ I was surrounded by things that I enjoy.",
+              "options": [
+                "which",
+                "what",
+                "that",
+                "it"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：that"
+            },
+            {
               "question": "Tammy felt _______ when she was unable to get a ticket to her favorite singer’s concert.",
               "options": [
                 "depress",
@@ -454,7 +553,7 @@
                 "depression"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：depressed"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：depressed"
             },
             {
               "question": "The convenience store near our school is always full _______ students after school.",
@@ -465,7 +564,7 @@
                 "for"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：of"
             },
             {
               "question": "Edward prefers to go jogging _______ a T-shirt and shorts.",
@@ -476,7 +575,7 @@
                 "at"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：in"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：in"
             },
             {
               "question": "hours ago, one car hit another one and caused a traffic jam. But the road is clear now.",
@@ -487,7 +586,7 @@
                 "A few"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：A few"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：A few"
             },
             {
               "question": "Misspelling one’s name can be an _______ experience.",
@@ -498,7 +597,7 @@
                 "embarrassed"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：embarrassing"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：embarrassing"
             }
           ]
         },
@@ -1019,6 +1118,116 @@
           ],
           "quiz": [
             {
+              "question": "There’s no easy way to put it: I _______ you.",
+              "options": [
+                "leave",
+                "am leaving",
+                "left",
+                "have left"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：am leaving"
+            },
+            {
+              "question": "It’s painful to tell you this because we’ve had a lot of good _______ together.",
+              "options": [
+                "times",
+                "plans",
+                "pauses",
+                "reflections"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：times"
+            },
+            {
+              "question": "You’ve helped me _______ new friends and discover new games, new music, and new knowledge.",
+              "options": [
+                "making",
+                "made",
+                "makes",
+                "make"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：make"
+            },
+            {
+              "question": "I can _______ you anything, and you almost always know the answer.",
+              "options": [
+                "ask",
+                "help",
+                "do",
+                "find"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：ask"
+            },
+            {
+              "question": "However, I’m _______ it’s time for me to say goodbye.",
+              "options": [
+                "satisfied",
+                "afraid",
+                "romantic",
+                "personal"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：afraid"
+            },
+            {
+              "question": "From the moment I _______ , I spend all my time with you.",
+              "options": [
+                "let out",
+                "dress up",
+                "wake up",
+                "fall asleep"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：wake up"
+            },
+            {
+              "question": "Throughout the day, I check you _______ for emails and updates.",
+              "options": [
+                "anymore",
+                "in the end",
+                "right now",
+                "again and again"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：again and again"
+            },
+            {
+              "question": "I’m so _______ spending time with you that the rest of my life has started to suffer.",
+              "options": [
+                "busy",
+                "ready",
+                "embarrassed",
+                "right"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：busy"
+            },
+            {
+              "question": "At school, my grades are _______ worse.",
+              "options": [
+                "going",
+                "making",
+                "getting",
+                "taking"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：getting"
+            },
+            {
+              "question": "At home, I _______ speak to my family members.",
+              "options": [
+                "seldom",
+                "always",
+                "often",
+                "usually"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：seldom"
+            },
+            {
               "question": "Having kids _______ always makes Cindy happy, for she loves spending time with them.",
               "options": [
                 "besides",
@@ -1027,7 +1236,7 @@
                 "around"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：around"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：around"
             },
             {
               "question": "If you want to stop _______ tired all the time, you should consider trying a healthier diet.",
@@ -1038,7 +1247,7 @@
                 "to feel"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：feeling"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：feeling"
             },
             {
               "question": "Jerry couldn’t _______ his studies when his sister was bothering him.",
@@ -1049,7 +1258,7 @@
                 "go through"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：focus on"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：focus on"
             },
             {
               "question": "Jenny’s idea to have a picnic at the riverside park _______ perfect to me.",
@@ -1060,7 +1269,7 @@
                 "sounds like"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：sounds"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：sounds"
             },
             {
               "question": "While Jason was in bed recovering from the flu, his dog stayed _______ his side the entire time.",
@@ -1071,7 +1280,7 @@
                 "with"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：by"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：by"
             }
           ]
         },
@@ -1523,6 +1732,94 @@
           ],
           "quiz": [
             {
+              "question": "Although I knew goldfish sleep with their eyes open and giraffes sleep very little, I was _______ to learn that one half of a dolphin’s brain is always awake!",
+              "options": [
+                "surprised",
+                "amazing",
+                "bored",
+                "busy"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：surprised"
+            },
+            {
+              "question": "This is to help them _______ safe in the water at all times.",
+              "options": [
+                "and stay",
+                "stayed",
+                "stay",
+                "staying"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：stay"
+            },
+            {
+              "question": "“Holding hands” in this way prevents them from floating _______ .",
+              "options": [
+                "out",
+                "away",
+                "above",
+                "up"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：away"
+            },
+            {
+              "question": "It’s definitely _______ of the cutest sleeping positions in the animal kingdom!",
+              "options": [
+                "one",
+                "some",
+                "most",
+                "none"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：one"
+            },
+            {
+              "question": "This allows them to keep _______ even when they’re tired.",
+              "options": [
+                "flying",
+                "flew",
+                "to fly",
+                "fly"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：flying"
+            },
+            {
+              "question": "In fact, they can stay in the air _______ up to two hundred days!",
+              "options": [
+                "in",
+                "with",
+                "by",
+                "for"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：for"
+            },
+            {
+              "question": "According to the article, migratory birds like these _______ travel very far each year when the seasons change.",
+              "options": [
+                "must",
+                "must to",
+                "must have",
+                "must be"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：must"
+            },
+            {
+              "question": "I think I’ll find _______ article or two about how animals sleep.",
+              "options": [
+                "other",
+                "another",
+                "the other",
+                "others"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：another"
+            },
+            {
               "question": "Dolphins have to swim to the surface _______ so that they can breathe.",
               "options": [
                 "once every twenty minutes",
@@ -1531,7 +1828,7 @@
                 "twenty minutes once"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：once every twenty minutes"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：once every twenty minutes"
             },
             {
               "question": "A thief broke into Mr. Lin’s house _______ he was sleeping.",
@@ -1542,7 +1839,7 @@
                 "but"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：while"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：while"
             },
             {
               "question": "Sally carried a box with one hand, and a shopping bag with _______ .",
@@ -1553,7 +1850,7 @@
                 "others"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：the other"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：the other"
             },
             {
               "question": "Making a shopping list is _______ making sure you don’t forget to buy anything at the store.",
@@ -1564,7 +1861,7 @@
                 "a good side of"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：a good way of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：a good way of"
             },
             {
               "question": "It was early evening when I arrived home. _______ , after such a long hike, I was ready to have a shower and go straight to bed.",
@@ -1575,7 +1872,7 @@
                 "Yet"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：Yet"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：Yet"
             }
           ]
         },
@@ -2065,6 +2362,105 @@
           ],
           "quiz": [
             {
+              "question": "He was trying to show me something was wrong _______ loudly.",
+              "options": [
+                "on barking",
+                "to bark",
+                "by barking",
+                "so as to bark"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：by barking"
+            },
+            {
+              "question": "“What’s up, boy?” I asked and turned on the lamp _______ me.",
+              "options": [
+                "beside",
+                "from",
+                "below",
+                "on"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：beside"
+            },
+            {
+              "question": "How on earth did a dog know _______ an old woman had forgotten to take her pills?",
+              "options": [
+                "where",
+                "when",
+                "which",
+                "that"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：that"
+            },
+            {
+              "question": "I realized that this _______ pet had saved my life!",
+              "options": [
+                "creative",
+                "asleep",
+                "amazing",
+                "specific"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：amazing"
+            },
+            {
+              "question": "It turns out that his powerful nose had picked up a dangerous chemical change _______ my body.",
+              "options": [
+                "with",
+                "in",
+                "on",
+                "at"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：in"
+            },
+            {
+              "question": "He had smelled that my blood sugar _______ were lower than they should be.",
+              "options": [
+                "officials",
+                "items",
+                "rewards",
+                "levels"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：levels"
+            },
+            {
+              "question": "Everyone knows dogs have a highly developed _______ of smell, but this really blew my mind.",
+              "options": [
+                "sense",
+                "feeling",
+                "ability",
+                "alert"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：sense"
+            },
+            {
+              "question": "I’d heard they can identify trees with _______ forms of root rot and help airport security officers find drugs.",
+              "options": [
+                "sensitive",
+                "certain",
+                "creative",
+                "keen"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：certain"
+            },
+            {
+              "question": "But I had no idea that they were _______ save diabetes patients’ lives!",
+              "options": [
+                "used for",
+                "exposed to",
+                "able to",
+                "due to"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：able to"
+            },
+            {
               "question": "Oil provides fuel for cars and is also _______ making plastic.",
               "options": [
                 "used for",
@@ -2073,7 +2469,7 @@
                 "used to"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：used for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：used for"
             },
             {
               "question": "For those who have trouble getting a good night’s sleep, _______ some helpful tips.",
@@ -2084,7 +2480,7 @@
                 "here are"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：here are"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：here are"
             },
             {
               "question": "Sam kept swallowing food at the all-you-can-eat restaurant _______ he threw up.",
@@ -2095,7 +2491,7 @@
                 "that"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：until"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：until"
             },
             {
               "question": "My sister is good at math, and her math grades are always _______ better than mine.",
@@ -2106,7 +2502,7 @@
                 "so"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：far"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：far"
             },
             {
               "question": "John and Mary have invited all of their college classmates _______ their wedding party.",
@@ -2117,7 +2513,7 @@
                 "to attending"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：to attend"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：to attend"
             }
           ]
         },
@@ -2507,6 +2903,94 @@
           ],
           "quiz": [
             {
+              "question": "There, you wait _______ a long time for someone to buy you.",
+              "options": [
+                "for",
+                "in",
+                "during",
+                "on"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：for"
+            },
+            {
+              "question": "One day, some boys come in, stuff you full of snacks, and _______ you  2.",
+              "options": [
+                "throw; on",
+                "take; to",
+                "know; as",
+                "land; on"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：take; to"
+            },
+            {
+              "question": "A gust of wind _______ you from the beach to the ocean.",
+              "options": [
+                "sends",
+                "follows",
+                "approaches",
+                "surrounds"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：sends"
+            },
+            {
+              "question": "_______ , a huge fish swims by and swallows you whole.",
+              "options": [
+                "Soon",
+                "Indeed",
+                "Fortunately",
+                "Suddenly"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：Suddenly"
+            },
+            {
+              "question": "Soon, it _______ sick from this unhealthy diet and dies.",
+              "options": [
+                "makes",
+                "has",
+                "gets",
+                "smells"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：gets"
+            },
+            {
+              "question": "_______ , you are picked up by some children who are cleaning the beach.",
+              "options": [
+                "Actually",
+                "Finally",
+                "Obviously",
+                "Namely"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Finally"
+            },
+            {
+              "question": "They use _______ tongs to pick you up and put you into a bigger bag.",
+              "options": [
+                "a piece of",
+                "a bag of",
+                "a bottle of",
+                "a pair of"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：a pair of"
+            },
+            {
+              "question": "You are _______ a life of floating in the sea and killing fish.",
+              "options": [
+                "ready for",
+                "tired of",
+                "harmful to",
+                "envious of"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：tired of"
+            },
+            {
               "question": "The Internet does make our lives _______ than before in some ways.",
               "options": [
                 "more obviously",
@@ -2515,7 +2999,7 @@
                 "more convenient"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：more convenient"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：more convenient"
             },
             {
               "question": "After the busy day in the shop, there were only _______ items left on the shelves.",
@@ -2526,7 +3010,7 @@
                 "a kind"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：a few"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：a few"
             },
             {
               "question": "a report, people may consume fish that have eaten plastic, which may damage their health.",
@@ -2537,7 +3021,7 @@
                 "Instead of"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：According to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：According to"
             },
             {
               "question": "With the help of a very powerful microscope, we are able to see living cells _______ our body.",
@@ -2548,7 +3032,7 @@
                 "next to"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：inside"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：inside"
             },
             {
               "question": "Erin left her house half an hour ago, so she should be arriving here _______ .",
@@ -2559,7 +3043,7 @@
                 "too"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：soon"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：soon"
             }
           ]
         },
@@ -2942,6 +3426,94 @@
           ],
           "quiz": [
             {
+              "question": "Halfway into the journey, however, we got our first _______ at the famous statue.",
+              "options": [
+                "look",
+                "smell",
+                "taste",
+                "sound"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：look"
+            },
+            {
+              "question": "When we arrived, a large crowd had already gathered _______ Lady Liberty’s feet.",
+              "options": [
+                "on",
+                "with",
+                "in",
+                "at"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：at"
+            },
+            {
+              "question": "_______ around 11,000 tourists visit this monument every day, we weren’t surprised to see so many people.",
+              "options": [
+                "After",
+                "Since",
+                "Until",
+                "Before"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Since"
+            },
+            {
+              "question": "It is the statue _______ most people are really crazy for.",
+              "options": [
+                "what",
+                "this",
+                "that",
+                "who"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：that"
+            },
+            {
+              "question": "_______ , he shared the history of the monument with us.",
+              "options": [
+                "First",
+                "However",
+                "Finally",
+                "Therefore"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：First"
+            },
+            {
+              "question": "Then, he explained what each individual part of the statue _______ .",
+              "options": [
+                "cheers",
+                "removes",
+                "celebrates",
+                "represents"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：represents"
+            },
+            {
+              "question": "He also mentioned why, _______ , its color had changed from brown to green.",
+              "options": [
+                "of the time",
+                "on time",
+                "over time",
+                "in time"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：over time"
+            },
+            {
+              "question": "She is _______ special lady  10.",
+              "options": [
+                "so; that",
+                "such a; that",
+                "so a; that",
+                "such; that"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：such a; that"
+            },
+            {
               "question": "When the leaves _______ red in autumn in the Great Lakes region, there are always flocks of tourists.",
               "options": [
                 "turn",
@@ -2950,7 +3522,7 @@
                 "cause"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：turn"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：turn"
             },
             {
               "question": "Though there is a lot of delicious food in Italy, it is its history _______ attracts Rosie most.",
@@ -2961,7 +3533,7 @@
                 "that"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：that"
             },
             {
               "question": "David, a statue created by the artist Michelangelo, is _______ the _______ best-known works of art in the world.",
@@ -2972,7 +3544,7 @@
                 "one from"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：one of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：one of"
             },
             {
               "question": "Many visitors come to New York City _______ the city’s famous landmarks in person.",
@@ -2983,7 +3555,7 @@
                 "seen"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：to see"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：to see"
             },
             {
               "question": "Mom wondered what Tom was holding _______ his hand. It seemed that he didn’t want her to know.",
@@ -2994,7 +3566,7 @@
                 "with"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：in"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：in"
             }
           ]
         },
@@ -3359,6 +3931,105 @@
           ],
           "quiz": [
             {
+              "question": "I grew up in Paraguay, close to a giant garbage dump containing _______ trash.",
+              "options": [
+                "kinds of",
+                "tons of",
+                "pairs of",
+                "dozens of"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：tons of"
+            },
+            {
+              "question": "As a child, I often worried about _______ to do in the future; would I ever become more than someone who collects trash?",
+              "options": [
+                "how",
+                "where",
+                "when",
+                "what"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：what"
+            },
+            {
+              "question": "_______ , one day, my grandmother saw a poster advertising free music lessons nearby, and she signed me up.",
+              "options": [
+                "Fortunately",
+                "Unluckily",
+                "Suddenly",
+                "Similarly"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Fortunately"
+            },
+            {
+              "question": "_______ the music school lacked resources, on the first day there were more children than instruments!",
+              "options": [
+                "Though",
+                "If",
+                "Since",
+                "Once"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Since"
+            },
+            {
+              "question": "_______ , when the other kids and I played together, we did not sound good.",
+              "options": [
+                "Instead",
+                "Finally",
+                "At first",
+                "In addition"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：At first"
+            },
+            {
+              "question": "However, through practice, we managed _______ better.",
+              "options": [
+                "get",
+                "got",
+                "to get",
+                "to getting"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：to get"
+            },
+            {
+              "question": "Before long, we were _______ invitations from all over Paraguay to perform.",
+              "options": [
+                "receiving",
+                "rolling",
+                "pursuing",
+                "improving"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：receiving"
+            },
+            {
+              "question": "Later, a famous rock band actually invited us to go on tour _______ with them!",
+              "options": [
+                "bare",
+                "dizzy",
+                "potential",
+                "overseas"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：overseas"
+            },
+            {
+              "question": "I have since been able to have a new home _______ for my family.",
+              "options": [
+                "build",
+                "to build",
+                "building",
+                "built"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：built"
+            },
+            {
               "question": "Vic wakes up early and never stays up late. This is _______ he maintains his health.",
               "options": [
                 "why",
@@ -3367,7 +4038,7 @@
                 "when"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：how"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：how"
             },
             {
               "question": "It _______ June a fortune to buy a ticket to her favorite Korean actor’s fan meeting.",
@@ -3378,7 +4049,7 @@
                 "cost"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：cost"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：cost"
             },
             {
               "question": "half of the students told their teacher that they got nervous before taking the first monthly exam.",
@@ -3389,7 +4060,7 @@
                 "Largely"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：Nearly"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：Nearly"
             },
             {
               "question": "Unfortunately, lots of leftover food went to waste and _______ in the trash.",
@@ -3400,7 +4071,7 @@
                 "got up"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：ended up"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：ended up"
             },
             {
               "question": "The salesperson attracted wide attention _______ using lively music and interesting posters.",
@@ -3411,7 +4082,7 @@
                 "of"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：by"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：by"
             }
           ]
         },
@@ -3765,6 +4436,83 @@
           ],
           "quiz": [
             {
+              "question": "Several minutes _______ , he walked out with a bag full of drinks and snacks.",
+              "options": [
+                "after",
+                "later",
+                "over",
+                "up"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：later"
+            },
+            {
+              "question": "He walked in and quickly noticed some potato chips _______ his eye level.",
+              "options": [
+                "at",
+                "on",
+                "for",
+                "with"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：at"
+            },
+            {
+              "question": "Convenience stores know _______ “eye level is buy level.” Joe also saw an open table where he could  5.",
+              "options": [
+                "which",
+                "what",
+                "if",
+                "that"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：that"
+            },
+            {
+              "question": "“eye level is buy level.” Joe also saw an open table where he could _______ .",
+              "options": [
+                "hang out",
+                "find out",
+                "dig out",
+                "turn out"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：hang out"
+            },
+            {
+              "question": "He _______ the chips and sat down for a while.",
+              "options": [
+                "added to",
+                "exposed to",
+                "paid for",
+                "aimed at"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：paid for"
+            },
+            {
+              "question": "Convenience stores often have tables because they know this means you’ll end up _______ there longer, and that’s what Joe did.",
+              "options": [
+                "stay",
+                "stayed",
+                "to stay",
+                "staying"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：staying"
+            },
+            {
+              "question": "_______ people see these items near the cash register, they will buy them on impulse.",
+              "options": [
+                "If",
+                "Before",
+                "Because",
+                "Since"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：If"
+            },
+            {
               "question": "Sean didn’t mean to hurt Alice, but what he did _______ her feel that way.",
               "options": [
                 "avoided",
@@ -3773,7 +4521,7 @@
                 "got"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：made"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：made"
             },
             {
               "question": "Babies can’t talk, but they communicate their unhappiness very effectively _______ crying.",
@@ -3784,7 +4532,7 @@
                 "by"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：by"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：by"
             },
             {
               "question": "of the best movies Sandy has seen is Wonder, starring Julia Roberts.",
@@ -3795,7 +4543,7 @@
                 "Many"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：One"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：One"
             },
             {
               "question": "There are many ways to stay healthy. One is to get enough sleep; _______ is to work out regularly.",
@@ -3806,7 +4554,7 @@
                 "other"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：another"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：another"
             },
             {
               "question": "This problem is very easy to fix, so _______ no need to buy a new machine.",
@@ -3817,7 +4565,7 @@
                 "here is"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：there is"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：there is"
             }
           ]
         },
@@ -4251,6 +4999,105 @@
           ],
           "quiz": [
             {
+              "question": "This _______ graffiti, and it can come in the form of simple words or detailed paintings.",
+              "options": [
+                "calls",
+                "has called",
+                "is called",
+                "was calling"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：is called"
+            },
+            {
+              "question": "Those who love graffiti say _______ it is a form of art.",
+              "options": [
+                "that",
+                "which",
+                "what",
+                "there"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：that"
+            },
+            {
+              "question": "Should we allow graffiti to be painted _______ the sides of our buildings and buses?",
+              "options": [
+                "in",
+                "against",
+                "above",
+                "on"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：on"
+            },
+            {
+              "question": "Graffiti can be beautiful, and graffiti artists _______ other painters.",
+              "options": [
+                "like",
+                "are like",
+                "would like",
+                "are liked"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：are like"
+            },
+            {
+              "question": "They work _______ sketching, drawing, and filling in colors.",
+              "options": [
+                "without",
+                "with",
+                "by",
+                "for"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：by"
+            },
+            {
+              "question": "Their work calls _______ to things people should care about.",
+              "options": [
+                "attention",
+                "addition",
+                "advantage",
+                "awareness"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：attention"
+            },
+            {
+              "question": "_______ , some graffiti artists show us the suffering of homeless children or the horrors of war.",
+              "options": [
+                "As a result",
+                "In fact",
+                "At first",
+                "For example"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：For example"
+            },
+            {
+              "question": "It makes them feel _______ to be in such areas.",
+              "options": [
+                "safe",
+                "unsafe",
+                "lucky",
+                "glad"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：unsafe"
+            },
+            {
+              "question": "Is graffiti _______ art or is it something that just causes problems?",
+              "options": [
+                "barely",
+                "only",
+                "obviously",
+                "fortunately"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：obviously"
+            },
+            {
               "question": "Shelly got lost when she visited New York. _______ , her wallet was stolen.",
               "options": [
                 "Even worse",
@@ -4259,7 +5106,7 @@
                 "Over time"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：Even worse"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：Even worse"
             },
             {
               "question": "this is an original painting by Picasso, you can sell it at a very high price.",
@@ -4270,7 +5117,7 @@
                 "Although"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：If"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：If"
             },
             {
               "question": "On weekends, I prefer to do outdoor activities _______ stay at home.",
@@ -4281,7 +5128,7 @@
                 "rather than"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：rather than"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：rather than"
             },
             {
               "question": "The need _______ better care of the elderly is growing along with our aging population.",
@@ -4292,7 +5139,7 @@
                 "for"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：for"
             },
             {
               "question": "Coffee _______ cream or sugar may taste bitter, but it is also healthier.",
@@ -4303,7 +5150,7 @@
                 "due to"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：without"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：without"
             }
           ]
         }
@@ -4567,6 +5414,116 @@
           ],
           "quiz": [
             {
+              "question": "I _______ with a sprint.",
+              "options": [
+                "take off",
+                "take on",
+                "take over",
+                "take out"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：take off"
+            },
+            {
+              "question": "I can feel 65,000 pairs of eyes _______ me from the crowd at the Olympic stadium.",
+              "options": [
+                "to watch",
+                "watched",
+                "and watch",
+                "watching"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：watching"
+            },
+            {
+              "question": "_______ , a large pain I’ve never felt before takes over my whole body.",
+              "options": [
+                "Luckily",
+                "Suddenly",
+                "Generally",
+                "Obviously"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Suddenly"
+            },
+            {
+              "question": "_______ onto the ground.",
+              "options": [
+                "collapse",
+                "climb",
+                "rise",
+                "set"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：collapse"
+            },
+            {
+              "question": "I look down _______ tears in my eyes and realize with  horror that my right hamstring is completely torn.",
+              "options": [
+                "and",
+                "but",
+                "with",
+                "without"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：with"
+            },
+            {
+              "question": "In the blink of an eye, I have lost _______ the race  6.",
+              "options": [
+                "either; or",
+                "neither; nor",
+                "not; but",
+                "both; and"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：both; and"
+            },
+            {
+              "question": "_______ seconds, doctors rush to my side, but I get up painfully and slowly.",
+              "options": [
+                "Beyond",
+                "Within",
+                "Over",
+                "During"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Within"
+            },
+            {
+              "question": "_______ all of the pain, I know I must finish the race.",
+              "options": [
+                "Despite",
+                "Because of",
+                "Due to",
+                "As to"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Despite"
+            },
+            {
+              "question": "He’s run _______ the security guards to make his way to me and says, “…my boy, we’re going to finish this together!”",
+              "options": [
+                "pass",
+                "past",
+                "around",
+                "down"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：past"
+            },
+            {
+              "question": "Together as one, we _______ going and make our way to the finish line.",
+              "options": [
+                "stop",
+                "avoid",
+                "keep",
+                "make"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：keep"
+            },
+            {
               "question": "The Grand Canyon is one of _______ spots Judy has ever visited.",
               "options": [
                 "the great",
@@ -4575,7 +5532,7 @@
                 "the greater"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：the best"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：the best"
             },
             {
               "question": "Mr. Wilson is very stubborn. Once he decides to do something, no one can _______ him _______ doing it.",
@@ -4586,7 +5543,7 @@
                 "talk; into"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：stop; from"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：stop; from"
             },
             {
               "question": "Sara is eager to show her mom _______ for the family.",
@@ -4597,7 +5554,7 @@
                 "she can do what"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：what she can do"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：what she can do"
             },
             {
               "question": "Tod’s hurtful words were unbearable _______ a knife cutting straight through Lena’s heart.",
@@ -4608,7 +5565,7 @@
                 "like"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：like"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：like"
             },
             {
               "question": "All the audience stared at the magician on the stage, _______ for him to perform his next trick.",
@@ -4619,7 +5576,7 @@
                 "which waited"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：waiting"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：waiting"
             }
           ]
         },
@@ -4857,6 +5814,105 @@
           ],
           "quiz": [
             {
+              "question": "Breakfast will be served soon, but you probably won’t enjoy it _______ you do down on the ground.",
+              "options": [
+                "as much as",
+                "as many as",
+                "so much that",
+                "too many to"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：as much as"
+            },
+            {
+              "question": "Have you ever heard a message _______ this while flying?",
+              "options": [
+                "for",
+                "as",
+                "like",
+                "from"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：like"
+            },
+            {
+              "question": "There are all sorts of things going on that make in-flight food _______ a little “special.” Your tongue can have trouble figuring out different flavors  4.",
+              "options": [
+                "be eaten",
+                "taste",
+                "look like",
+                "touch"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：taste"
+            },
+            {
+              "question": "All the while, your nose can become _______ blocked that it doesn’t work well.",
+              "options": [
+                "such",
+                "so",
+                "too",
+                "over"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：so"
+            },
+            {
+              "question": "And _______ , even your ears can affect your enjoyment of the meal, as the loud noise is annoying.",
+              "options": [
+                "fortunately",
+                "in fact",
+                "in this way",
+                "therefore"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：in fact"
+            },
+            {
+              "question": "Airlines realize this problem and so have _______ more flavoring to the dishes that are served during the flight.",
+              "options": [
+                "removed",
+                "allowed",
+                "added",
+                "shared"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：added"
+            },
+            {
+              "question": "Foods _______ tomatoes, mushrooms, and spinach are commonly used to make meals tastier.",
+              "options": [
+                "with",
+                "which",
+                "such as",
+                "without"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：such as"
+            },
+            {
+              "question": "Other airlines have given passengers a nasal spray _______ their noses before meals.",
+              "options": [
+                "clear",
+                "clears",
+                "cleared",
+                "to clear"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：to clear"
+            },
+            {
+              "question": "So, remember, the next time you complain about the food _______ a flight, keep in mind that there is actually an explanation for it all.",
+              "options": [
+                "during",
+                "with",
+                "past",
+                "toward"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：during"
+            },
+            {
               "question": "What distinguishes a rooster _______ a hen is that it’s tall, upright, and has larger combs.",
               "options": [
                 "as",
@@ -4865,7 +5921,7 @@
                 "between"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：from"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：from"
             },
             {
               "question": "safe a country is will affect whether Allen visits it or not.",
@@ -4876,7 +5932,7 @@
                 "That"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：How"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：How"
             },
             {
               "question": "The moon _______ is full tonight, lights up the dark sky and makes everything look beautiful.",
@@ -4887,7 +5943,7 @@
                 ", which"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：, which"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：, which"
             },
             {
               "question": "With summer around the corner, students are all looking forward to _______ on vacation.",
@@ -4898,7 +5954,7 @@
                 "will be"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：being"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：being"
             },
             {
               "question": "Lena has had trouble getting enough sleep for some time; _______ , her doctor prescribed some sleeping pills for her.",
@@ -4909,7 +5965,7 @@
                 "in fact"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：therefore"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：therefore"
             }
           ]
         },
@@ -5067,6 +6123,61 @@
           ],
           "quiz": [
             {
+              "question": "Aylmer loved Georgiana deeply and believed her to be very beautiful and _______ …, all except for one thing.",
+              "options": [
+                "scientific",
+                "graceful",
+                "stubborn",
+                "emotional"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：graceful"
+            },
+            {
+              "question": "Later, Georgiana took the medicine, and _______ that moment, the mark began to fade away!",
+              "options": [
+                "on",
+                "for",
+                "at",
+                "in"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：at"
+            },
+            {
+              "question": "_______ , Aylmer found that along with the birthmark Georgiana’s life was also fading away.",
+              "options": [
+                "Therefore",
+                "Instead",
+                "Fortunately",
+                "However"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：However"
+            },
+            {
+              "question": "Minutes later, Aylmer watched her _______ in his arms.",
+              "options": [
+                "died",
+                "die",
+                "dies",
+                "to die"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：die"
+            },
+            {
+              "question": "Aylmer’s story helps us consider _______ people should chase perfection or not.",
+              "options": [
+                "whether",
+                "that",
+                "what",
+                "how"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：whether"
+            },
+            {
               "question": "The kids raced outside to enjoy the fresh air and have fun _______ the rain stopped.",
               "options": [
                 "so that",
@@ -5075,7 +6186,7 @@
                 "even though"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：as soon as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：as soon as"
             },
             {
               "question": "her busy schedule, Emily always made time to take care of her younger sister.",
@@ -5086,7 +6197,7 @@
                 "Through"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：Despite"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：Despite"
             },
             {
               "question": "During the long journey, Mary stopped to check on her mother, _______ sure that she was comfortable.",
@@ -5097,7 +6208,7 @@
                 "and making"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：making"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：making"
             },
             {
               "question": "No one knows _______ happened between Tina and Ivy, who haven’t talked to each other for several days.",
@@ -5108,7 +6219,7 @@
                 "why"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：what"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：what"
             },
             {
               "question": "Emily stepped onto the stage _______ the first time, and her heart was full of excitement and nervousness.",
@@ -5119,7 +6230,7 @@
                 "for"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：for"
             }
           ]
         },
@@ -5365,6 +6476,94 @@
           ],
           "quiz": [
             {
+              "question": "“Which one is Malala?” The two men _______ masks looked at all of us.",
+              "options": [
+                "wear",
+                "wore",
+                "wearing",
+                "to wear"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：wearing"
+            },
+            {
+              "question": "One of the men lifted his gun, and the world _______ went black.",
+              "options": [
+                "successfully",
+                "normally",
+                "accurately",
+                "suddenly"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：suddenly"
+            },
+            {
+              "question": "I was raised in a city _______ northern Pakistan.",
+              "options": [
+                "on",
+                "for",
+                "in",
+                "with"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：in"
+            },
+            {
+              "question": "I believed that nobody could _______ others’ right to education.",
+              "options": [
+                "call for",
+                "take away",
+                "take notice of",
+                "speak out"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：take away"
+            },
+            {
+              "question": "The blogs I wrote about life in a society _______ by the Taliban angered its leaders.",
+              "options": [
+                "ran",
+                "to run",
+                "running",
+                "run"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：run"
+            },
+            {
+              "question": "And as my story became _______ , they threatened to kill me.",
+              "options": [
+                "known",
+                "different",
+                "pleasant",
+                "emotional"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：known"
+            },
+            {
+              "question": "After having _______ , I survived the injury.",
+              "options": [
+                "surgery",
+                "equality",
+                "control",
+                "persuasion"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：surgery"
+            },
+            {
+              "question": "Afterward, with my story, the Malala Fund was created to give more power to young girls _______ education.",
+              "options": [
+                "by",
+                "through",
+                "for",
+                "against"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：through"
+            },
+            {
               "question": "Drivers should be careful when they drive _______ this narrow but busy road.",
               "options": [
                 "in",
@@ -5373,7 +6572,7 @@
                 "beside"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：on"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：on"
             },
             {
               "question": "Shawn’s landlord agreed to let him _______ in the apartment for another two months.",
@@ -5384,7 +6583,7 @@
                 "live"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：live"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：live"
             },
             {
               "question": "Tim Cook was invited to _______ a speech at the graduation ceremony of Tulane University.",
@@ -5395,7 +6594,7 @@
                 "have"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：give"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：give"
             },
             {
               "question": "My teacher told me to keep _______ if I wanted to get better at playing the piano.",
@@ -5406,7 +6605,7 @@
                 "to practice"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：practicing"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：practicing"
             },
             {
               "question": "The world-famous cook _______ his secret recipes _______ those who attended the workshop.",
@@ -5417,7 +6616,7 @@
                 "distracted; from"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：shared; with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：shared; with"
             }
           ]
         },
@@ -5586,6 +6785,116 @@
           ],
           "quiz": [
             {
+              "question": "Time and time again, through its movies and songs, it has conveyed the message: Never give up _______ your dreams.",
+              "options": [
+                "pursuing",
+                "to pursue",
+                "pursued",
+                "pursue"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：pursuing"
+            },
+            {
+              "question": "It says: “If your heart is in your dreams, no request is too extreme.” Even Walt Disney’s own road _______ success showed that message.",
+              "options": [
+                "of",
+                "to",
+                "on",
+                "for"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：to"
+            },
+            {
+              "question": "He established the company _______ the age of twenty-two, and he faced many difficulties.",
+              "options": [
+                "with",
+                "of",
+                "at",
+                "over"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：at"
+            },
+            {
+              "question": "But he knew his efforts would _______ .",
+              "options": [
+                "cut off",
+                "take off",
+                "get off",
+                "pay off"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：pay off"
+            },
+            {
+              "question": "One day, _______ a sudden inspiration, he created Mickey Mouse, a cartoon character that quickly became popular with many people.",
+              "options": [
+                "besides",
+                "without",
+                "with",
+                "despite"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：with"
+            },
+            {
+              "question": "And in turn, this _______ him build a kingdom of dreams.",
+              "options": [
+                "allowed",
+                "got",
+                "kept",
+                "helped"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：helped"
+            },
+            {
+              "question": "_______ animations, like Mulan and Zootopia, followed similar paths.",
+              "options": [
+                "Last",
+                "Later",
+                "Latter",
+                "Latest"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Later"
+            },
+            {
+              "question": "The main characters, Mulan and Judy, faced _______ and only accomplished their goals through their never-say-die attitude.",
+              "options": [
+                "parades",
+                "passions",
+                "hardships",
+                "achievements"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：hardships"
+            },
+            {
+              "question": "The Walt Disney Company tells us we can make our dreams _______ if we just keep pushing.",
+              "options": [
+                "come true",
+                "carry out",
+                "show up",
+                "take notice"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：come true"
+            },
+            {
+              "question": "_______ we need to do is wish upon a star.",
+              "options": [
+                "How",
+                "All",
+                "That",
+                "Which"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：All"
+            },
+            {
               "question": "you put everything in order after you use it, then your room won’t be a mess.",
               "options": [
                 "Because",
@@ -5594,7 +6903,7 @@
                 "If"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：If"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：If"
             },
             {
               "question": "The warning sign placed by the side of the road is meant to _______ more accidents _______ happening.",
@@ -5605,7 +6914,7 @@
                 "prepare; for"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：stop; from"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：stop; from"
             },
             {
               "question": "Songs by the American singer Taylor Swift, _______ “Our Song” and “Love Story,” are well-liked by many teenagers.",
@@ -5616,7 +6925,7 @@
                 "except for"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：such as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：such as"
             },
             {
               "question": "The salesperson managed to talk Alison into buying the laptop _______ offering her a big discount.",
@@ -5627,7 +6936,7 @@
                 "for"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：by"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：by"
             },
             {
               "question": "up for the program, and you will not regret it.",
@@ -5638,7 +6947,7 @@
                 "Signed"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：Sign"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：Sign"
             }
           ]
         },
@@ -5834,6 +7143,105 @@
           ],
           "quiz": [
             {
+              "question": "_______ , he had two friends, Jack and Summer.",
+              "options": [
+                "Luckily",
+                "Suddenly",
+                "Unfortunately",
+                "Immediately"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Luckily"
+            },
+            {
+              "question": "It was the only time he could _______ .",
+              "options": [
+                "carry out",
+                "belong to",
+                "fit in",
+                "speak out"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：fit in"
+            },
+            {
+              "question": "Suddenly, he _______ Jack talking to a friend.",
+              "options": [
+                "overheard",
+                "made",
+                "let",
+                "got"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：overheard"
+            },
+            {
+              "question": "“I’m only friends with Auggie because the principal asked me to.” He felt sick to his _______ and ran home.",
+              "options": [
+                "heart",
+                "feet",
+                "stomach",
+                "eyes"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：stomach"
+            },
+            {
+              "question": "Auggie was _______ depressed that he didn’t speak to Jack.",
+              "options": [
+                "so",
+                "such",
+                "too",
+                "as"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：so"
+            },
+            {
+              "question": "At first, it was the principal _______ had asked him to befriend Auggie, but he had actually grown to like him.",
+              "options": [
+                "which",
+                "where",
+                "there",
+                "that"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：that"
+            },
+            {
+              "question": "Everything was great _______ the seventh-graders shone their flashlights in Auggie’s face.",
+              "options": [
+                "because",
+                "until",
+                "while",
+                "after"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：until"
+            },
+            {
+              "question": "Jack came to his _______ , and they escaped the bullies.",
+              "options": [
+                "rescue",
+                "matter",
+                "policy",
+                "recovery"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：rescue"
+            },
+            {
+              "question": "And at the year-end ceremony, nobody minded _______ near him.",
+              "options": [
+                "to be",
+                "be",
+                "being",
+                "been"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：being"
+            },
+            {
               "question": "After Nina started to go jogging regularly, she was happier _______ .",
               "options": [
                 "no longer",
@@ -5842,7 +7250,7 @@
                 "on purpose"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：than before"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：than before"
             },
             {
               "question": "Julie avoids eating fried foods, _______ they are bad for her health.",
@@ -5853,7 +7261,7 @@
                 "to think"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：thinking"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：thinking"
             },
             {
               "question": "Andy had a good time tonight. Dinner was delicious; _______ , he was happy to eat with his friends.",
@@ -5864,7 +7272,7 @@
                 "besides"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：besides"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：besides"
             },
             {
               "question": "Austin has a good relationship with his teacher. They are _______ each other.",
@@ -5875,7 +7283,7 @@
                 "known as"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：close to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：close to"
             },
             {
               "question": "Jenny has always been shy in front of others, but today _______ , she spoke with confidence in public.",
@@ -5886,7 +7294,7 @@
                 "as a result"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：for the first time"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：for the first time"
             }
           ]
         },
@@ -6135,6 +7543,105 @@
           ],
           "quiz": [
             {
+              "question": "Some have _______ playing games on the Internet.",
+              "options": [
+                "fun",
+                "trouble",
+                "no idea",
+                "no doubt"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：fun"
+            },
+            {
+              "question": "For _______ people, there are online videos called TED Talks.",
+              "options": [
+                "any",
+                "such",
+                "no",
+                "so"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：such"
+            },
+            {
+              "question": "TED, _______ means “Technology, Entertainment, Design,” is a nonprofit organization famous around the world for its educational talks.",
+              "options": [
+                "which",
+                "that",
+                "whose",
+                "where"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：which"
+            },
+            {
+              "question": "In 2007, TED.com was launched and _______ spread new ideas ever since.",
+              "options": [
+                "helps",
+                "help",
+                "has helped",
+                "was helping"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：has helped"
+            },
+            {
+              "question": "Many famous people have also _______ their thoughts with TED audiences.",
+              "options": [
+                "sought",
+                "shared",
+                "stopped",
+                "struggled"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：shared"
+            },
+            {
+              "question": "One example was Jamie Oliver _______ discussed his ideas about a food revolution.",
+              "options": [
+                "who",
+                ", who",
+                "whom",
+                ", whom"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：, who"
+            },
+            {
+              "question": "And _______ was Bill Gates, the co-founder of Microsoft, who discussed the 2014 Ebola outbreak.",
+              "options": [
+                "still another",
+                "still other",
+                "still the other",
+                "still others"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：still another"
+            },
+            {
+              "question": "_______ to TED Talks is like standing on the shoulders of a giant—we get to see farther and understand more.",
+              "options": [
+                "Listen",
+                "Listened",
+                "Listening",
+                "When listening"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Listening"
+            },
+            {
+              "question": "You won’t know what you’re missing _______ you try it.",
+              "options": [
+                "when",
+                "unless",
+                "so",
+                "because"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：unless"
+            },
+            {
               "question": "The NBA, _______ the National Basketball Association, is an organization of professional basketball teams in North America.",
               "options": [
                 "knowing as",
@@ -6143,7 +7650,7 @@
                 "calling for"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：standing for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：standing for"
             },
             {
               "question": "We stayed _______ days in London and visited some museums.",
@@ -6154,7 +7661,7 @@
                 "few"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：a few"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：a few"
             },
             {
               "question": "With great interest _______ yoga, Nikki has taken yoga classes for several years.",
@@ -6165,7 +7672,7 @@
                 "for"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：in"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：in"
             },
             {
               "question": "Why not invite a band _______ classical music for all our guests?",
@@ -6176,7 +7683,7 @@
                 "to play"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：to play"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：to play"
             },
             {
               "question": "Julia’s parents provide everything she needs; _______ , she is never thankful for what she has.",
@@ -6187,7 +7694,7 @@
                 "similarly"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：however"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：however"
             }
           ]
         },
@@ -6476,6 +7983,83 @@
           ],
           "quiz": [
             {
+              "question": "_______ arriving, Tim was immediately surprised.",
+              "options": [
+                "In",
+                "On",
+                "With",
+                "For"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：On"
+            },
+            {
+              "question": "Back home, _______ all banquets took place in large dining halls.",
+              "options": [
+                "hardly",
+                "barely",
+                "nearly",
+                "fairly"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：nearly"
+            },
+            {
+              "question": "_______ up to protect the wedding guests from the harsh sun, a huge tent occupied about half the street.",
+              "options": [
+                "To put",
+                "Put",
+                "Putting",
+                "Having put"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Put"
+            },
+            {
+              "question": "Guests sat under the tent at large tables, _______ cheerfully.",
+              "options": [
+                "chat",
+                "to chat",
+                "chatting",
+                "and chat"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：chatting"
+            },
+            {
+              "question": "They explained that this sort of gathering, _______ a “ban-doh” in Taiwanese, had come from the countryside.",
+              "options": [
+                "known as",
+                "famous for",
+                "filled with",
+                "compared to"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：known as"
+            },
+            {
+              "question": "Villagers would gather together for special events _______ weddings.",
+              "options": [
+                "without",
+                "instead of",
+                "despite",
+                "such as"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：such as"
+            },
+            {
+              "question": "Some people would take care of the cooking, while _______ might provide tables and chairs or assist in other ways.",
+              "options": [
+                "other",
+                "the other",
+                "others",
+                "another"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：others"
+            },
+            {
               "question": "Lukas was upset because the result was very different from _______ he had expected.",
               "options": [
                 "that",
@@ -6484,7 +8068,7 @@
                 "which"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：what"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：what"
             },
             {
               "question": "All the employees gathered in the conference room _______ an important meeting.",
@@ -6495,7 +8079,7 @@
                 "toward"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：for"
             },
             {
               "question": "Milly was very pleased when she saw her husband _______ bedtime stories to their daughter.",
@@ -6506,7 +8090,7 @@
                 "being told"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：telling"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：telling"
             },
             {
               "question": "this closet is twenty years old, it is still very safe and in good condition.",
@@ -6517,7 +8101,7 @@
                 "Although"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：Although"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：Although"
             },
             {
               "question": "Lillian was happy to see _______ fascinating the fireworks displays were.",
@@ -6528,7 +8112,7 @@
                 "where"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：how"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：how"
             }
           ]
         },
@@ -6773,6 +8357,116 @@
           ],
           "quiz": [
             {
+              "question": "_______ “Photoshop”?",
+              "options": [
+                "Why not",
+                "How about",
+                "Apart from",
+                "Instead of"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：How about"
+            },
+            {
+              "question": "An example of an eponym that comes _______ a character’s name is “paparazzi.”  3.",
+              "options": [
+                "back",
+                "into",
+                "to",
+                "from"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：from"
+            },
+            {
+              "question": "A character’s name is “paparazzi.” _______ that it is based on a movie character named Paparazzo.",
+              "options": [
+                "It says",
+                "It is saying",
+                "It is said",
+                "People are said"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：It is said"
+            },
+            {
+              "question": "Set _______ Rome, the film introduces us to Paparazzo, a photographer who exposed the secrets of celebrities.",
+              "options": [
+                "in",
+                "on",
+                "for",
+                "with"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：in"
+            },
+            {
+              "question": "After the movie’s release, it became known that the plural form “paparazzi” meant “photographers who chase celebrities _______ .” Eponyms  6.",
+              "options": [
+                "toward",
+                "over",
+                "around",
+                "on"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：around"
+            },
+            {
+              "question": ".” Eponyms _______ “Photoshop” can also be product-based.",
+              "options": [
+                "such as",
+                "with",
+                "and",
+                "so on"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：such as"
+            },
+            {
+              "question": "_______ its release, Photoshop has become the preferred image-editing software program used by people everywhere.",
+              "options": [
+                "While",
+                "Since",
+                "Until",
+                "Because"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Since"
+            },
+            {
+              "question": "Gradually, it became another way to say “to edit a photo.” Therefore, no matter _______ software program is actually being used, one can say, “This picture has obviously been photoshopped.” While this has left the creators of Photoshop upset, the term has become  9.",
+              "options": [
+                "how",
+                "when",
+                "where",
+                "what"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：what"
+            },
+            {
+              "question": "Software program is actually being used, one can say, “This picture has obviously been photoshopped.” While this has left the creators of Photoshop upset, the term has become _______ popular for them to try to change it.",
+              "options": [
+                "too",
+                "to",
+                "so",
+                "such"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：too"
+            },
+            {
+              "question": "Clearly, eponyms _______ an important role in adding new words to our existing language.",
+              "options": [
+                "get",
+                "keep",
+                "play",
+                "make"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：play"
+            },
+            {
               "question": "eBay is an online shopping website where people _______ buy and sell a wide variety of goods.",
               "options": [
                 "from now on",
@@ -6781,7 +8475,7 @@
                 "around the world"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：around the world"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：around the world"
             },
             {
               "question": "The new donut flavor has grown in popularity _______ . Now customers line up for a long time for these donuts.",
@@ -6792,7 +8486,7 @@
                 "in time"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：over time"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：over time"
             },
             {
               "question": "Ben’s life has become more colorful ever since he adopted a stray dog. _______ , now he finds time to walk it every day and even goes camping with it.",
@@ -6803,7 +8497,7 @@
                 "In the beginning"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：For example"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：For example"
             },
             {
               "question": "The name of the search engine “Google” is now also _______ a verb to describe the act of searching for something online.",
@@ -6814,7 +8508,7 @@
                 "filled in"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：used as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：used as"
             },
             {
               "question": "The film, _______ Life of Pi, was directed by the world-famous director Ang Lee.",
@@ -6825,7 +8519,7 @@
                 "calling"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：called"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：called"
             }
           ]
         }
@@ -7276,6 +8970,116 @@
           ],
           "quiz": [
             {
+              "question": "On “Ronald Day,” he always dressed up _______ Ronald McDonald and visited children at the hospital.",
+              "options": [
+                "for",
+                "with",
+                "by",
+                "as"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：as"
+            },
+            {
+              "question": "He found _______ very rewarding to do this job.",
+              "options": [
+                "that",
+                "this",
+                "it",
+                "them"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：it"
+            },
+            {
+              "question": "Jeff knew there were good reasons _______ the rules, so he always followed them.",
+              "options": [
+                "of",
+                "behind",
+                "under",
+                "within"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：behind"
+            },
+            {
+              "question": "One day, he _______ a child calling him from a hospital room.",
+              "options": [
+                "heard",
+                "listened",
+                "got",
+                "kept"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：heard"
+            },
+            {
+              "question": "Inside, he found a five-year-old boy _______ in bed.",
+              "options": [
+                "lie",
+                "lying",
+                "lied",
+                "laying"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：lying"
+            },
+            {
+              "question": "Jeff performed magic tricks for Billy, and then asked him if he could do _______ else.",
+              "options": [
+                "everyone",
+                "someone",
+                "everything",
+                "anything"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：anything"
+            },
+            {
+              "question": "After a while, it _______ that Bill got sleepy, so he put his arms out to hug Jeff.",
+              "options": [
+                "thought",
+                "looked",
+                "appeared",
+                "happened"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：appeared"
+            },
+            {
+              "question": "_______ Jeff knew he would be breaking the rules, he hugged Billy anyway.",
+              "options": [
+                "Though",
+                "If",
+                "Because",
+                "Before"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Though"
+            },
+            {
+              "question": "Several days _______ , Billy’s parents told Jeff that their son had passed away.",
+              "options": [
+                "latter",
+                "last",
+                "later",
+                "latest"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：later"
+            },
+            {
+              "question": "They thanked him _______ Billy happy.",
+              "options": [
+                "makes",
+                "made",
+                "for making",
+                "to make"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：for making"
+            },
+            {
               "question": "Jenny needed to do some shopping for Christmas, so she spent _______ hours at the mall.",
               "options": [
                 "little",
@@ -7284,7 +9088,7 @@
                 "a little"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：a few"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：a few"
             },
             {
               "question": "Everyone in the audience was amazed after the figure skater performed _______ a stunning jump.",
@@ -7295,7 +9099,7 @@
                 "very"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：such"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：such"
             },
             {
               "question": "This church _______ down in the fire. The next day, the community launched a movement to raise some money to rebuild it.",
@@ -7306,7 +9110,7 @@
                 "been burned"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：had been burned"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：had been burned"
             },
             {
               "question": "On Halloween, Kevin impressed his friends _______ his frightening costume.",
@@ -7317,7 +9121,7 @@
                 "of"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：with"
             },
             {
               "question": "Nelson dealt out eight cards to each player, _______ the rest in a pile face down on the desk.",
@@ -7328,7 +9132,7 @@
                 "leaving"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：leaving"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：leaving"
             }
           ]
         },
@@ -7773,6 +9577,94 @@
           ],
           "quiz": [
             {
+              "question": "_______ only twenty sticks of dry spaghetti, a yard of tape, and a yard of string, people work together to build the tallest structure they can.",
+              "options": [
+                "With",
+                "For",
+                "About",
+                "Since"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：With"
+            },
+            {
+              "question": "_______ one marshmallow.",
+              "options": [
+                "to support",
+                "of supporting",
+                "for supporting",
+                "in supporting"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：of supporting"
+            },
+            {
+              "question": "The average height of the structures _______ 20 inches.",
+              "options": [
+                "has",
+                "have",
+                "were",
+                "was"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：was"
+            },
+            {
+              "question": "Surprisingly, kindergarteners’ structures were higher than _______ of the adult teams.",
+              "options": [
+                "that",
+                "one",
+                "those",
+                "these"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：those"
+            },
+            {
+              "question": "_______ adults, kindergarteners usually get to work with what has been given to them right away.",
+              "options": [
+                "Without",
+                "Unlike",
+                "Among",
+                "Beyond"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Unlike"
+            },
+            {
+              "question": "Adults usually don’t start putting the structure together _______ they have spent most of the time planning.",
+              "options": [
+                "if",
+                "until",
+                "because",
+                "once"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：until"
+            },
+            {
+              "question": "Kindergarteners don’t _______ time planning.",
+              "options": [
+                "waste",
+                "take",
+                "cost",
+                "use"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：waste"
+            },
+            {
+              "question": "They also don’t decide _______ will be the leader.",
+              "options": [
+                "what",
+                "when",
+                "who",
+                "where"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：who"
+            },
+            {
               "question": "Judy’s friendship _______ Sarah get through the most difficult time in her life.",
               "options": [
                 "got",
@@ -7781,7 +9673,7 @@
                 "kept"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：helped"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：helped"
             },
             {
               "question": "Years ago, a popular movement, _______ the Ice Bucket Challenge, raised a lot of money for people with ALS.",
@@ -7792,7 +9684,7 @@
                 "used to"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：known as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：known as"
             },
             {
               "question": "All the chefs in the cooking contest had to prepare a dish with _______ they were given.",
@@ -7803,7 +9695,7 @@
                 "those"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：what"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：what"
             },
             {
               "question": "David never fails to show his courage _______ being the youngest firefighter on the team.",
@@ -7814,7 +9706,7 @@
                 "without"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：despite"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：despite"
             },
             {
               "question": "To every child, adult approval means love, _______ disapproval can cause strong feelings of rejection.",
@@ -7825,7 +9717,7 @@
                 "whereas"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：whereas"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：whereas"
             }
           ]
         },
@@ -8238,6 +10130,116 @@
           ],
           "quiz": [
             {
+              "question": "However, _______ he got to humans, he had run out of gifts.",
+              "options": [
+                "by the time",
+                "for fear that",
+                "as long as",
+                "no sooner than"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：by the time"
+            },
+            {
+              "question": "_______ humans survive, Prometheus gave them two special gifts.",
+              "options": [
+                "Help",
+                "Helped",
+                "To help",
+                "Helping"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：To help"
+            },
+            {
+              "question": "One was the ability to stand upright, and _______ was fire.",
+              "options": [
+                "one",
+                "the other",
+                "another",
+                "others"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：the other"
+            },
+            {
+              "question": "When the gods and humans were deciding on what sacrifices humans should make to the gods, Prometheus _______ to trick Zeus.",
+              "options": [
+                "refused",
+                "finished",
+                "heard",
+                "decided"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：decided"
+            },
+            {
+              "question": "Then, he _______ Zeus to choose one.",
+              "options": [
+                "made",
+                "asked",
+                "let",
+                "had"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：asked"
+            },
+            {
+              "question": "Zeus chose the second one, _______ there would be meat under the fat.",
+              "options": [
+                "thinking",
+                "thought",
+                "and thinking",
+                "to think"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：thinking"
+            },
+            {
+              "question": "Realizing he had been tricked, Zeus took fire away from humans _______ they couldn’t stay warm, cook, or make tools.",
+              "options": [
+                "in that",
+                "besides that",
+                "before that",
+                "so that"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：so that"
+            },
+            {
+              "question": "Prometheus helped humans _______ stealing fire back for them.",
+              "options": [
+                "with",
+                "in",
+                "by",
+                "without"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：by"
+            },
+            {
+              "question": "_______ about what Prometheus had done, Zeus chained him to a rock and sent an eagle to feed on his liver.",
+              "options": [
+                "To be furious",
+                "Furious",
+                "Was furious",
+                "Be furious"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Furious"
+            },
+            {
+              "question": "_______ his liver grew back each time, the eagle came back to gnaw at it every day.",
+              "options": [
+                "If",
+                "Despite",
+                "Though",
+                "Instead"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Though"
+            },
+            {
               "question": "Mr. Wilson will be at the office at 4 p.m. He will call you back _______ .",
               "options": [
                 "then",
@@ -8246,7 +10248,7 @@
                 "even"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：then"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：then"
             },
             {
               "question": "It is hard for Adam to afford a house at a time _______ housing prices are rising quickly.",
@@ -8257,7 +10259,7 @@
                 "what"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：when"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：when"
             },
             {
               "question": "What many people desire in a relationship is _______ trust and a sense of security.",
@@ -8268,7 +10270,7 @@
                 "owing to"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：nothing but"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：nothing but"
             },
             {
               "question": "Sam _______ buying lottery tickets every week, hoping he will be the winner one day.",
@@ -8279,7 +10281,7 @@
                 "keeps"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：keeps"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：keeps"
             },
             {
               "question": "Before going to the temple, Jessie prepared fruit _______ an offering to the gods.",
@@ -8290,7 +10292,7 @@
                 "for"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：as"
             }
           ]
         },
@@ -8730,6 +10732,116 @@
           ],
           "quiz": [
             {
+              "question": "During this festival, people celebrate death _______ joy.",
+              "options": [
+                "with",
+                "by",
+                "for",
+                "in"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：with"
+            },
+            {
+              "question": "Today, Mexicans celebrate it on November 1 and _______ On the first day,  2.",
+              "options": [
+                "deceasing",
+                "deceased",
+                "decease",
+                "to decease"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：deceased"
+            },
+            {
+              "question": "The idea _______ the holiday is that the souls of the dead return to earth to visit their family members.",
+              "options": [
+                "against",
+                "within",
+                "behind",
+                "inside"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：behind"
+            },
+            {
+              "question": "_______ being scared by this, Mexicans look forward to it.",
+              "options": [
+                "Due to",
+                "Instead of",
+                "By means of",
+                "In addition to"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Instead of"
+            },
+            {
+              "question": "They _______ the spirits’ arrival by buying special foods and items.",
+              "options": [
+                "suffer from",
+                "turn down",
+                "cheer up",
+                "prepare for"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：prepare for"
+            },
+            {
+              "question": "These _______ flowers, candles, and decorated sugar skulls.",
+              "options": [
+                "transform",
+                "recognize",
+                "include",
+                "receive"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：include"
+            },
+            {
+              "question": "They also clean the graves _______ their family members are buried.",
+              "options": [
+                "where",
+                "when",
+                "which",
+                "what"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：where"
+            },
+            {
+              "question": "They also prepare food and drinks _______ their deceased family members liked when they were alive.",
+              "options": [
+                "who",
+                "that",
+                "whom",
+                "what"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：that"
+            },
+            {
+              "question": "The whole family gathers _______ a feast.",
+              "options": [
+                "by",
+                "through",
+                "for",
+                "over"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：for"
+            },
+            {
+              "question": "Since death is a natural part of life, Mexicans would rather embrace it _______ ignore it.",
+              "options": [
+                "to",
+                "not",
+                "but",
+                "than"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：than"
+            },
+            {
               "question": "The doctor _______ five nurses care for the patient, who is the doctor’s mother.",
               "options": [
                 "got",
@@ -8738,7 +10850,7 @@
                 "asked"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：had"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：had"
             },
             {
               "question": "Although they are twin brothers, Tom is very outgoing, _______ Jerry is very shy.",
@@ -8749,7 +10861,7 @@
                 "once"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：while"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：while"
             },
             {
               "question": "She often talks about the summer of 2020 _______ she traveled across Europe.",
@@ -8760,7 +10872,7 @@
                 ", when"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：, when"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：, when"
             },
             {
               "question": "The house _______ is pretty nice, but the neighbors don’t seem very friendly.",
@@ -8771,7 +10883,7 @@
                 "which"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：itself"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：itself"
             },
             {
               "question": "Amelia can’t wait to _______ everything happening at school _______ her mom after she arrives home.",
@@ -8782,7 +10894,7 @@
                 "adjust; to"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：share; with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：share; with"
             }
           ]
         },
@@ -9214,6 +11326,105 @@
           ],
           "quiz": [
             {
+              "question": "The city’s natural scenery was wonderful; _______ , there was much more to see than just this.",
+              "options": [
+                "therefore",
+                "moreover",
+                "however",
+                "instead"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：however"
+            },
+            {
+              "question": "Kyoto was the capital city of Japan _______ over a thousand years, so there are many old shrines and temples.",
+              "options": [
+                "for",
+                "in",
+                "with",
+                "by"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：for"
+            },
+            {
+              "question": "No visit to Kyoto would be complete _______ visiting the Golden Pavilion Temple.",
+              "options": [
+                "about",
+                "without",
+                "upon",
+                "besides"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：without"
+            },
+            {
+              "question": "_______ up behind a crystal-clear pond, the building is covered in sparkling gold leaf and crowned with a large phoenix on its shimmering roof.",
+              "options": [
+                "Rise",
+                "To rise",
+                "Rose",
+                "Rising"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：Rising"
+            },
+            {
+              "question": "The reflection of the pavilion _______ the surface of the pond was an unforgettable sight.",
+              "options": [
+                "on",
+                "above",
+                "with",
+                "for"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：on"
+            },
+            {
+              "question": "I took a walk in the surrounding gardens for a while, and the leaves of the giant trees could _______ rustling.",
+              "options": [
+                "be made",
+                "be seen",
+                "be heard",
+                "be allowed"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：be heard"
+            },
+            {
+              "question": "_______ special part of my trip to Kyoto was seeing one of the old capital’s “persons of art,” or geishas.",
+              "options": [
+                "The other",
+                "Other",
+                "Any other",
+                "Another"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：Another"
+            },
+            {
+              "question": "The woman was wearing a less colorful kimono _______ silky sleeves.",
+              "options": [
+                "on",
+                "had",
+                "with",
+                "has"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：with"
+            },
+            {
+              "question": "I learned that geishas _______ years mastering different musical instruments, songs, and traditional dances.",
+              "options": [
+                "take",
+                "spend",
+                "get",
+                "need"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：spend"
+            },
+            {
               "question": "A majority of people in the country wanted the new law to be passed, _______ only a few against it.",
               "options": [
                 "and",
@@ -9222,7 +11433,7 @@
                 "for"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：with"
             },
             {
               "question": "It is the mountains in the middle of the country _______ divide Taiwan into east and west.",
@@ -9233,7 +11444,7 @@
                 "where"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：that"
             },
             {
               "question": "Those kitchen utensils specially _______ for our restaurant were delivered this morning.",
@@ -9244,7 +11455,7 @@
                 "to be designed"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：designed"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：designed"
             },
             {
               "question": "It was reported that _______ animals were killed in the bush fire.",
@@ -9255,7 +11466,7 @@
                 "a large number of"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：a large number of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：a large number of"
             },
             {
               "question": "the security guard at this bank for twenty years, Mark is going to retire this year.",
@@ -9266,7 +11477,7 @@
                 "To be"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：Having been"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：Having been"
             }
           ]
         },
@@ -9784,6 +11995,83 @@
           ],
           "quiz": [
             {
+              "question": "_______ my pain, however, I knew I had to keep moving.",
+              "options": [
+                "Without",
+                "Despite",
+                "Unlike",
+                "Among"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Despite"
+            },
+            {
+              "question": "I _______ and soon found a strange village.",
+              "options": [
+                "gave up",
+                "dressed up",
+                "set off",
+                "fit in"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：set off"
+            },
+            {
+              "question": "At first, I felt _______ because I could see, but my feelings changed quickly.",
+              "options": [
+                "intimate",
+                "drowsy",
+                "equal",
+                "superior"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：superior"
+            },
+            {
+              "question": "A kind elder, Yacob, taught me how the people there used sound, touch, and smell to grow food and _______ their animals.",
+              "options": [
+                "come upon",
+                "cling to",
+                "care for",
+                "put aside"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：care for"
+            },
+            {
+              "question": "_______ , I began to feel at home in the village.",
+              "options": [
+                "Gradually",
+                "Painfully",
+                "Skillfully",
+                "Historically"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Gradually"
+            },
+            {
+              "question": "However, the villagers, _______ didn’t understand sight, wanted me to give up my eyes to be like them.",
+              "options": [
+                "when",
+                "which",
+                "where",
+                "who"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：who"
+            },
+            {
+              "question": "One morning, as I _______ at the sunrise, I realized my eyes were my freedom.",
+              "options": [
+                "gazed",
+                "tumbled",
+                "adapted",
+                "reviewed"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：gazed"
+            },
+            {
               "question": "Jean views every small mistake _______ a lesson she can learn from.",
               "options": [
                 "for",
@@ -9792,7 +12080,7 @@
                 "with"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：as"
             },
             {
               "question": "Brendon has tried to lose weight _______ going on a special diet, and it seems to be working.",
@@ -9803,7 +12091,7 @@
                 "for"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：by"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：by"
             },
             {
               "question": "They were talking loudly during the movie, but they stopped _______ after people complained.",
@@ -9814,7 +12102,7 @@
                 "talking"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：talking"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：talking"
             },
             {
               "question": "didn’t take long for Tom to notice that the dog was following him.",
@@ -9825,7 +12113,7 @@
                 "It"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：It"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：It"
             },
             {
               "question": "you practice speaking English, _______ clearly you will be able to express your ideas.",
@@ -9836,7 +12124,7 @@
                 "The sooner; the less"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：The more; the more"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：The more; the more"
             }
           ]
         },
@@ -10266,6 +12554,105 @@
           ],
           "quiz": [
             {
+              "question": "But if you think that spoken language is the main way that we communicate, the theory _______ spoken words account for only about seven percent of human communication may surprise you.",
+              "options": [
+                "which",
+                "of",
+                "where",
+                "that"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：that"
+            },
+            {
+              "question": "Our bodies actually do _______ 55% of our talking for us.",
+              "options": [
+                "with",
+                "in",
+                "about",
+                "for"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：about"
+            },
+            {
+              "question": "People’s bodies usually show _______ .",
+              "options": [
+                "what are they really thinking",
+                "what they are really thinking",
+                "are they really thinking",
+                "they are really thinking"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：what they are really thinking"
+            },
+            {
+              "question": "Body language can help you figure out _______ someone is being honest with you or not.",
+              "options": [
+                "that",
+                "whether",
+                "how",
+                "when"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：whether"
+            },
+            {
+              "question": "When they _______ move their arms and hands, their movements are usually stiff.",
+              "options": [
+                "should",
+                "may",
+                "will",
+                "do"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：do"
+            },
+            {
+              "question": "Liars also can’t help but _______ their face or neck, or rub their eyes without realizing it.",
+              "options": [
+                "touched",
+                "touching",
+                "touch",
+                "to touch"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：touch"
+            },
+            {
+              "question": "You can also tell when someone has romantic feelings for you _______ looking at their body language.",
+              "options": [
+                "by",
+                "to",
+                "with",
+                "for"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：by"
+            },
+            {
+              "question": "People’s bodies provide an indication to someone _______ they are attracted.",
+              "options": [
+                "that",
+                "who",
+                "whom",
+                "to whom"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：to whom"
+            },
+            {
+              "question": "If someone _______ you, they may look at you from afar.",
+              "options": [
+                "adores",
+                "determines",
+                "scratches",
+                "reverses"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：adores"
+            },
+            {
               "question": "Being able to _______ many languages _______ very helpful when you look for a job.",
               "options": [
                 "speak; is",
@@ -10274,7 +12661,7 @@
                 "speaking; are"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：speak; is"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：speak; is"
             },
             {
               "question": "Don’t worry too much about the outcome or result. After all, it is more important to start than _______ .",
@@ -10285,7 +12672,7 @@
                 "successful"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：to succeed"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：to succeed"
             },
             {
               "question": "If everyone _______ the new traffic rules, there will be far fewer accidents on the road.",
@@ -10296,7 +12683,7 @@
                 "had followed"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：follows"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：follows"
             },
             {
               "question": "Our body language and gestures help us communicate with others _______ a more effective way.",
@@ -10307,7 +12694,7 @@
                 "in"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：in"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：in"
             },
             {
               "question": "From the way he spoke, I could tell that he _______ rather than telling the truth.",
@@ -10318,7 +12705,7 @@
                 "has been lying"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：was lying"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：was lying"
             }
           ]
         },
@@ -10695,6 +13082,105 @@
           ],
           "quiz": [
             {
+              "question": "Trappers often try to _______ young elephants away from their mothers and into traps.",
+              "options": [
+                "defend",
+                "commit",
+                "lure",
+                "deny"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：lure"
+            },
+            {
+              "question": "Any females from the herd _______ try to protect their babies are sometimes shot by the trappers.",
+              "options": [
+                "that",
+                "where",
+                "may",
+                "will"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：that"
+            },
+            {
+              "question": "_______ the captured elephants are sold to tour companies, the real horror begins.",
+              "options": [
+                "Once",
+                "Until",
+                "Before",
+                "Although"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Once"
+            },
+            {
+              "question": "They are put in very small cages and beaten _______ days.",
+              "options": [
+                "for",
+                "on",
+                "in",
+                "by"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：for"
+            },
+            {
+              "question": "The psychological torture and physical abuse, _______ cause suffering, are done to make them more obedient.",
+              "options": [
+                "both of them",
+                "both of whom",
+                "they both",
+                "both of which"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：both of which"
+            },
+            {
+              "question": "Once they are trained, the elephants are _______ a life of misery.",
+              "options": [
+                "divided into",
+                "forced into",
+                "carried into",
+                "cut into"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：forced into"
+            },
+            {
+              "question": "_______ heavy tourists on their backs every day can cause painful back injuries to the elephants.",
+              "options": [
+                "Carrying",
+                "Carried",
+                "For carrying",
+                "In order to carry"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Carrying"
+            },
+            {
+              "question": "They are also beaten regularly and are not given enough food and water _______ adds to their exhaustion.",
+              "options": [
+                "that",
+                "who",
+                "which",
+                ", which"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：, which"
+            },
+            {
+              "question": "Instead, visit one of Thailand’s three national parks _______ elephants roam free.",
+              "options": [
+                "when",
+                "that",
+                "where",
+                "which"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：where"
+            },
+            {
               "question": "The children were made _______ at the dining table while their mom was making dinner.",
               "options": [
                 "wait",
@@ -10703,7 +13189,7 @@
                 "waiting"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：to wait"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：to wait"
             },
             {
               "question": "It is sad to know that not everyone in the world has equal opportunities; many people are still denied _______ the most basic human rights.",
@@ -10714,7 +13200,7 @@
                 "×"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：×"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：×"
             },
             {
               "question": "These poor circus animals _______ sticks during their training for their performances.",
@@ -10725,7 +13211,7 @@
                 "were struck with"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：were struck with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：were struck with"
             },
             {
               "question": "by the strong winds, the old house collapsed after the storm.",
@@ -10736,7 +13222,7 @@
                 "To be damaged"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：Damaged"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：Damaged"
             },
             {
               "question": "It is going to rain, but I figure we can still have a lot of fun _______ board games inside.",
@@ -10747,7 +13233,7 @@
                 "playing"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：playing"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：playing"
             }
           ]
         },
@@ -11131,6 +13617,105 @@
           ],
           "quiz": [
             {
+              "question": "The Mazu pilgrimage usually occurs in April and lasts _______ nine days.",
+              "options": [
+                "to",
+                "since",
+                "for",
+                "in"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：for"
+            },
+            {
+              "question": "The _______",
+              "options": [
+                "starting",
+                "blessed",
+                "casting",
+                "piercing"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：starting"
+            },
+            {
+              "question": "Before the pilgrimage begins, there is a celebration _______ the temple.",
+              "options": [
+                "in front of",
+                "from beneath",
+                "in between",
+                "ahead of"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：in front of"
+            },
+            {
+              "question": "People gather in the streets, _______ the sounds of drums and firecrackers fill the air.",
+              "options": [
+                "though",
+                "while",
+                "yet",
+                "so"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：while"
+            },
+            {
+              "question": "When the statue of Mazu _______ comes out from the temple, everyone is excited to see her.",
+              "options": [
+                "typically",
+                "actually",
+                "exactly",
+                "finally"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：finally"
+            },
+            {
+              "question": "Around 200,000 pilgrims set out from Zhenlan Temple _______ foot.",
+              "options": [
+                "on",
+                "with",
+                "via",
+                "in"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：on"
+            },
+            {
+              "question": "_______ the pilgrimage, many people come out to receive Mazu’s blessing.",
+              "options": [
+                "During",
+                "Among",
+                "Through",
+                "Beyond"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：During"
+            },
+            {
+              "question": "Locals show their hospitality _______ free food and places to stay to the pilgrims.",
+              "options": [
+                "in offering",
+                "for offering",
+                "to offer",
+                "by offering"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：by offering"
+            },
+            {
+              "question": "_______ such generosity be seen in a religious event.",
+              "options": [
+                "Little does",
+                "Hardly will",
+                "Rarely can",
+                "Never should"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Rarely can"
+            },
+            {
               "question": "It would be fun for foreign tourists to _______ the Mazu pilgrimage because they can have a real taste of this example of local culture.",
               "options": [
                 "start out",
@@ -11139,7 +13724,7 @@
                 "transform into"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：participate in"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：participate in"
             },
             {
               "question": "Foreigners who have lived in Taiwan for some time _______ know quite a lot about our Chinese New Year traditions.",
@@ -11150,7 +13735,7 @@
                 "should"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：might"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：might"
             },
             {
               "question": "Tiananmen Square, _______ is one of the biggest city squares in the world, sits at the entrance of the Forbidden City in Beijing.",
@@ -11161,7 +13746,7 @@
                 "it"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：which"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：which"
             },
             {
               "question": "the route of the marathon, there were a few stops for the runners to have some water or snacks before they continued running.",
@@ -11172,7 +13757,7 @@
                 "Aside"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：Along"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：Along"
             },
             {
               "question": "the chance of spotting the superstar at the airport is very slim, many of his fans are still going to wait there.",
@@ -11183,7 +13768,7 @@
                 "If"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：Although"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：Although"
             }
           ]
         }
@@ -11656,6 +14241,83 @@
           ],
           "quiz": [
             {
+              "question": "Then, one night, a banker and his guests, including me, were _______ the issue of punishment.",
+              "options": [
+                "claiming",
+                "devouring",
+                "debating",
+                "worshipping"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：debating"
+            },
+            {
+              "question": "He said life in _______ was worse than death.",
+              "options": [
+                "disgust",
+                "prison",
+                "acquisition",
+                "surrender"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：prison"
+            },
+            {
+              "question": "Our argument grew _______ , and the banker made a crazy bet.",
+              "options": [
+                "heat",
+                "heatedly",
+                "heater",
+                "heated"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：heated"
+            },
+            {
+              "question": "I was so confident that I suggested that the bet _______ for fifteen years instead.",
+              "options": [
+                "lasting",
+                "to last",
+                "last",
+                "be last"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：last"
+            },
+            {
+              "question": "_______ in a cabin on the banker’s property, I could ask for anything I wanted, such as wine or music.",
+              "options": [
+                "Locked",
+                "Lock",
+                "To lock",
+                "Locking"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Locked"
+            },
+            {
+              "question": "By my sixth year, I no longer had an appetite _______ material things.",
+              "options": [
+                "in",
+                "with",
+                "by",
+                "for"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：for"
+            },
+            {
+              "question": "I officially _______ the bet and the money.",
+              "options": [
+                "imprison",
+                "murder",
+                "intend",
+                "abandon"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：abandon"
+            },
+            {
               "question": "Fiona would rather _______ money for travel than _______ expensive clothes right now.",
               "options": [
                 "to save; to buy",
@@ -11664,7 +14326,7 @@
                 "saved; bought"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：save; buy"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：save; buy"
             },
             {
               "question": "Anna found the online meeting surprisingly _______ .",
@@ -11675,7 +14337,7 @@
                 "efficiency"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：efficient"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：efficient"
             },
             {
               "question": "If you _______ coming for dinner, I _______ that you bring nothing—we have plenty of food.",
@@ -11686,7 +14348,7 @@
                 "are; insist"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：are; insist"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：are; insist"
             },
             {
               "question": "By the time Matt turned fifty, he _______ his third Oscar.",
@@ -11697,7 +14359,7 @@
                 "won"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：had won"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：had won"
             },
             {
               "question": "It is said that the T-shirts and the shoes _______ by the singer during that concert will become a new fashion trend among teenagers.",
@@ -11708,7 +14370,7 @@
                 "to wear"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：worn"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：worn"
             }
           ]
         },
@@ -12097,6 +14759,105 @@
           ],
           "quiz": [
             {
+              "question": "In fact, around a third of the county is _______ during the rainy season.",
+              "options": [
+                "rumored",
+                "debated",
+                "flooded",
+                "installed"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：flooded"
+            },
+            {
+              "question": "At such times, the roads are often blocked and _______ is difficult for people to get around, which can lead to thousands of schools closing for months on end.",
+              "options": [
+                "it",
+                "that",
+                "this",
+                "there"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：it"
+            },
+            {
+              "question": "This, of course, leaves many children without _______ proper schooling.",
+              "options": [
+                "devotion to",
+                "belief in",
+                "access to",
+                "dependence on"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：access to"
+            },
+            {
+              "question": "_______ , Mohammed Rezwan has come up with a solution: boat schools.",
+              "options": [
+                "Instead",
+                "Rather",
+                "Primarily",
+                "Fortunately"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：Fortunately"
+            },
+            {
+              "question": "The goal of the boat school program is to provide elementary school kids in Bangladesh _______ education throughout the year.",
+              "options": [
+                "with",
+                "to",
+                "from",
+                "above"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：with"
+            },
+            {
+              "question": "The _______ classrooms thus have weatherproof roofs, tables, chairs, electronic equipment, and multimedia resources.",
+              "options": [
+                "filling",
+                "floating",
+                "risking",
+                "terrifying"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：floating"
+            },
+            {
+              "question": "They also use _______ energy to run everything.",
+              "options": [
+                "waste",
+                "subtle",
+                "guilty",
+                "solar"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：solar"
+            },
+            {
+              "question": "Each school can accommodate up to 30 students _______ and offer basic education up to the fourth grade.",
+              "options": [
+                "in blossom",
+                "in advance",
+                "at a time",
+                "at hand"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：at a time"
+            },
+            {
+              "question": "The program has certainly _______ in education in other places, too.",
+              "options": [
+                "made waves",
+                "got stuck",
+                "made up",
+                "ran out"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：made waves"
+            },
+            {
               "question": "This newspaper ran a special report _______ the life of the late former President and his dedication to democracy.",
               "options": [
                 "on",
@@ -12105,7 +14866,7 @@
                 "in"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：on"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：on"
             },
             {
               "question": "The manager told his colleagues that the budget for the coming year could not be more than _______ of the current year.",
@@ -12116,7 +14877,7 @@
                 "there"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：that"
             },
             {
               "question": "Allen, a computer engineer, can work from home. All he needs to do his job is a computer _______ the Internet.",
@@ -12127,7 +14888,7 @@
                 "connected to"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：connected to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：connected to"
             },
             {
               "question": "This fitness center is _______ plenty of workout equipment, including treadmills, exercise bikes, and steppers.",
@@ -12138,7 +14899,7 @@
                 "beneficial for"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：equipped with"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：equipped with"
             },
             {
               "question": "If Terry wants to start a business, he has to consider many different things, _______ costs, location, and marketing.",
@@ -12149,7 +14910,7 @@
                 "up to"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：such as"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：such as"
             }
           ]
         },
@@ -12520,6 +15281,116 @@
           ],
           "quiz": [
             {
+              "question": "_______ history is lost is a matter of choice.",
+              "options": [
+                "Though",
+                "Whether",
+                "If",
+                "Since"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Whether"
+            },
+            {
+              "question": "_______ this construction, however, an artificial lake would form and submerge the temples.",
+              "options": [
+                "At a time",
+                "Rather than",
+                "Therefore",
+                "As a result of"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：As a result of"
+            },
+            {
+              "question": "To avoid the loss of this important cultural heritage site, it was thus necessary that the authorities _______ the Abu Simbel temples moved.",
+              "options": [
+                "have",
+                "has",
+                "had",
+                "to have"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：have"
+            },
+            {
+              "question": "Workers therefore cut the structures _______ 16,000 huge blocks, which were then taken about 65 meters higher up the river and 180 meters farther back from the water.",
+              "options": [
+                "out of",
+                "with",
+                "into",
+                "for"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：into"
+            },
+            {
+              "question": "This _______ Egypt to keep these historical treasures.",
+              "options": [
+                "found",
+                "enabled",
+                "avoided",
+                "prevented"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：enabled"
+            },
+            {
+              "question": "Another _______ historical structure that was once in danger of being lost was the Kaohsiung train station.",
+              "options": [
+                "careless",
+                "helpless",
+                "valueless",
+                "priceless"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：priceless"
+            },
+            {
+              "question": "This was in the early 2000s, _______ the city was in need of a new rail and metro system and was considering demolishing the old train station.",
+              "options": [
+                "that",
+                "which",
+                "when",
+                "where"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：when"
+            },
+            {
+              "question": "Experts thus suggested it be moved, not in separate pieces but _______ .",
+              "options": [
+                "as a whole",
+                "in a word",
+                "in the long run",
+                "in those days"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：as a whole"
+            },
+            {
+              "question": "This plan was eventually approved, and huge wooden tracks were laid to _______ the old building.",
+              "options": [
+                "transmit",
+                "transport",
+                "translate",
+                "transform"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：transport"
+            },
+            {
+              "question": "_______ it took 17 days to move it to the new location.",
+              "options": [
+                "In case",
+                "After all",
+                "In addition",
+                "All in all"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：All in all"
+            },
+            {
               "question": "Studying is important, but it should never come at the _______ of your sleep or health.",
               "options": [
                 "money",
@@ -12528,7 +15399,7 @@
                 "worth"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：cost"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：cost"
             },
             {
               "question": "Making a schedule in advance allows Jeremy _______ his time well.",
@@ -12539,7 +15410,7 @@
                 ", managing"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：to manage"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：to manage"
             },
             {
               "question": "Ronnie saved Irene _______ being harassed by a group of drunk men at the bar.",
@@ -12550,7 +15421,7 @@
                 "from"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：from"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：from"
             },
             {
               "question": "Our family plans to go on a short trip together next month. The only problem is _______ we can’t find any hotels that we all like.",
@@ -12561,7 +15432,7 @@
                 "because"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：that"
             },
             {
               "question": "national parks, Australia has the most in the world, with more than 600.",
@@ -12572,7 +15443,7 @@
                 "When it comes to"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：When it comes to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：When it comes to"
             }
           ]
         },
@@ -13005,6 +15876,105 @@
           ],
           "quiz": [
             {
+              "question": "It is also _______ the Tao people.",
+              "options": [
+                "home to",
+                "sense of",
+                "aware of",
+                "access to"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：home to"
+            },
+            {
+              "question": "This is a _______ of islanders that depends very heavily on the ocean.",
+              "options": [
+                "robe",
+                "project",
+                "tribe",
+                "mission"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：tribe"
+            },
+            {
+              "question": "_______ about eight months of the year, the flying fish season, for example, is a very important part of Tao life and culture.",
+              "options": [
+                "Span",
+                "Spanning",
+                "To span",
+                "Spanned"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Spanning"
+            },
+            {
+              "question": "Boat captains, _______ special costumes on, gather on the beach to pray and make sacrifices in order that the flying fish spirits will bless their tribe.",
+              "options": [
+                "when",
+                "during",
+                "for",
+                "with"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：with"
+            },
+            {
+              "question": "Tao fishermen can then fish from March to June, but they can only capture fish in nearby _______ waters.",
+              "options": [
+                "shallow",
+                "enormous",
+                "productive",
+                "primary"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：shallow"
+            },
+            {
+              "question": "They appear to _______ this rule for more than just cultural reasons.",
+              "options": [
+                "make",
+                "have made",
+                "making",
+                "be made"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：have made"
+            },
+            {
+              "question": "For tourists who plan to _______ and visit Orchid Island, there are a few things to remember.",
+              "options": [
+                "make way",
+                "strike a balance",
+                "spread their wings",
+                "stand out"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：spread their wings"
+            },
+            {
+              "question": "First, it is considered _______ to touch or photograph Tao fishing boats without permission.",
+              "options": [
+                "be bad luck",
+                "to be bad luck",
+                "as bad luck",
+                "by bad luck"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：to be bad luck"
+            },
+            {
+              "question": "Second, don’t ask the locals about future fishing trips _______ it is feared that this might anger the gods.",
+              "options": [
+                "though",
+                "while",
+                "if",
+                "as"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：as"
+            },
+            {
               "question": "Access to the hotel’s special Business Lounge is _______ VIP guests only.",
               "options": [
                 "beneficial to",
@@ -13013,7 +15983,7 @@
                 "known as"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：restricted to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：restricted to"
             },
             {
               "question": "Many Taiwanese locals showed their _______ for Father Yves Moal (劉一峰神父) by helping rebuild his recycling site after it was damaged in the fire.",
@@ -13024,7 +15994,7 @@
                 "resistance"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：gratitude"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：gratitude"
             },
             {
               "question": "Heather has many years’ experience as a math teacher. _______ , she had no trouble getting a job at the cram school.",
@@ -13035,7 +16005,7 @@
                 "However"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：Therefore"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：Therefore"
             },
             {
               "question": "LeBron James _______ be one of the greatest NBA stars to have ever played the game.",
@@ -13046,7 +16016,7 @@
                 "is believed that"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：is believed to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：is believed to"
             },
             {
               "question": "Taitung _______ the annual Hot-Air Balloon Festival is held, is known for its magnificent scenery.",
@@ -13057,7 +16027,7 @@
                 "which"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：, where"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：, where"
             }
           ]
         },
@@ -13517,6 +16487,116 @@
           ],
           "quiz": [
             {
+              "question": "During World War II, this special lady _______ to save the lives of more than 2,000 Jewish children.",
+              "options": [
+                "managed",
+                "replaced",
+                "cherished",
+                "denied"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：managed"
+            },
+            {
+              "question": "Irena and her friends famously _______ children out of the Warsaw ghetto in the 1940s, where the Nazis held more than 400,000 Jewish people captive.",
+              "options": [
+                "spared",
+                "resisted",
+                "sneaked",
+                "paced"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：sneaked"
+            },
+            {
+              "question": "_______ that many people would die if they didn’t help them, Irena and her friends started off by smuggling food and medicine into the camp.",
+              "options": [
+                "Know",
+                "To know",
+                "Knowing",
+                "Being known"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Knowing"
+            },
+            {
+              "question": "That’s when they began to help children escape to safety by hiding them in _______ and other containers.",
+              "options": [
+                "suitcases",
+                "barriers",
+                "sessions",
+                "panels"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：suitcases"
+            },
+            {
+              "question": "_______ , it was only a matter of time before the Germans found out what Irena and her friends were up to.",
+              "options": [
+                "Ultimately",
+                "Promptly",
+                "Slightly",
+                "Unfortunately"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：Unfortunately"
+            },
+            {
+              "question": "Her home was therefore searched _______ , and she was arrested.",
+              "options": [
+                "side by side",
+                "from top to bottom",
+                "back and forth",
+                "face to face"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：from top to bottom"
+            },
+            {
+              "question": "Though tortured by the Nazis, she _______ to reveal any information about her friends or their rescue operations.",
+              "options": [
+                "refused",
+                "insisted",
+                "promised",
+                "concluded"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：refused"
+            },
+            {
+              "question": "_______ she herself was rescued by her friends, after which she could continue to help the Jewish people.",
+              "options": [
+                "Exactly",
+                "Indeed",
+                "Eventually",
+                "Instead"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：Eventually"
+            },
+            {
+              "question": "If she _______ her own life at risk, many Jewish children would very likely have died.",
+              "options": [
+                "doesn’t put",
+                "didn’t put",
+                "hasn’t put",
+                "hadn’t put"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：hadn’t put"
+            },
+            {
+              "question": "_______ , Irena is thus remembered as one of the great war heroes.",
+              "options": [
+                "Not long after",
+                "To this day",
+                "At the time",
+                "These days"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：To this day"
+            },
+            {
               "question": "After seeing his own father suffer so much as a result of cancer, Adam was _______ find a cure for it.",
               "options": [
                 "dying from",
@@ -13525,7 +16605,7 @@
                 "connected to"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：determined to"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：determined to"
             },
             {
               "question": "The hikers got totally lost and somehow, after four hours of walking, ended _______ back in the same spot where they had started.",
@@ -13536,7 +16616,7 @@
                 "off"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：up"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：up"
             },
             {
               "question": "While some readers are frustrated by the ending of J. K. Rowling’s latest novel, _______ see things very differently and quite like it.",
@@ -13547,7 +16627,7 @@
                 "another"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：others"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：others"
             },
             {
               "question": "As a mother, Karen would rather sacrifice her own life than put her daughter’s _______ .",
@@ -13558,7 +16638,7 @@
                 "with care"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：at risk"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：at risk"
             },
             {
               "question": "The UN is holding an urgent global summit _______ every member state will agree to cut their CO2 emissions as soon as possible.",
@@ -13569,7 +16649,7 @@
                 "in hopes that"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：in hopes that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：in hopes that"
             }
           ]
         },
@@ -13965,6 +17045,116 @@
           ],
           "quiz": [
             {
+              "question": "The company is, as this name suggests, _______ Mumbai, India, and its employees are called dabbawalas.",
+              "options": [
+                "home to",
+                "situated in",
+                "fond of",
+                "filled with"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：situated in"
+            },
+            {
+              "question": "A dabbawala, or “one _______ carries a box,” picks up meals from customers’ homes.",
+              "options": [
+                "who",
+                "whom",
+                "which",
+                "what"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：who"
+            },
+            {
+              "question": "They then deliver these lunches _______ to their workplaces.",
+              "options": [
+                "in common",
+                "to this day",
+                "on time",
+                "by the time"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：on time"
+            },
+            {
+              "question": "This is a very useful service since it is not convenient for most people to carry their lunches _______ them on crowded public transportation.",
+              "options": [
+                "for",
+                "with",
+                "to",
+                "around"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：with"
+            },
+            {
+              "question": "The amazing thing about this company is that, despite very basic methods and strategies, it operates at an extremely high level of _______ .",
+              "options": [
+                "productivity",
+                "hygiene",
+                "finance",
+                "accuracy"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：accuracy"
+            },
+            {
+              "question": "In fact, their error rate is just one _______ sixteen million!",
+              "options": [
+                "to",
+                "for",
+                "in",
+                "with"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：in"
+            },
+            {
+              "question": "_______ the boxes have been arranged according to their general destinations are they taken onto trains for delivery.",
+              "options": [
+                "Not until",
+                "Hardly",
+                "Only till",
+                "Not only"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：Not until"
+            },
+            {
+              "question": "When they reach the right station, the boxes are then arranged again _______ their owners’ exact locations.",
+              "options": [
+                "taking in",
+                "depending on",
+                "coming with",
+                "tearing apart"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：depending on"
+            },
+            {
+              "question": "Though very simple, this system is, _______ , one of the most efficient delivery services in the world.",
+              "options": [
+                "in view of this",
+                "as a result",
+                "without a doubt",
+                "by no means"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：without a doubt"
+            },
+            {
+              "question": "It is also a great example of how much can be achieved simply through _______ teamwork.",
+              "options": [
+                "excellent",
+                "guilty",
+                "subtle",
+                "courageous"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：excellent"
+            },
+            {
               "question": "Being a commuter, Lora expects the bus _______ at the stop on time every day.",
               "options": [
                 "in arrival",
@@ -13973,7 +17163,7 @@
                 "to arrive"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：to arrive"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：to arrive"
             },
             {
               "question": "the ten countries Fiona has visited so far, Poland is her favorite.",
@@ -13984,7 +17174,7 @@
                 "Above"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：Of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：Of"
             },
             {
               "question": "No talking is allowed once the performance begins. _______ , all cellphones should be set to silent.",
@@ -13995,7 +17185,7 @@
                 "In contrast"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：In addition"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：In addition"
             },
             {
               "question": "Nowadays, it is widely accepted that a woman is just as _______ being president as any man.",
@@ -14006,7 +17196,7 @@
                 "capable of"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：capable of"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：capable of"
             },
             {
               "question": "The magician performed an amazing trick. No one could figure out _______ he did it.",
@@ -14017,7 +17207,7 @@
                 "which"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：how"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：how"
             }
           ]
         },
@@ -14402,6 +17592,116 @@
           ],
           "quiz": [
             {
+              "question": "On October 24, 1975, women in Iceland participated in the “Woman’s Day Off.” On that day, ninety percent of the female _______ refused to go to work or do domestic work like looking after children or cooking.",
+              "options": [
+                "popularity",
+                "population",
+                "prosperity",
+                "personality"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：population"
+            },
+            {
+              "question": "Instead, they _______ .",
+              "options": [
+                "made ends meet",
+                "struck a balance",
+                "took to the streets",
+                "breathed a sigh of relief"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：took to the streets"
+            },
+            {
+              "question": "They were fighting _______ being paid less than men.",
+              "options": [
+                "against",
+                "for",
+                "with",
+                "by"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：against"
+            },
+            {
+              "question": "_______ most women on strike, many businesses couldn’t operate.",
+              "options": [
+                "During",
+                "When",
+                "For",
+                "With"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：With"
+            },
+            {
+              "question": "The nation nearly _______ a standstill.",
+              "options": [
+                "left with",
+                "arrived at",
+                "came to",
+                "came with"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：came to"
+            },
+            {
+              "question": "A year later, Iceland passed a law against gender _______ in the workplace and in schools.",
+              "options": [
+                "discrimination",
+                "guidelines",
+                "abundance",
+                "nutrition"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：discrimination"
+            },
+            {
+              "question": "They _______ only 64.15% of what men received.",
+              "options": [
+                "paid",
+                "have paid",
+                "will be paid",
+                "were being paid"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：were being paid"
+            },
+            {
+              "question": "_______ , on October 24, 2005, women organized another strike.",
+              "options": [
+                "However",
+                "Thus",
+                "Instead",
+                "Similarly"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：Thus"
+            },
+            {
+              "question": "The women took similar action in 2016 to remind people _______ the treatment of women was still not fair.",
+              "options": [
+                "that",
+                "which",
+                "where",
+                "when"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：that"
+            },
+            {
+              "question": "If it _______ for the actions of Iceland’s women, this probably would never have happened.",
+              "options": [
+                "was",
+                "were",
+                "has not been",
+                "had not been"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：had not been"
+            },
+            {
               "question": "The manager _______ that Maurice make a final decision after evaluating the whole situation.",
               "options": [
                 "thought",
@@ -14410,7 +17710,7 @@
                 "appeared"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：demanded"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：demanded"
             },
             {
               "question": "Greta Thunberg, the young Swedish activist, is a leader in the global fight _______ the environment.",
@@ -14421,7 +17721,7 @@
                 "on"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：for"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：for"
             },
             {
               "question": "Susan and her classmates protested _______ the school’s decision to cancel the annual sports day.",
@@ -14432,7 +17732,7 @@
                 "against"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：against"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：against"
             },
             {
               "question": "According to this survey, some people prefer to visit Japan while _______ want to go to European countries.",
@@ -14443,7 +17743,7 @@
                 "one"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：others"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：others"
             },
             {
               "question": "The hotel guest _______ the front desk call a taxi to take him to the airport.",
@@ -14454,7 +17754,7 @@
                 "stopped"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：had"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：had"
             }
           ]
         },
@@ -14827,6 +18127,105 @@
           ],
           "quiz": [
             {
+              "question": "However, as well as benefiting _______ tourists, some cities also have problems due to too many people visiting.",
+              "options": [
+                "on",
+                "within",
+                "from",
+                "above"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：from"
+            },
+            {
+              "question": "This is a phenomenon _______ “overtourism.” One city  3.",
+              "options": [
+                "call",
+                "calling",
+                "called",
+                "to call"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：called"
+            },
+            {
+              "question": "“overtourism.” One city _______ has had to deal with this problem is Barcelona, Spain.",
+              "options": [
+                "when",
+                "that",
+                "who",
+                "where"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：that"
+            },
+            {
+              "question": "Tourists began _______ to Barcelona after 1992, when the Olympics were held there.",
+              "options": [
+                "appealing",
+                "admitting",
+                "leading",
+                "flocking"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：flocking"
+            },
+            {
+              "question": "By 2017, the _______ of annual visitors to the city had increased enormously.",
+              "options": [
+                "number",
+                "amount",
+                "deal",
+                "score"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：number"
+            },
+            {
+              "question": "There have been numerous _______ from residents about tourists.",
+              "options": [
+                "documents",
+                "colleagues",
+                "consequences",
+                "complaints"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：complaints"
+            },
+            {
+              "question": "People are angry with tourists playing loud music and _______ on the streets.",
+              "options": [
+                "throwing up",
+                "taking away",
+                "fitting in",
+                "sorting out"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：throwing up"
+            },
+            {
+              "question": "City officials are aware _______ the problems and have tried to reduce the negative impacts of overtourism.",
+              "options": [
+                "to",
+                "of",
+                "for",
+                "toward"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：of"
+            },
+            {
+              "question": "Only after officials come up with good solutions _______ ruining people’s lives.",
+              "options": [
+                "did overtourism stop",
+                "overtourism stopped",
+                "will overtourism stop",
+                "overtourism will stop"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：will overtourism stop"
+            },
+            {
               "question": "the lady donated millions of dollars to an orphanage.",
               "options": [
                 "It is said to",
@@ -14835,7 +18234,7 @@
                 "It says to"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：It is said that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：It is said that"
             },
             {
               "question": "Julia feels like eating at the all-you-can-eat buffet; _______ , she is afraid of gaining weight.",
@@ -14846,7 +18245,7 @@
                 "on the other hand"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：on the other hand"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：on the other hand"
             },
             {
               "question": ", the city government declared a day off because of the potential danger from the typhoon.",
@@ -14857,7 +18256,7 @@
                 "As a whole"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：As expected"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：As expected"
             },
             {
               "question": "The policeman ordered that the car _______ away because it was parked illegally.",
@@ -14868,7 +18267,7 @@
                 "be towed"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：be towed"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：be towed"
             },
             {
               "question": "The reason why Seth doesn’t remember his reading is _______ he studies with music and a TV show playing at the same time.",
@@ -14879,7 +18278,7 @@
                 "where"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：that"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：that"
             }
           ]
         },
@@ -15251,6 +18650,116 @@
           ],
           "quiz": [
             {
+              "question": "He was told to serve _______ the lawyer for Tom Robinson, a black man.",
+              "options": [
+                "as",
+                "on",
+                "to",
+                "of"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：as"
+            },
+            {
+              "question": "Robinson was accused _______ attacking a white woman, Mayella Ewell.",
+              "options": [
+                "with",
+                "at",
+                "of",
+                "about"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：of"
+            },
+            {
+              "question": "Mayella said Robinson sexually _______ her.",
+              "options": [
+                "replaced",
+                "resisted",
+                "suspected",
+                "assaulted"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：assaulted"
+            },
+            {
+              "question": "People in the town didn’t like Atticus after they found out he was the lawyer _______ Robinson.",
+              "options": [
+                "defend",
+                "to defend",
+                "defended",
+                "defending"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：defending"
+            },
+            {
+              "question": "On the day of the trial, Mayella said she had asked Tom to _______ to fix something at her house.",
+              "options": [
+                "rise above",
+                "come over",
+                "stand out",
+                "drown out"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：come over"
+            },
+            {
+              "question": "She said Tom beat her until her father came home and _______ Tom  6.",
+              "options": [
+                "threw; away",
+                "tore; apart",
+                "scared; off",
+                "cleaned; out"
+              ],
+              "correctIndex": 2,
+              "explanation": "【隨堂克漏字題】正確答案為 (C)：scared; off"
+            },
+            {
+              "question": "Ewell came home and got really mad, _______ at her.",
+              "options": [
+                "yelling",
+                "and yell",
+                "yelled",
+                "to yell"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：yelling"
+            },
+            {
+              "question": "Finch proved that Mayella _______ by someone who was left-handed.",
+              "options": [
+                "must be hit",
+                "must have been hit",
+                "must hit",
+                "must have hit"
+              ],
+              "correctIndex": 1,
+              "explanation": "【隨堂克漏字題】正確答案為 (B)：must have been hit"
+            },
+            {
+              "question": "The all-white _______ did not believe Tom, though.",
+              "options": [
+                "gender",
+                "gap",
+                "widow",
+                "jury"
+              ],
+              "correctIndex": 3,
+              "explanation": "【隨堂克漏字題】正確答案為 (D)：jury"
+            },
+            {
+              "question": "He was _______ guilty and sent to prison.",
+              "options": [
+                "found",
+                "turned",
+                "seen",
+                "believed"
+              ],
+              "correctIndex": 0,
+              "explanation": "【隨堂克漏字題】正確答案為 (A)：found"
+            },
+            {
               "question": "Darius _______ the plants in the garden healthy with constant attention.",
               "options": [
                 "stayed",
@@ -15259,7 +18768,7 @@
                 "had"
               ],
               "correctIndex": 2,
-              "explanation": "正確答案為 (C)：kept"
+              "explanation": "【隨堂語法選擇題】正確答案為 (C)：kept"
             },
             {
               "question": "Rita could do nothing but _______ as the building collapsed.",
@@ -15270,7 +18779,7 @@
                 "watching"
               ],
               "correctIndex": 0,
-              "explanation": "正確答案為 (A)：watch"
+              "explanation": "【隨堂語法選擇題】正確答案為 (A)：watch"
             },
             {
               "question": "Tracy’s schedule is flexible _______ allows her to meet her friends whenever it is convenient for them.",
@@ -15281,7 +18790,7 @@
                 ", that"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：, which"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：, which"
             },
             {
               "question": "After fourteen days of searching, _______ , the rescue team found two people still alive in the debris from the earthquake.",
@@ -15292,7 +18801,7 @@
                 "to everyone’s surprise"
               ],
               "correctIndex": 3,
-              "explanation": "正確答案為 (D)：to everyone’s surprise"
+              "explanation": "【隨堂語法選擇題】正確答案為 (D)：to everyone’s surprise"
             },
             {
               "question": "Lisa and Shelly are trying on some clothes in the shop. _______, their boyfriends are across the street in the comic book store.",
@@ -15303,7 +18812,7 @@
                 "Therefore"
               ],
               "correctIndex": 1,
-              "explanation": "正確答案為 (B)：Meanwhile"
+              "explanation": "【隨堂語法選擇題】正確答案為 (B)：Meanwhile"
             }
           ]
         }
