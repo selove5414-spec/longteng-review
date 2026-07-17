@@ -910,53 +910,180 @@ function loadNextQuestion() {
             return;
         }
         
-        const qGrammar = grammars[Math.floor(Math.random() * grammars.length)];
+        // Select a random grammar point, try to generate a question, fallback to others if needed
+        let qGrammar = null;
+        let qData = null;
         
-        // Choose an example and replace a key word with blanks
-        const examples = qGrammar.examples;
-        if (examples.length === 0) {
-            viewport.innerHTML = '<p class="slide-placeholder">暫無例句進行魔王戰，請確認文法資料</p>';
-            return;
-        }
-        
-        const exObj = examples[Math.floor(Math.random() * examples.length)];
-        const ex = exObj.en;
-        
-        // Find a word to blank out, e.g. "that", "who", "which", etc.
-        const matchWords = ['that', 'which', 'who', 'whose', 'whom', 'where', 'when', 'why', 'how', 'because', 'so', 'if', 'surprised', 'worried', 'sure'];
-        let targetWord = 'that';
-        let found = false;
-        
-        for (let w of matchWords) {
-            const r = new RegExp(`\\b${w}\\b`, 'i');
-            if (r.test(ex)) {
-                targetWord = w;
-                found = true;
+        // Shuffle the grammar list so we don't always pick the same one
+        const shuffledGrammars = [...grammars].sort(() => Math.random() - 0.5);
+        for (let g of shuffledGrammars) {
+            qData = generateGrammarQuestion(g);
+            if (qData) {
+                qGrammar = g;
                 break;
             }
         }
         
-        const questionText = ex.replace(new RegExp(`\\b${targetWord}\\b`, 'i'), '_______');
-        
-        // Generate options
-        const options = [targetWord];
-        const fillers = ['which', 'that', 'who', 'where', 'what', 'because', 'although', 'if'];
-        fillers.forEach(f => {
-            if (options.length < 4 && f !== targetWord && !options.includes(f)) {
-                options.push(f);
-            }
-        });
-        options.sort(() => Math.random() - 0.5);
+        if (!qData) {
+            viewport.innerHTML = '<p class="slide-placeholder">暫無適合的例句進行魔王戰，請確認文法資料</p>';
+            return;
+        }
         
         gameState.currentQuestion = {
-            questionText: `請填寫文法空格：\n"${questionText}"`,
-            options: options,
-            correctIndex: options.indexOf(targetWord),
-            explanation: qGrammar.formula
+            questionText: `【課文句型：${qGrammar.formula}】\n\n中文意旨：${qData.chinese}\n\n"${qData.questionText}"`,
+            options: qData.options,
+            correctIndex: qData.options.indexOf(qData.target),
+            explanation: qGrammar.explanation
         };
         
         renderBossFight();
     }
+}
+
+// Helper to dynamically generate rich grammar multiple-choice questions from data
+function generateGrammarQuestion(qGrammar) {
+    const examples = qGrammar.examples;
+    if (!examples || examples.length === 0) return null;
+    
+    // Pick a random example
+    const exObj = examples[Math.floor(Math.random() * examples.length)];
+    const sentence = exObj.en;
+    const chinese = exObj.ch;
+    const formula = qGrammar.formula.toLowerCase().trim();
+    
+    let target = '';
+    let options = [];
+    let questionText = '';
+    
+    // Helper to clean punctuation
+    const cleanWord = (w) => w.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"“‘]/g, "").trim();
+
+    // 1. Try to find the exact formula words in the sentence (case-insensitive)
+    if (!formula.includes('+') && !formula.includes('/') && formula.length > 3) {
+        const idx = sentence.toLowerCase().indexOf(formula);
+        if (idx !== -1) {
+            target = sentence.substring(idx, idx + formula.length);
+            questionText = sentence.substring(0, idx) + '_______' + sentence.substring(idx + formula.length);
+            
+            // Generate options based on common phrase fillers
+            options = [target];
+            const fillers = ['again and again', 'over and over', 'for the last time', 'for the first time', 'once in a while', 'so far', 'up to now', 'by the way', 'as a result'];
+            fillers.forEach(f => {
+                if (options.length < 4 && f.toLowerCase() !== target.toLowerCase()) {
+                    options.push(f);
+                }
+            });
+            // Shuffle
+            options.sort(() => Math.random() - 0.5);
+            return { questionText, options, target, chinese };
+        }
+    }
+    
+    // 2. Try to find a V-ing word in the sentence if the formula mentions "V-ing"
+    if (formula.includes('v-ing') || formula.includes('ing')) {
+        const words = sentence.split(/\s+/);
+        for (let w of words) {
+            const cleaned = cleanWord(w);
+            if (cleaned.toLowerCase().endsWith('ing') && cleaned.length > 4 && !['thing', 'during', 'morning', 'evening', 'nothing', 'something', 'spring', 'king', 'sing', 'ring'].includes(cleaned.toLowerCase())) {
+                target = cleaned;
+                let base = target.substring(0, target.length - 3);
+                if (target.toLowerCase() === 'planning') base = 'plan';
+                else if (target.toLowerCase() === 'getting') base = 'get';
+                else if (target.toLowerCase() === 'making') base = 'make';
+                else if (target.toLowerCase() === 'taking') base = 'take';
+                else if (target.toLowerCase() === 'having') base = 'have';
+                else if (target.toLowerCase() === 'leaving') base = 'leave';
+                
+                questionText = sentence.replace(new RegExp(`\\b${target}\\b`), '_______');
+                options = [
+                    target,
+                    'to ' + base,
+                    base,
+                    base.endsWith('e') ? base.slice(0, -1) + 'ed' : base + 'ed'
+                ];
+                options.sort(() => Math.random() - 0.5);
+                return { questionText, options, target, chinese };
+            }
+        }
+    }
+    
+    // 3. Try to find prepositions matching preposition formulas
+    const preps = ['of', 'on', 'with', 'at', 'for', 'to', 'in', 'about', 'by', 'from'];
+    for (let prep of preps) {
+        if (formula.includes(prep)) {
+            const idx = sentence.toLowerCase().indexOf(' ' + prep + ' ');
+            if (idx !== -1) {
+                target = prep;
+                questionText = sentence.replace(new RegExp(`\\b${prep}\\b`, 'i'), '_______');
+                options = [prep];
+                preps.forEach(p => {
+                    if (options.length < 4 && p !== prep) {
+                        options.push(p);
+                    }
+                });
+                options.sort(() => Math.random() - 0.5);
+                return { questionText, options, target, chinese };
+            }
+        }
+    }
+    
+    // 4. Try to find relative pronouns/conjunctions
+    const connectors = ['that', 'which', 'who', 'whose', 'whom', 'where', 'when', 'why', 'how', 'because', 'although', 'if', 'since', 'so'];
+    for (let conn of connectors) {
+        const idx = sentence.toLowerCase().indexOf(' ' + conn + ' ');
+        if (idx !== -1) {
+            target = conn;
+            questionText = sentence.replace(new RegExp(`\\b${conn}\\b`, 'i'), '_______');
+            options = [conn];
+            connectors.forEach(c => {
+                if (options.length < 4 && c !== conn) {
+                    options.push(c);
+                }
+            });
+            options.sort(() => Math.random() - 0.5);
+            return { questionText, options, target, chinese };
+        }
+    }
+    
+    // 5. Fallback: Blank out the first word in the sentence that is a preposition or connector
+    const fallbackWords = [...connectors, ...preps];
+    for (let w of fallbackWords) {
+        const r = new RegExp(`\\b${w}\\b`, 'i');
+        if (r.test(sentence)) {
+            target = sentence.match(r)[0];
+            questionText = sentence.replace(r, '_______');
+            const lowerTarget = target.toLowerCase();
+            options = [lowerTarget];
+            const pool = preps.includes(lowerTarget) ? preps : connectors;
+            pool.forEach(p => {
+                if (options.length < 4 && p !== lowerTarget) {
+                    options.push(p);
+                }
+            });
+            options.sort(() => Math.random() - 0.5);
+            return { questionText, options, target, chinese };
+        }
+    }
+    
+    // 6. Absolute fallback: Blank out the first word longer than 4 characters
+    const words = sentence.split(/\s+/);
+    for (let w of words) {
+        const cleaned = cleanWord(w);
+        if (cleaned.length > 4) {
+            target = cleaned;
+            questionText = sentence.replace(new RegExp(`\\b${target}\\b`), '_______');
+            options = [
+                target,
+                target + 's',
+                'to ' + target,
+                target.endsWith('e') ? target.slice(0, -1) + 'ed' : target + 'ed'
+            ];
+            options.sort(() => Math.random() - 0.5);
+            return { questionText, options, target, chinese };
+        }
+    }
+    
+    return null;
 }
 
 // ----------------------------------------
