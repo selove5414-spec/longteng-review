@@ -443,6 +443,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "Tammy felt _______ when she was unable to get a ticket to her favorite singer’s concert.",
+              "options": [
+                "depress",
+                "depressing",
+                "depressed",
+                "depression"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：depressed"
+            },
+            {
+              "question": "The convenience store near our school is always full _______ students after school.",
+              "options": [
+                "of",
+                "with",
+                "in",
+                "for"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：of"
+            },
+            {
+              "question": "Edward prefers to go jogging _______ a T-shirt and shorts.",
+              "options": [
+                "within",
+                "in",
+                "on",
+                "at"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：in"
+            },
+            {
+              "question": "hours ago, one car hit another one and caused a traffic jam. But the road is clear now.",
+              "options": [
+                "A little",
+                "Little",
+                "Few",
+                "A few"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：A few"
+            },
+            {
+              "question": "Misspelling one’s name can be an _______ experience.",
+              "options": [
+                "embarrassment",
+                "embarrass",
+                "embarrassing",
+                "embarrassed"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：embarrassing"
+            }
           ]
         },
         "2": {
@@ -959,6 +1016,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "Having kids _______ always makes Cindy happy, for she loves spending time with them.",
+              "options": [
+                "besides",
+                "through",
+                "behind",
+                "around"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：around"
+            },
+            {
+              "question": "If you want to stop _______ tired all the time, you should consider trying a healthier diet.",
+              "options": [
+                "feel",
+                "felt",
+                "feeling",
+                "to feel"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：feeling"
+            },
+            {
+              "question": "Jerry couldn’t _______ his studies when his sister was bothering him.",
+              "options": [
+                "connect with",
+                "focus on",
+                "communicate with",
+                "go through"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：focus on"
+            },
+            {
+              "question": "Jenny’s idea to have a picnic at the riverside park _______ perfect to me.",
+              "options": [
+                "sounds",
+                "is sounding",
+                "sounds to",
+                "sounds like"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：sounds"
+            },
+            {
+              "question": "While Jason was in bed recovering from the flu, his dog stayed _______ his side the entire time.",
+              "options": [
+                "on",
+                "by",
+                "in",
+                "with"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：by"
+            }
           ]
         },
         "3": {
@@ -1405,6 +1519,63 @@
                   "ch": "Kathy每天練習鋼琴好幾個小時，然而，她還是無法掌握那首困難的樂曲。"
                 }
               ]
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Dolphins have to swim to the surface _______ so that they can breathe.",
+              "options": [
+                "once every twenty minutes",
+                "every twenty minutes once",
+                "once twenty minutes",
+                "twenty minutes once"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：once every twenty minutes"
+            },
+            {
+              "question": "A thief broke into Mr. Lin’s house _______ he was sleeping.",
+              "options": [
+                "and",
+                "while",
+                "before",
+                "but"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：while"
+            },
+            {
+              "question": "Sally carried a box with one hand, and a shopping bag with _______ .",
+              "options": [
+                "another",
+                "other",
+                "the other",
+                "others"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：the other"
+            },
+            {
+              "question": "Making a shopping list is _______ making sure you don’t forget to buy anything at the store.",
+              "options": [
+                "a good side to",
+                "a good way to",
+                "a good way of",
+                "a good side of"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：a good way of"
+            },
+            {
+              "question": "It was early evening when I arrived home. _______ , after such a long hike, I was ready to have a shower and go straight to bed.",
+              "options": [
+                "Lately",
+                "Instead",
+                "Similarly",
+                "Yet"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：Yet"
             }
           ]
         },
@@ -1891,6 +2062,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "Oil provides fuel for cars and is also _______ making plastic.",
+              "options": [
+                "used for",
+                "used at",
+                "used",
+                "used to"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：used for"
+            },
+            {
+              "question": "For those who have trouble getting a good night’s sleep, _______ some helpful tips.",
+              "options": [
+                "they are",
+                "it is",
+                "here is",
+                "here are"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：here are"
+            },
+            {
+              "question": "Sam kept swallowing food at the all-you-can-eat restaurant _______ he threw up.",
+              "options": [
+                "as",
+                "until",
+                "when",
+                "that"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：until"
+            },
+            {
+              "question": "My sister is good at math, and her math grades are always _______ better than mine.",
+              "options": [
+                "very",
+                "more",
+                "far",
+                "so"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：far"
+            },
+            {
+              "question": "John and Mary have invited all of their college classmates _______ their wedding party.",
+              "options": [
+                "attended",
+                "attending",
+                "to attend",
+                "to attending"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：to attend"
+            }
           ]
         },
         "5": {
@@ -2276,6 +2504,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "The Internet does make our lives _______ than before in some ways.",
+              "options": [
+                "more obviously",
+                "more properly",
+                "more eager",
+                "more convenient"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：more convenient"
+            },
+            {
+              "question": "After the busy day in the shop, there were only _______ items left on the shelves.",
+              "options": [
+                "a little",
+                "a bit",
+                "a few",
+                "a kind"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：a few"
+            },
+            {
+              "question": "a report, people may consume fish that have eaten plastic, which may damage their health.",
+              "options": [
+                "Because of",
+                "According to",
+                "In addition to",
+                "Instead of"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：According to"
+            },
+            {
+              "question": "With the help of a very powerful microscope, we are able to see living cells _______ our body.",
+              "options": [
+                "inside",
+                "above",
+                "onto",
+                "next to"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：inside"
+            },
+            {
+              "question": "Erin left her house half an hour ago, so she should be arriving here _______ .",
+              "options": [
+                "soon",
+                "recently",
+                "quite",
+                "too"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：soon"
+            }
           ]
         },
         "6": {
@@ -2654,6 +2939,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "When the leaves _______ red in autumn in the Great Lakes region, there are always flocks of tourists.",
+              "options": [
+                "turn",
+                "make",
+                "have",
+                "cause"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：turn"
+            },
+            {
+              "question": "Though there is a lot of delicious food in Italy, it is its history _______ attracts Rosie most.",
+              "options": [
+                "and",
+                "who",
+                ", which",
+                "that"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：that"
+            },
+            {
+              "question": "David, a statue created by the artist Michelangelo, is _______ the _______ best-known works of art in the world.",
+              "options": [
+                "one",
+                "one of",
+                "×",
+                "one from"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：one of"
+            },
+            {
+              "question": "Many visitors come to New York City _______ the city’s famous landmarks in person.",
+              "options": [
+                "see",
+                "to see",
+                "seeing",
+                "seen"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：to see"
+            },
+            {
+              "question": "Mom wondered what Tom was holding _______ his hand. It seemed that he didn’t want her to know.",
+              "options": [
+                "on",
+                "at",
+                "in",
+                "with"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：in"
+            }
           ]
         },
         "7": {
@@ -3014,6 +3356,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "Vic wakes up early and never stays up late. This is _______ he maintains his health.",
+              "options": [
+                "why",
+                "what",
+                "how",
+                "when"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：how"
+            },
+            {
+              "question": "It _______ June a fortune to buy a ticket to her favorite Korean actor’s fan meeting.",
+              "options": [
+                "spent",
+                "paid",
+                "made",
+                "cost"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：cost"
+            },
+            {
+              "question": "half of the students told their teacher that they got nervous before taking the first monthly exam.",
+              "options": [
+                "Less",
+                "Mostly",
+                "Nearly",
+                "Largely"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：Nearly"
+            },
+            {
+              "question": "Unfortunately, lots of leftover food went to waste and _______ in the trash.",
+              "options": [
+                "turned out",
+                "ended up",
+                "dug out",
+                "got up"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：ended up"
+            },
+            {
+              "question": "The salesperson attracted wide attention _______ using lively music and interesting posters.",
+              "options": [
+                "by",
+                "in",
+                "once",
+                "of"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：by"
+            }
           ]
         },
         "8": {
@@ -3362,6 +3761,63 @@
                   "ch": "如果你繼續這樣以自我為中心，最後會落得一個朋友都沒有。"
                 }
               ]
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Sean didn’t mean to hurt Alice, but what he did _______ her feel that way.",
+              "options": [
+                "avoided",
+                "made",
+                "placed",
+                "got"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：made"
+            },
+            {
+              "question": "Babies can’t talk, but they communicate their unhappiness very effectively _______ crying.",
+              "options": [
+                "as",
+                "with",
+                "for",
+                "by"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：by"
+            },
+            {
+              "question": "of the best movies Sandy has seen is Wonder, starring Julia Roberts.",
+              "options": [
+                "One",
+                "Some",
+                "Each",
+                "Many"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：One"
+            },
+            {
+              "question": "There are many ways to stay healthy. One is to get enough sleep; _______ is to work out regularly.",
+              "options": [
+                "the other",
+                "others",
+                "another",
+                "other"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：another"
+            },
+            {
+              "question": "This problem is very easy to fix, so _______ no need to buy a new machine.",
+              "options": [
+                "it is",
+                "that is",
+                "there is",
+                "here is"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：there is"
             }
           ]
         },
@@ -3792,6 +4248,63 @@
                 }
               ]
             }
+          ],
+          "quiz": [
+            {
+              "question": "Shelly got lost when she visited New York. _______ , her wallet was stolen.",
+              "options": [
+                "Even worse",
+                "In fact",
+                "For example",
+                "Over time"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：Even worse"
+            },
+            {
+              "question": "this is an original painting by Picasso, you can sell it at a very high price.",
+              "options": [
+                "While",
+                "When",
+                "If",
+                "Although"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：If"
+            },
+            {
+              "question": "On weekends, I prefer to do outdoor activities _______ stay at home.",
+              "options": [
+                "so as to",
+                "so that",
+                "instead of",
+                "rather than"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：rather than"
+            },
+            {
+              "question": "The need _______ better care of the elderly is growing along with our aging population.",
+              "options": [
+                "of",
+                "with",
+                "on",
+                "for"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：for"
+            },
+            {
+              "question": "Coffee _______ cream or sugar may taste bitter, but it is also healthier.",
+              "options": [
+                "without",
+                "rather than",
+                "full of",
+                "due to"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：without"
+            }
           ]
         }
       }
@@ -4051,6 +4564,63 @@
               "explanation": "感官動詞的受詞後面接原形動詞，表達「看到／聽到／感受到完整的事件」。接現在分詞，表達「看到／聽到／感受到事情正在發生」。若接過去分詞，表達「看到／聽到／感受到……被……」。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "The Grand Canyon is one of _______ spots Judy has ever visited.",
+              "options": [
+                "the great",
+                "the better",
+                "the best",
+                "the greater"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：the best"
+            },
+            {
+              "question": "Mr. Wilson is very stubborn. Once he decides to do something, no one can _______ him _______ doing it.",
+              "options": [
+                "stop; from",
+                "encourage; to",
+                "allow; to",
+                "talk; into"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：stop; from"
+            },
+            {
+              "question": "Sara is eager to show her mom _______ for the family.",
+              "options": [
+                "what can do",
+                "what she can do",
+                "what can she do",
+                "she can do what"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：what she can do"
+            },
+            {
+              "question": "Tod’s hurtful words were unbearable _______ a knife cutting straight through Lena’s heart.",
+              "options": [
+                "as",
+                "with",
+                "for",
+                "like"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：like"
+            },
+            {
+              "question": "All the audience stared at the magician on the stage, _______ for him to perform his next trick.",
+              "options": [
+                "waited",
+                "and wait",
+                "waiting",
+                "which waited"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：waiting"
+            }
           ]
         },
         "2": {
@@ -4284,6 +4854,63 @@
               "explanation": "表「期待（做）某事」，其中to為介系詞，後面加名詞或動名詞（片語）。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "What distinguishes a rooster _______ a hen is that it’s tall, upright, and has larger combs.",
+              "options": [
+                "as",
+                "from",
+                "with",
+                "between"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：from"
+            },
+            {
+              "question": "safe a country is will affect whether Allen visits it or not.",
+              "options": [
+                "How",
+                "Why",
+                "What",
+                "That"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：How"
+            },
+            {
+              "question": "The moon _______ is full tonight, lights up the dark sky and makes everything look beautiful.",
+              "options": [
+                "who",
+                ", who",
+                "which",
+                ", which"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：, which"
+            },
+            {
+              "question": "With summer around the corner, students are all looking forward to _______ on vacation.",
+              "options": [
+                "be",
+                "have been",
+                "being",
+                "will be"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：being"
+            },
+            {
+              "question": "Lena has had trouble getting enough sleep for some time; _______ , her doctor prescribed some sleeping pills for her.",
+              "options": [
+                "therefore",
+                "however",
+                "similarly",
+                "in fact"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：therefore"
+            }
           ]
         },
         "3": {
@@ -4436,6 +5063,63 @@
               "formula": "feel + O + V-ing/VR",
               "explanation": "感官動詞用法",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "The kids raced outside to enjoy the fresh air and have fun _______ the rain stopped.",
+              "options": [
+                "so that",
+                "as soon as",
+                "in case",
+                "even though"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：as soon as"
+            },
+            {
+              "question": "her busy schedule, Emily always made time to take care of her younger sister.",
+              "options": [
+                "Without",
+                "Besides",
+                "Despite",
+                "Through"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：Despite"
+            },
+            {
+              "question": "During the long journey, Mary stopped to check on her mother, _______ sure that she was comfortable.",
+              "options": [
+                "made",
+                "makes",
+                "making",
+                "and making"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：making"
+            },
+            {
+              "question": "No one knows _______ happened between Tina and Ivy, who haven’t talked to each other for several days.",
+              "options": [
+                "what",
+                "how",
+                "when",
+                "why"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：what"
+            },
+            {
+              "question": "Emily stepped onto the stage _______ the first time, and her heart was full of excitement and nervousness.",
+              "options": [
+                "at",
+                "on",
+                "of",
+                "for"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：for"
             }
           ]
         },
@@ -4678,6 +5362,63 @@
               "explanation": "發表演講",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Drivers should be careful when they drive _______ this narrow but busy road.",
+              "options": [
+                "in",
+                "with",
+                "on",
+                "beside"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：on"
+            },
+            {
+              "question": "Shawn’s landlord agreed to let him _______ in the apartment for another two months.",
+              "options": [
+                "lived",
+                "living",
+                "to live",
+                "live"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：live"
+            },
+            {
+              "question": "Tim Cook was invited to _______ a speech at the graduation ceremony of Tulane University.",
+              "options": [
+                "talk",
+                "give",
+                "take",
+                "have"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：give"
+            },
+            {
+              "question": "My teacher told me to keep _______ if I wanted to get better at playing the piano.",
+              "options": [
+                "practice",
+                "practicing",
+                "practiced",
+                "to practice"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：practicing"
+            },
+            {
+              "question": "The world-famous cook _______ his secret recipes _______ those who attended the workshop.",
+              "options": [
+                "shared; with",
+                "stopped; from",
+                "encouraged; to",
+                "distracted; from"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：shared; with"
+            }
           ]
         },
         "5": {
@@ -4841,6 +5582,63 @@
               "formula": "",
               "explanation": "此句用What + S + need to + do is + (to) VR的句型強調wish upon a star and put every possible effort into fulfilling our dreams。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "you put everything in order after you use it, then your room won’t be a mess.",
+              "options": [
+                "Because",
+                "Before",
+                "Though",
+                "If"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：If"
+            },
+            {
+              "question": "The warning sign placed by the side of the road is meant to _______ more accidents _______ happening.",
+              "options": [
+                "save; from",
+                "stop; from",
+                "focus; on",
+                "prepare; for"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：stop; from"
+            },
+            {
+              "question": "Songs by the American singer Taylor Swift, _______ “Our Song” and “Love Story,” are well-liked by many teenagers.",
+              "options": [
+                "such as",
+                "instead of",
+                "according to",
+                "except for"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：such as"
+            },
+            {
+              "question": "The salesperson managed to talk Alison into buying the laptop _______ offering her a big discount.",
+              "options": [
+                "without",
+                "despite",
+                "by",
+                "for"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：by"
+            },
+            {
+              "question": "up for the program, and you will not regret it.",
+              "options": [
+                "Signing",
+                "Sign",
+                "To sign",
+                "Signed"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：Sign"
             }
           ]
         },
@@ -5032,6 +5830,63 @@
               "formula": "very",
               "explanation": "可用來強調序數、最高級形容詞或 own、same等形容詞，表示「完全；最；正是」；其前可加the或所有格。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "After Nina started to go jogging regularly, she was happier _______ .",
+              "options": [
+                "no longer",
+                "in fact",
+                "than before",
+                "on purpose"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：than before"
+            },
+            {
+              "question": "Julie avoids eating fried foods, _______ they are bad for her health.",
+              "options": [
+                "thinks",
+                "and think",
+                "thinking",
+                "to think"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：thinking"
+            },
+            {
+              "question": "Andy had a good time tonight. Dinner was delicious; _______ , he was happy to eat with his friends.",
+              "options": [
+                "however",
+                "therefore",
+                "similarly",
+                "besides"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：besides"
+            },
+            {
+              "question": "Austin has a good relationship with his teacher. They are _______ each other.",
+              "options": [
+                "close to",
+                "awful for",
+                "aware of",
+                "known as"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：close to"
+            },
+            {
+              "question": "Jenny has always been shy in front of others, but today _______ , she spoke with confidence in public.",
+              "options": [
+                "at first",
+                "for the first time",
+                "for instance",
+                "as a result"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：for the first time"
             }
           ]
         },
@@ -5276,6 +6131,63 @@
               "formula": "there is a good chance that",
               "explanation": "意為「有很大的可能性」，亦可寫為it is very likely that。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "The NBA, _______ the National Basketball Association, is an organization of professional basketball teams in North America.",
+              "options": [
+                "knowing as",
+                "standing for",
+                "making up",
+                "calling for"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：standing for"
+            },
+            {
+              "question": "We stayed _______ days in London and visited some museums.",
+              "options": [
+                "a little",
+                "little",
+                "a few",
+                "few"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：a few"
+            },
+            {
+              "question": "With great interest _______ yoga, Nikki has taken yoga classes for several years.",
+              "options": [
+                "in",
+                "on",
+                "with",
+                "for"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：in"
+            },
+            {
+              "question": "Why not invite a band _______ classical music for all our guests?",
+              "options": [
+                "played",
+                "to playing",
+                "for playing",
+                "to play"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：to play"
+            },
+            {
+              "question": "Julia’s parents provide everything she needs; _______ , she is never thankful for what she has.",
+              "options": [
+                "in fact",
+                "however",
+                "therefore",
+                "similarly"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：however"
             }
           ]
         },
@@ -5561,6 +6473,63 @@
               "explanation": "表示「與某人分享某事」",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Lukas was upset because the result was very different from _______ he had expected.",
+              "options": [
+                "that",
+                "what",
+                "why",
+                "which"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：what"
+            },
+            {
+              "question": "All the employees gathered in the conference room _______ an important meeting.",
+              "options": [
+                "for",
+                "with",
+                "on",
+                "toward"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：for"
+            },
+            {
+              "question": "Milly was very pleased when she saw her husband _______ bedtime stories to their daughter.",
+              "options": [
+                "told",
+                "to tell",
+                "telling",
+                "being told"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：telling"
+            },
+            {
+              "question": "this closet is twenty years old, it is still very safe and in good condition.",
+              "options": [
+                "Ever since",
+                "Because",
+                "If",
+                "Although"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：Although"
+            },
+            {
+              "question": "Lillian was happy to see _______ fascinating the fireworks displays were.",
+              "options": [
+                "what",
+                "when",
+                "how",
+                "where"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：how"
+            }
           ]
         },
         "9": {
@@ -5800,6 +6769,63 @@
               "formula": "as",
               "explanation": "在此為連接詞，表示「如同……／就像……」。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "eBay is an online shopping website where people _______ buy and sell a wide variety of goods.",
+              "options": [
+                "from now on",
+                "all the way",
+                "no longer",
+                "around the world"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：around the world"
+            },
+            {
+              "question": "The new donut flavor has grown in popularity _______ . Now customers line up for a long time for these donuts.",
+              "options": [
+                "over time",
+                "ahead of time",
+                "on time",
+                "in time"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：over time"
+            },
+            {
+              "question": "Ben’s life has become more colorful ever since he adopted a stray dog. _______ , now he finds time to walk it every day and even goes camping with it.",
+              "options": [
+                "However",
+                "Therefore",
+                "For example",
+                "In the beginning"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：For example"
+            },
+            {
+              "question": "The name of the search engine “Google” is now also _______ a verb to describe the act of searching for something online.",
+              "options": [
+                "used as",
+                "used to",
+                "filled with",
+                "filled in"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：used as"
+            },
+            {
+              "question": "The film, _______ Life of Pi, was directed by the world-famous director Ang Lee.",
+              "options": [
+                "and called",
+                "called",
+                "calls",
+                "calling"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：called"
             }
           ]
         }
@@ -6247,6 +7273,63 @@
               "explanation": "意為「感謝某人做了某事」。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Jenny needed to do some shopping for Christmas, so she spent _______ hours at the mall.",
+              "options": [
+                "little",
+                "few",
+                "a few",
+                "a little"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：a few"
+            },
+            {
+              "question": "Everyone in the audience was amazed after the figure skater performed _______ a stunning jump.",
+              "options": [
+                "so",
+                "too",
+                "such",
+                "very"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：such"
+            },
+            {
+              "question": "This church _______ down in the fire. The next day, the community launched a movement to raise some money to rebuild it.",
+              "options": [
+                "was burning",
+                "had been burned",
+                "has burned",
+                "been burned"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：had been burned"
+            },
+            {
+              "question": "On Halloween, Kevin impressed his friends _______ his frightening costume.",
+              "options": [
+                "with",
+                "by",
+                "on",
+                "of"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：with"
+            },
+            {
+              "question": "Nelson dealt out eight cards to each player, _______ the rest in a pile face down on the desk.",
+              "options": [
+                "left",
+                "and leaving",
+                "to leave",
+                "leaving"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：leaving"
+            }
           ]
         },
         "2": {
@@ -6687,6 +7770,63 @@
               "explanation": "表「如此一來」。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Judy’s friendship _______ Sarah get through the most difficult time in her life.",
+              "options": [
+                "got",
+                "allowed",
+                "helped",
+                "kept"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：helped"
+            },
+            {
+              "question": "Years ago, a popular movement, _______ the Ice Bucket Challenge, raised a lot of money for people with ALS.",
+              "options": [
+                "named after",
+                "known as",
+                "dressed up",
+                "used to"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：known as"
+            },
+            {
+              "question": "All the chefs in the cooking contest had to prepare a dish with _______ they were given.",
+              "options": [
+                "what",
+                "which",
+                "that",
+                "those"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：what"
+            },
+            {
+              "question": "David never fails to show his courage _______ being the youngest firefighter on the team.",
+              "options": [
+                "due to",
+                "rather than",
+                "despite",
+                "without"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：despite"
+            },
+            {
+              "question": "To every child, adult approval means love, _______ disapproval can cause strong feelings of rejection.",
+              "options": [
+                "although",
+                "since",
+                "unless",
+                "whereas"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：whereas"
+            }
           ]
         },
         "3": {
@@ -7094,6 +8234,63 @@
               "formula": "come to VR",
               "explanation": "表示「著手做；漸漸」。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Mr. Wilson will be at the office at 4 p.m. He will call you back _______ .",
+              "options": [
+                "then",
+                "instead",
+                "ever",
+                "even"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：then"
+            },
+            {
+              "question": "It is hard for Adam to afford a house at a time _______ housing prices are rising quickly.",
+              "options": [
+                "whose",
+                "which",
+                "when",
+                "what"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：when"
+            },
+            {
+              "question": "What many people desire in a relationship is _______ trust and a sense of security.",
+              "options": [
+                "no more",
+                "nothing but",
+                "still less",
+                "owing to"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：nothing but"
+            },
+            {
+              "question": "Sam _______ buying lottery tickets every week, hoping he will be the winner one day.",
+              "options": [
+                "helps",
+                "allows",
+                "makes",
+                "keeps"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：keeps"
+            },
+            {
+              "question": "Before going to the temple, Jessie prepared fruit _______ an offering to the gods.",
+              "options": [
+                "without",
+                "as",
+                "through",
+                "for"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：as"
             }
           ]
         },
@@ -7530,6 +8727,63 @@
               "explanation": "意指「何不⋯⋯呢？」在本句為建議對方做某事，而非提問的問句。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "The doctor _______ five nurses care for the patient, who is the doctor’s mother.",
+              "options": [
+                "got",
+                "allowed",
+                "had",
+                "asked"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：had"
+            },
+            {
+              "question": "Although they are twin brothers, Tom is very outgoing, _______ Jerry is very shy.",
+              "options": [
+                "because",
+                "while",
+                "unless",
+                "once"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：while"
+            },
+            {
+              "question": "She often talks about the summer of 2020 _______ she traveled across Europe.",
+              "options": [
+                "where",
+                ", where",
+                "when",
+                ", when"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：, when"
+            },
+            {
+              "question": "The house _______ is pretty nice, but the neighbors don’t seem very friendly.",
+              "options": [
+                "that",
+                "itself",
+                "where",
+                "which"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：itself"
+            },
+            {
+              "question": "Amelia can’t wait to _______ everything happening at school _______ her mom after she arrives home.",
+              "options": [
+                "share; with",
+                "recognize; as",
+                "allow; to",
+                "adjust; to"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：share; with"
+            }
           ]
         },
         "5": {
@@ -7956,6 +9210,63 @@
               "formula": "end up",
               "explanation": "表示「最終、結果變成……」之意，後方可接多種詞性，整理如下：",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "A majority of people in the country wanted the new law to be passed, _______ only a few against it.",
+              "options": [
+                "and",
+                "with",
+                "but",
+                "for"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：with"
+            },
+            {
+              "question": "It is the mountains in the middle of the country _______ divide Taiwan into east and west.",
+              "options": [
+                "that",
+                "those",
+                "what",
+                "where"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：that"
+            },
+            {
+              "question": "Those kitchen utensils specially _______ for our restaurant were delivered this morning.",
+              "options": [
+                "were designed",
+                "designing",
+                "designed",
+                "to be designed"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：designed"
+            },
+            {
+              "question": "It was reported that _______ animals were killed in the bush fire.",
+              "options": [
+                "quite a little",
+                "a large amount of",
+                "a great deal of",
+                "a large number of"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：a large number of"
+            },
+            {
+              "question": "the security guard at this bank for twenty years, Mark is going to retire this year.",
+              "options": [
+                "He has been",
+                "He was",
+                "Having been",
+                "To be"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：Having been"
             }
           ]
         },
@@ -8470,6 +9781,63 @@
               "explanation": "由Because he was driven by…簡化而來。此句省略副詞連接詞Because與主詞he，並將was改為being後省略，留下由過去分詞片語所引導的分詞構句。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Jean views every small mistake _______ a lesson she can learn from.",
+              "options": [
+                "for",
+                "as",
+                "in",
+                "with"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：as"
+            },
+            {
+              "question": "Brendon has tried to lose weight _______ going on a special diet, and it seems to be working.",
+              "options": [
+                "with",
+                "by",
+                "in",
+                "for"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：by"
+            },
+            {
+              "question": "They were talking loudly during the movie, but they stopped _______ after people complained.",
+              "options": [
+                "talked",
+                "talk",
+                "to talk",
+                "talking"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：talking"
+            },
+            {
+              "question": "didn’t take long for Tom to notice that the dog was following him.",
+              "options": [
+                "What",
+                "There",
+                "All",
+                "It"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：It"
+            },
+            {
+              "question": "you practice speaking English, _______ clearly you will be able to express your ideas.",
+              "options": [
+                "The more; the more",
+                "The more; the faster",
+                "The harder; the easier",
+                "The sooner; the less"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：The more; the more"
+            }
           ]
         },
         "7": {
@@ -8895,6 +10263,63 @@
               "explanation": "表「藉由（做）……」",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Being able to _______ many languages _______ very helpful when you look for a job.",
+              "options": [
+                "speak; is",
+                "speaking; is",
+                "speak; are",
+                "speaking; are"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：speak; is"
+            },
+            {
+              "question": "Don’t worry too much about the outcome or result. After all, it is more important to start than _______ .",
+              "options": [
+                "success",
+                "succeeding",
+                "to succeed",
+                "successful"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：to succeed"
+            },
+            {
+              "question": "If everyone _______ the new traffic rules, there will be far fewer accidents on the road.",
+              "options": [
+                "follows",
+                "have followed",
+                "followed",
+                "had followed"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：follows"
+            },
+            {
+              "question": "Our body language and gestures help us communicate with others _______ a more effective way.",
+              "options": [
+                "by",
+                "with",
+                "on",
+                "in"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：in"
+            },
+            {
+              "question": "From the way he spoke, I could tell that he _______ rather than telling the truth.",
+              "options": [
+                "was laying",
+                "lied",
+                "was lying",
+                "has been lying"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：was lying"
+            }
           ]
         },
         "8": {
@@ -9266,6 +10691,63 @@
               "formula": "It is high time that S + V-ed",
               "explanation": "表示「該是做⋯⋯的時候了」，注意that子句中的時態要用過去式，表與現在事實相反的假設語氣。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "The children were made _______ at the dining table while their mom was making dinner.",
+              "options": [
+                "wait",
+                "waited",
+                "to wait",
+                "waiting"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：to wait"
+            },
+            {
+              "question": "It is sad to know that not everyone in the world has equal opportunities; many people are still denied _______ the most basic human rights.",
+              "options": [
+                "by",
+                "with",
+                "to",
+                "×"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：×"
+            },
+            {
+              "question": "These poor circus animals _______ sticks during their training for their performances.",
+              "options": [
+                "were forced into",
+                "contributed to",
+                "took advantage of",
+                "were struck with"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：were struck with"
+            },
+            {
+              "question": "by the strong winds, the old house collapsed after the storm.",
+              "options": [
+                "Damaged",
+                "Damaging",
+                "To damage",
+                "To be damaged"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：Damaged"
+            },
+            {
+              "question": "It is going to rain, but I figure we can still have a lot of fun _______ board games inside.",
+              "options": [
+                "to play",
+                "play",
+                "played",
+                "playing"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：playing"
             }
           ]
         },
@@ -9645,6 +11127,63 @@
               "formula": "(2)",
               "explanation": "動名詞的意義主詞若是生物名詞或代名詞，可用所有格形式置於動名詞前。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "It would be fun for foreign tourists to _______ the Mazu pilgrimage because they can have a real taste of this example of local culture.",
+              "options": [
+                "start out",
+                "participate in",
+                "pass over",
+                "transform into"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：participate in"
+            },
+            {
+              "question": "Foreigners who have lived in Taiwan for some time _______ know quite a lot about our Chinese New Year traditions.",
+              "options": [
+                "might",
+                "must",
+                "did",
+                "should"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：might"
+            },
+            {
+              "question": "Tiananmen Square, _______ is one of the biggest city squares in the world, sits at the entrance of the Forbidden City in Beijing.",
+              "options": [
+                "which",
+                "that",
+                "where",
+                "it"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：which"
+            },
+            {
+              "question": "the route of the marathon, there were a few stops for the runners to have some water or snacks before they continued running.",
+              "options": [
+                "Along",
+                "Beside",
+                "Among",
+                "Aside"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：Along"
+            },
+            {
+              "question": "the chance of spotting the superstar at the airport is very slim, many of his fans are still going to wait there.",
+              "options": [
+                "As",
+                "Since",
+                "Although",
+                "If"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：Although"
             }
           ]
         }
@@ -10114,6 +11653,63 @@
               "explanation": "表「受到……的極大影響」，用來描述人因強烈的情緒或感覺而無法控制自己，其後接情感類的名詞，如：fear、joy、sadness等。此用法為被動語態，與主動的overcome（克服；戰勝）意思不同。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Fiona would rather _______ money for travel than _______ expensive clothes right now.",
+              "options": [
+                "to save; to buy",
+                "saving; buying",
+                "save; buy",
+                "saved; bought"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：save; buy"
+            },
+            {
+              "question": "Anna found the online meeting surprisingly _______ .",
+              "options": [
+                "be efficient",
+                "efficient",
+                "efficiently",
+                "efficiency"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：efficient"
+            },
+            {
+              "question": "If you _______ coming for dinner, I _______ that you bring nothing—we have plenty of food.",
+              "options": [
+                "were; insist",
+                "are; insisting",
+                "were; to insist",
+                "are; insist"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：are; insist"
+            },
+            {
+              "question": "By the time Matt turned fifty, he _______ his third Oscar.",
+              "options": [
+                "wins",
+                "has won",
+                "had won",
+                "won"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：had won"
+            },
+            {
+              "question": "It is said that the T-shirts and the shoes _______ by the singer during that concert will become a new fashion trend among teenagers.",
+              "options": [
+                "worn",
+                "wear",
+                "wearing",
+                "to wear"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：worn"
+            }
           ]
         },
         "2": {
@@ -10498,6 +12094,63 @@
               "explanation": "可用於代替前面提過的內容，以避免重複，這裡是指boat classrooms have created opportunities for high-quality education for both children and adults。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "This newspaper ran a special report _______ the life of the late former President and his dedication to democracy.",
+              "options": [
+                "on",
+                "with",
+                "for",
+                "in"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：on"
+            },
+            {
+              "question": "The manager told his colleagues that the budget for the coming year could not be more than _______ of the current year.",
+              "options": [
+                "it",
+                "this",
+                "that",
+                "there"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：that"
+            },
+            {
+              "question": "Allen, a computer engineer, can work from home. All he needs to do his job is a computer _______ the Internet.",
+              "options": [
+                "filled with",
+                "related to",
+                "opposed to",
+                "connected to"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：connected to"
+            },
+            {
+              "question": "This fitness center is _______ plenty of workout equipment, including treadmills, exercise bikes, and steppers.",
+              "options": [
+                "capable of",
+                "about to",
+                "equipped with",
+                "beneficial for"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：equipped with"
+            },
+            {
+              "question": "If Terry wants to start a business, he has to consider many different things, _______ costs, location, and marketing.",
+              "options": [
+                "instead of",
+                "such as",
+                "because of",
+                "up to"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：such as"
+            }
           ]
         },
         "3": {
@@ -10863,6 +12516,63 @@
               "formula": "after all",
               "explanation": "為轉承語，表「畢竟」，用來說明前文的理由，可置於句首、句中或句尾。after all另一個意思是「終究」，表示在各種考量或情況下最終的結果，通常置於句尾。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Studying is important, but it should never come at the _______ of your sleep or health.",
+              "options": [
+                "money",
+                "value",
+                "cost",
+                "worth"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：cost"
+            },
+            {
+              "question": "Making a schedule in advance allows Jeremy _______ his time well.",
+              "options": [
+                "manages",
+                "to manage",
+                "managed",
+                ", managing"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：to manage"
+            },
+            {
+              "question": "Ronnie saved Irene _______ being harassed by a group of drunk men at the bar.",
+              "options": [
+                "by",
+                "with",
+                "against",
+                "from"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：from"
+            },
+            {
+              "question": "Our family plans to go on a short trip together next month. The only problem is _______ we can’t find any hotels that we all like.",
+              "options": [
+                "that",
+                "why",
+                "which",
+                "because"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：that"
+            },
+            {
+              "question": "national parks, Australia has the most in the world, with more than 600.",
+              "options": [
+                "Except for",
+                "In spite of",
+                "In addition to",
+                "When it comes to"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：When it comes to"
             }
           ]
         },
@@ -11291,6 +13001,63 @@
               "formula": "after all",
               "explanation": "為轉承語，表「畢竟」，用來說明前文的理由，可置於句首、句中或句尾。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Access to the hotel’s special Business Lounge is _______ VIP guests only.",
+              "options": [
+                "beneficial to",
+                "furious at",
+                "restricted to",
+                "known as"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：restricted to"
+            },
+            {
+              "question": "Many Taiwanese locals showed their _______ for Father Yves Moal (劉一峰神父) by helping rebuild his recycling site after it was damaged in the fire.",
+              "options": [
+                "gratitude",
+                "suspect",
+                "justice",
+                "resistance"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：gratitude"
+            },
+            {
+              "question": "Heather has many years’ experience as a math teacher. _______ , she had no trouble getting a job at the cram school.",
+              "options": [
+                "Also",
+                "Therefore",
+                "Instead",
+                "However"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：Therefore"
+            },
+            {
+              "question": "LeBron James _______ be one of the greatest NBA stars to have ever played the game.",
+              "options": [
+                "believes to",
+                "is believed to",
+                "believes that",
+                "is believed that"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：is believed to"
+            },
+            {
+              "question": "Taitung _______ the annual Hot-Air Balloon Festival is held, is known for its magnificent scenery.",
+              "options": [
+                ", where",
+                ", which",
+                "where",
+                "which"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：, where"
             }
           ]
         },
@@ -11747,6 +13514,63 @@
               "explanation": "表「結果成為……；最後變得……」，用來表示「最後做了某動作或處於某狀態、身分或地點」。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "After seeing his own father suffer so much as a result of cancer, Adam was _______ find a cure for it.",
+              "options": [
+                "dying from",
+                "giving up on",
+                "determined to",
+                "connected to"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：determined to"
+            },
+            {
+              "question": "The hikers got totally lost and somehow, after four hours of walking, ended _______ back in the same spot where they had started.",
+              "options": [
+                "with",
+                "up",
+                "for",
+                "off"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：up"
+            },
+            {
+              "question": "While some readers are frustrated by the ending of J. K. Rowling’s latest novel, _______ see things very differently and quite like it.",
+              "options": [
+                "others",
+                "other",
+                "the other",
+                "another"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：others"
+            },
+            {
+              "question": "As a mother, Karen would rather sacrifice her own life than put her daughter’s _______ .",
+              "options": [
+                "on time",
+                "at risk",
+                "in charge",
+                "with care"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：at risk"
+            },
+            {
+              "question": "The UN is holding an urgent global summit _______ every member state will agree to cut their CO2 emissions as soon as possible.",
+              "options": [
+                "as soon as",
+                "when it comes to",
+                "even though",
+                "in hopes that"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：in hopes that"
+            }
           ]
         },
         "6": {
@@ -12138,6 +13962,63 @@
               "explanation": "表示「因為」，後面接名詞或名詞片語。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "Being a commuter, Lora expects the bus _______ at the stop on time every day.",
+              "options": [
+                "in arrival",
+                "arrive",
+                "arriving",
+                "to arrive"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：to arrive"
+            },
+            {
+              "question": "the ten countries Fiona has visited so far, Poland is her favorite.",
+              "options": [
+                "Of",
+                "With",
+                "On",
+                "Above"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：Of"
+            },
+            {
+              "question": "No talking is allowed once the performance begins. _______ , all cellphones should be set to silent.",
+              "options": [
+                "Fortunately",
+                "Though",
+                "In addition",
+                "In contrast"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：In addition"
+            },
+            {
+              "question": "Nowadays, it is widely accepted that a woman is just as _______ being president as any man.",
+              "options": [
+                "vulnerable to",
+                "free from",
+                "forced to",
+                "capable of"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：capable of"
+            },
+            {
+              "question": "The magician performed an amazing trick. No one could figure out _______ he did it.",
+              "options": [
+                "what",
+                "how",
+                "where",
+                "which"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：how"
+            }
           ]
         },
         "7": {
@@ -12518,6 +14399,63 @@
               "explanation": "表「若沒有／若非……」，是與現在事實相反的假設語氣。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "The manager _______ that Maurice make a final decision after evaluating the whole situation.",
+              "options": [
+                "thought",
+                "implied",
+                "demanded",
+                "appeared"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：demanded"
+            },
+            {
+              "question": "Greta Thunberg, the young Swedish activist, is a leader in the global fight _______ the environment.",
+              "options": [
+                "at",
+                "of",
+                "for",
+                "on"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：for"
+            },
+            {
+              "question": "Susan and her classmates protested _______ the school’s decision to cancel the annual sports day.",
+              "options": [
+                "by",
+                "for",
+                "from",
+                "against"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：against"
+            },
+            {
+              "question": "According to this survey, some people prefer to visit Japan while _______ want to go to European countries.",
+              "options": [
+                "the other",
+                "others",
+                "another",
+                "one"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：others"
+            },
+            {
+              "question": "The hotel guest _______ the front desk call a taxi to take him to the airport.",
+              "options": [
+                "had",
+                "kept",
+                "got",
+                "stopped"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：had"
+            }
           ]
         },
         "8": {
@@ -12886,6 +14824,63 @@
               "explanation": "可以寫成provide sth. for/to sb.，表示「為某人提供某物」。",
               "examples": []
             }
+          ],
+          "quiz": [
+            {
+              "question": "the lady donated millions of dollars to an orphanage.",
+              "options": [
+                "It is said to",
+                "It is saying",
+                "It is said that",
+                "It says to"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：It is said that"
+            },
+            {
+              "question": "Julia feels like eating at the all-you-can-eat buffet; _______ , she is afraid of gaining weight.",
+              "options": [
+                "in a word",
+                "after all",
+                "in short",
+                "on the other hand"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：on the other hand"
+            },
+            {
+              "question": ", the city government declared a day off because of the potential danger from the typhoon.",
+              "options": [
+                "As expected",
+                "On average",
+                "In large part",
+                "As a whole"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：As expected"
+            },
+            {
+              "question": "The policeman ordered that the car _______ away because it was parked illegally.",
+              "options": [
+                "towed",
+                "tow",
+                "towing",
+                "be towed"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：be towed"
+            },
+            {
+              "question": "The reason why Seth doesn’t remember his reading is _______ he studies with music and a TV show playing at the same time.",
+              "options": [
+                "which",
+                "that",
+                "how",
+                "where"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：that"
+            }
           ]
         },
         "9": {
@@ -13252,6 +15247,63 @@
               "formula": "despite/in spite of + N/V-ing",
               "explanation": "表示「儘管；雖然」。若後面要接子句，則要用despite the fact that或是although。",
               "examples": []
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Darius _______ the plants in the garden healthy with constant attention.",
+              "options": [
+                "stayed",
+                "let",
+                "kept",
+                "had"
+              ],
+              "correctIndex": 2,
+              "explanation": "正確答案為 (C)：kept"
+            },
+            {
+              "question": "Rita could do nothing but _______ as the building collapsed.",
+              "options": [
+                "watch",
+                "to watch",
+                "watched",
+                "watching"
+              ],
+              "correctIndex": 0,
+              "explanation": "正確答案為 (A)：watch"
+            },
+            {
+              "question": "Tracy’s schedule is flexible _______ allows her to meet her friends whenever it is convenient for them.",
+              "options": [
+                "which",
+                ", which",
+                "that",
+                ", that"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：, which"
+            },
+            {
+              "question": "After fourteen days of searching, _______ , the rescue team found two people still alive in the debris from the earthquake.",
+              "options": [
+                "in the meanwhile",
+                "in this regard",
+                "to this day",
+                "to everyone’s surprise"
+              ],
+              "correctIndex": 3,
+              "explanation": "正確答案為 (D)：to everyone’s surprise"
+            },
+            {
+              "question": "Lisa and Shelly are trying on some clothes in the shop. _______, their boyfriends are across the street in the comic book store.",
+              "options": [
+                "However",
+                "Meanwhile",
+                "Moreover",
+                "Therefore"
+              ],
+              "correctIndex": 1,
+              "explanation": "正確答案為 (B)：Meanwhile"
             }
           ]
         }

@@ -901,42 +901,54 @@ function loadNextQuestion() {
         
         renderUnscrambleGame();
     } else if (activeGameMode === 'boss') {
-        // Boss fight grammar fill-in
+        // Boss fight grammar multiple-choice quiz
         const lessonData = appData.books[currentBook].lessons[currentLesson];
-        const grammars = lessonData.grammar;
         
-        if (!grammars || grammars.length === 0) {
-            viewport.innerHTML = '<p class="slide-placeholder">本課無文法句型資料，魔王感到無趣並離去！</p>';
-            return;
-        }
-        
-        // Select a random grammar point, try to generate a question, fallback to others if needed
-        let qGrammar = null;
-        let qData = null;
-        
-        // Shuffle the grammar list so we don't always pick the same one
-        const shuffledGrammars = [...grammars].sort(() => Math.random() - 0.5);
-        for (let g of shuffledGrammars) {
-            qData = generateGrammarQuestion(g);
-            if (qData) {
-                qGrammar = g;
-                break;
+        // 1. Prefer real exam questions parsed from the quiz documents
+        if (lessonData.quiz && lessonData.quiz.length > 0) {
+            const qItem = lessonData.quiz[Math.floor(Math.random() * lessonData.quiz.length)];
+            
+            gameState.currentQuestion = {
+                questionText: `【隨堂複習考選擇題】\n\n"${qItem.question}"`,
+                options: qItem.options,
+                correctIndex: qItem.correctIndex,
+                explanation: qItem.explanation
+            };
+            
+            renderBossFight();
+        } else {
+            // 2. Fallback to dynamic grammar question generation from lesson examples
+            const grammars = lessonData.grammar;
+            if (!grammars || grammars.length === 0) {
+                viewport.innerHTML = '<p class="slide-placeholder">本課無文法句型資料，魔王感到無趣並離去！</p>';
+                return;
             }
+            
+            let qGrammar = null;
+            let qData = null;
+            const shuffledGrammars = [...grammars].sort(() => Math.random() - 0.5);
+            for (let g of shuffledGrammars) {
+                qData = generateGrammarQuestion(g);
+                if (qData) {
+                    qGrammar = g;
+                    break;
+                }
+            }
+            
+            if (!qData) {
+                viewport.innerHTML = '<p class="slide-placeholder">暫無適合的例句進行魔王戰，請確認文法資料</p>';
+                return;
+            }
+            
+            gameState.currentQuestion = {
+                questionText: `【課文句型：${qGrammar.formula}】\n\n中文意旨：${qData.chinese}\n\n"${qData.questionText}"`,
+                options: qData.options,
+                correctIndex: qData.options.indexOf(qData.target),
+                explanation: qGrammar.explanation
+            };
+            
+            renderBossFight();
         }
-        
-        if (!qData) {
-            viewport.innerHTML = '<p class="slide-placeholder">暫無適合的例句進行魔王戰，請確認文法資料</p>';
-            return;
-        }
-        
-        gameState.currentQuestion = {
-            questionText: `【課文句型：${qGrammar.formula}】\n\n中文意旨：${qData.chinese}\n\n"${qData.questionText}"`,
-            options: qData.options,
-            correctIndex: qData.options.indexOf(qData.target),
-            explanation: qGrammar.explanation
-        };
-        
-        renderBossFight();
     }
 }
 
